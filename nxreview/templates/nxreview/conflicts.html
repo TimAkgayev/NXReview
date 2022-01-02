@@ -1,0 +1,12 @@
+{% load array_access_filter %}
+
+<h1> Conflicts </h1>
+
+<form>
+{% for conflict in conflictTopicList %}
+    <p>Is "{{conflict}}" the same as "</p>
+    {% for resolution in closeMatchMap|array_access:forloop.counter0 %}
+        <input type ="radio" name = "{{conflict}}" value="{{resolution}}">
+    {% endfor %}
+{% endfor %}
+</form>

@@ -1,0 +1,5 @@
+env_nxreview
+db.sqlite3
+nxreview/__pychache__
+nxreview/migrations
+base_nxreview/__pychache__
