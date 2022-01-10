@@ -1,1 +1,17 @@
-<h1> Review </h1>
+{%extends "nxreview/base.html" %}
+
+{%block content%}
+
+
+<div id="review-grid">
+
+    {% for topic in topics %}
+    <div class ="grid-item"> {{topic.title}}  </div> 
+    <div class ="grid-item"> {{topic.text}} </div> 
+    {% endfor %}
+  
+            
+</div>
+
+
+{%endblock content%}

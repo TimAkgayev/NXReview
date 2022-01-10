@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>NCLEX Review</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {%load static%}<link rel="stylesheet" type="text/css" href="{%static 'nxreview/css/styles.css' %}" />
+    </head>
+    
+    <body>
+        <header class ="center">
+            <nav>
+                <a href = "#" class = "nav-link"> Review </a>
+                <a href = "#" class = "nav-link"> Quiz </a>
+            </nav>
+        
+        </header>
+        
+        <main class = "center">
+        
+            {% block content %} 
+            
+            {% endblock content %}
+            
+        </main>
+    </body>
+
+</html>
+
