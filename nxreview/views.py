@@ -1,7 +1,8 @@
 from typing import Sized
 from django.shortcuts import render, redirect
-from .models import Topic
+from .models import Topic, Conflict
 import xml.etree.ElementTree as ET
+from xml.dom import minidom
 import difflib
 from .forms import ConflictResolutionForm
 
@@ -9,86 +10,127 @@ from .forms import ConflictResolutionForm
 def index(request):
     """Home page view"""
     
-    #open XML file and check it against the DB
-    #Merge any duplicate topics 
-    
-    
+    #Parse xml files to produce a list of all tags
+    xmlTopicList = openAndParseXML('Review.xml')
 
-    #check DB Size
-    dbSize = len(Topic.objects.all())
-    if dbSize == 0: 
-       
-        topicList = openAndParseXML('Review.xml')
-        #check each topic to see if it exists in the database
-        topicConflicts = [] 
-        closeMatchMap = {}
-        for topic in topicList:
-            #extract titles in the existing database
-            db = Topic.objects.all()
-            dbTitleList = []
-            for dbitem in db:
-                dbTitleList.append(dbitem.title)
+    Topic.objects.all().delete()
+    Conflict.objects.all().delete()
 
-            #find any close matches between topic and existing titles
-            cm = difflib.get_close_matches(topic.title, dbTitleList,cutoff=0.7)
-            if len(cm) > 0:
-                #add conflicts to list for review
-                closeMatchMap[len(topicConflicts)] = cm
-                topicConflicts.append(topic.title)
+    #Go through the xml tag list and add it to the Topic list
+    for xmlTopic in xmlTopicList:
+        topic = Topic()
+        topic.title = xmlTopic.title
+        topic.text = xmlTopic.text
+        topic.save()
+
+    #Go through the topic list and for each item check it with every other item on the list
+    conflictMap = {}
+    topicsWithConflicts = []
+    topicIDsToRemove = []
+    for topic in Topic.objects.all():
+        conflicts = []
+        #for each topic get a list of possible conflicts
+        for comparison in Topic.objects.all():
+            if topic.id == comparison.id:
+                continue
+            #make sure topic is not marked to removed already
+            isRemoved = False
+            for tid in topicIDsToRemove:
+                if topic.id == tid:
+                    isRemoved = True
                 
-            else:
-                #no conflicts, insert into DB
-                Topic.objects.create(title=topic.title, text=topic.text)
+            if isRemoved == True:
+                continue
 
-        #send page to render either the conflict view or the homepage
-        if topicConflicts != 0:
-            context = {'conflictTopicList':topicConflicts, 'closeMatchMap':closeMatchMap}
-            return render(request, 'nxreview/conflicts.html', context)
+            comparisonTitle = [comparison.title]
+            closeMatchList = difflib.get_close_matches(topic.title, comparisonTitle, cutoff=0.7)
+            if len(closeMatchList) > 0:
+                conflicts.append(comparison)
+        if len(conflicts) > 0:
+            possibleConflicts = []
+            for conflicting in conflicts:
+                #add each to Conflict list
+                conflict = Conflict()
+                conflict.title = conflicting.title
+                conflict.text = conflicting.text  
+                conflict.save()
+                #add each to local list
+                possibleConflicts.append(conflict)
+                #mark topic for removal from Topic list
+                topicIDsToRemove.append(conflicting.id)
+                
 
-    context = {'topics': Topic.objects.all()}
-    return render(request, 'nxreview/index.html', context)
+            #add a map entry
+            conflictMap[len(topicsWithConflicts)] = possibleConflicts
+            
+           
+
+            #add topic to local list of conflicting topics
+            topicsWithConflicts.append(topic)
+
+    #go through the list and actually remove the topics 
+    for tid in topicIDsToRemove:
+        Topic.objects.filter(id=tid).delete()           
+
+    #send conflict list and resolution map for user review
+    if len(topicsWithConflicts) != 0:
+        context = {'conflictList':topicsWithConflicts, 'closeMatchMap':conflictMap}
+        return render(request, 'nxreview/conflicts.html', context)
+
+    else:
+        context = {'topics': Topic.objects.all()}
+        return render(request, 'nxreview/index.html', context)
    
 def conflicts(request):
     if request.method == "POST":
-        #Go through each conflict item
 
-        dbItems = Topic.objects.all()
-        for key in request.POST:
-
-            isDBObjFound = False
-            #Find the conflict item in the database
-            for obj in dbItems:
-                if obj.title == key:
-                    dbObject = obj
-                    isDBObjFound = True
-
-            if isDBObjFound == False:
-                continue
-
-            #Find both items in the XML
-            xmlItems = openAndParseXML('Review.xml')
-            duplicateXMLTopics = []
-            for obj in xmlItems:
-                if obj.title == key:
-                    duplicateXMLTopics.append(obj)
-            
-            #Merge xml items
-            mergedTopic = Topic()
-            mergedTopic.title = key
-            for obj in duplicateXMLTopics:
-                mergedTopic.text += obj.text
-                mergedTopic.text += "\n"
-
-            #Update the database item with the merged one
-            dbObject.delete()
-            Topic.objects.create(title=mergedTopic.title, text=mergedTopic.text)
-
-            return redirect('nxreview:index')
-
+        breakpoint()
+        val = 10
+        val += 1
+  
+        #go back to main page
+        return redirect('nxreview:index')
     else:
         return render(request, 'conflicts.html')
 
+'''
+        for key, value in request.POST.items():
+            #check if the new topic is found, if not go on to the next item 
+            if key.isnumeric() == False:
+                continue
+            newTopic = Conflict.objects.filter(id=key).first()
+            if newTopic == None:
+                continue
 
+            #check if a possible resolution is found, if not check if the value is none, if not go on to next topic
+            if value == "none":
+                    #no resolution needed, just add the object as is
+                    continue
+            if value.isnumeric() == False:
+                continue
+'''
+           
+
+'''
+
+        #after all conflicts have been resolved, rewrite the xml with no repeats 
+        tree = ET.parse('Review.xml')
+        root = tree.getroot()
+        root.clear()
+        for item in NonConflict.objects.all():
+            e = ET.Element(item.title.strip())
+            e.text = "\r\t\t"+item.text.strip()+"\n\t"
+            root.append(e)
+
+        #prettyfy and save the xml
+        prettyXMLStr = minidom.parseString(ET.tostring(root)).toprettyxml(newl="\n\n")
+        with open("Review.xml", "w") as f:
+            f.write(prettyXMLStr)
+            
+            
+'''
+        
+        
 
                 
 def openAndParseXML(xmlfile):

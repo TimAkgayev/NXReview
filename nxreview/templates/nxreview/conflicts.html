@@ -4,13 +4,13 @@
 
 <form action="{%url 'nxreview:conflicts_page' %}" method="post">
 {% csrf_token %}
-{% for conflict in conflictTopicList %}
-    <p>Is "{{conflict}}" the same as </p>
+{% for conflict in conflictList %}
+    <p>Is "{{conflict.title}}" the same as </p>
     {% for resolution in closeMatchMap|array_access:forloop.counter0 %}
-        <input type ="radio" id="{{resolution}}"name = "{{conflict}}" value="{{resolution}}">
-        <label for = "{{resolution}}"> {{resolution}} </label>
+        <input type ="checkbox" id="{{resolution.id}}" name = "{{conflict.id}}" value="{{resolution.id}}">
+        <label for = "{{resolution.id}}"> {{resolution.title}} </label>
     {% endfor %}
-    <input type ="radio" id="none" name="{{conflict}}" value="none">
+    <input type ="checkbox" id="none" name="{{conflict.id}}" value="none">
     <label for = "none"> none </label>
 {% endfor %}
 <br>
