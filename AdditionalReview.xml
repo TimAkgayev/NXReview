@@ -1,0 +1,53 @@
+<topics-to-review>
+
+
+
+<foods-to-check>
+Cauliflower, carrots
+Lookup various food families
+Blackberries, blueberries, watermelon
+Orange juice, banana 
+Dry beans, potatoes
+Lasagna
+Green vegies
+Beets
+Spinach
+nuts
+Milk
+avocado
+Tuna
+Peanut butter
+Apples
+Cabbage
+</foods-to-check>
+
+
+<medications>
+
+    <digoxin></digoxin>
+
+    
+
+    <high-power-antibiotics>
+
+        <vancomycin>
+        Combination with furosemide increases ototoxicity
+        Combination with digoxin increases digoxin toxicity
+        </vancomycin>
+
+    </high-power-antibiotics>
+
+</medications>
+
+</topics-to-review>
+
+
+<study-fields>
+
+Statistics/R
+Django/Python/React
+Genetics
+Android/Kotlin
+Math 
+
+</study-fields>

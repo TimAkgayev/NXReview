@@ -16,7 +16,7 @@ def index(request):
     Topic.objects.all().delete()
     Conflict.objects.all().delete()
 
-    #Go through the xml tag list and add it to the Topic list
+    #Go through the tag list and add it to the Topic list
     for xmlTopic in xmlTopicList:
         topic = Topic()
         topic.title = xmlTopic.title
@@ -62,13 +62,11 @@ def index(request):
 
             #add a map entry
             conflictMap[len(topicsWithConflicts)] = possibleConflicts
-            
-           
-
+        
             #add topic to local list of conflicting topics
             topicsWithConflicts.append(topic)
 
-    #go through the list and actually remove the topics 
+    #go through the list and actually remove the topics which are in conflict 
     for tid in topicIDsToRemove:
         Topic.objects.filter(id=tid).delete()           
 
@@ -84,16 +82,6 @@ def index(request):
 def conflicts(request):
     if request.method == "POST":
 
-        breakpoint()
-        val = 10
-        val += 1
-  
-        #go back to main page
-        return redirect('nxreview:index')
-    else:
-        return render(request, 'conflicts.html')
-
-'''
         for key, value in request.POST.items():
             #check if the new topic is found, if not go on to the next item 
             if key.isnumeric() == False:
@@ -108,13 +96,10 @@ def conflicts(request):
                     continue
             if value.isnumeric() == False:
                 continue
-'''
-           
 
-'''
 
         #after all conflicts have been resolved, rewrite the xml with no repeats 
-        tree = ET.parse('Review.xml')
+        tree = ET.parse('RewriteReview.xml')
         root = tree.getroot()
         root.clear()
         for item in NonConflict.objects.all():
@@ -124,15 +109,17 @@ def conflicts(request):
 
         #prettyfy and save the xml
         prettyXMLStr = minidom.parseString(ET.tostring(root)).toprettyxml(newl="\n\n")
-        with open("Review.xml", "w") as f:
+        with open("RewriteReview.xml", "w") as f:
             f.write(prettyXMLStr)
             
-            
-'''
         
-        
+        #go back to main page
+        return redirect('nxreview:index')
+    else:
+        return render(request, 'conflicts.html')
 
-                
+
+                  
 def openAndParseXML(xmlfile):
     tr = ET.parse(xmlfile)
     rt = tr.getroot()

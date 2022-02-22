@@ -758,7 +758,7 @@ Suppress the production of breastmilk, if the client is breastfeeind other metho
 Normal is 21 or below
 </intra-ocular-pressure>
 
-<glucoma>
+<glaucoma>
 If the pressure readings are borderline, pressure should be take at multiple points throughout the day.
 Secondary glaucoma could be caused by neurovasuclar disorders, such as CVAs.
 Vision loss occurs in peripheral vision initially.
@@ -899,7 +899,7 @@ Diet needs to be low in protein, sodium, potassium and phosphorus.
 Blood glucose less than 60mg/dL
 Treatments when concious - 15-20g of rapid acting sugars such as 4oz fruit juice or soda, 8 oz milk, tablespoon of sugar
 Treatments when semiconcious - 1mg glucagon IM or SC or 25-50 mg 50% dextrose IV.
-<hypoglycemia>
+</hypoglycemia>
 
 <macular-degeneration>
 After surgery the client has to remain face down. 
@@ -963,7 +963,7 @@ Cannot delegate teaching or tasks that require assessment.
 Causes the body to retain too much water.
 Dilutional hyponatremia occurs.
 Hypervolemia causes tachycardia.
-Treatment includes restricting fluid intake to 500-600ml/24h, diuretics, daily weights and strict I&O
+Treatment includes restricting fluid intake to 500-600ml/24h, diuretics, daily weights and strict intake and output.
 End result is seizures and brain swelling. 
 </syndrome-of-inappropriate-antidiuretic-hormone-secretion>
 
@@ -999,7 +999,7 @@ Drink a solution high in sodium and potassium.
 
 <cyanosis>
 In dark skinned clinets assesed on light skin areas such as the soles of feet and palms of hands, oral cavity membranes and conjunctiva with bluish or light gray color.
-</cyanosi>
+</cyanosis>
 
 <post-traumatic-stress-disorder>
 Tendancy for violence and suicide. 
@@ -1065,7 +1065,7 @@ Erikson - Trust vs Mistrust
 
 <toddler>
 Ages 1 - 3
-Erikson - Autonomy vs Shame & Doubt
+Erikson - Autonomy vs Shame and Doubt
 Speaks in sdgments of 3-4 words.
 Able to express likes and dislikes. 
 Assertion of independence
@@ -1214,7 +1214,7 @@ Avoid overexposure to heat or cold - may damage areas that have lost sensation. 
 Interferes with bone remodeling, causes enlarged skull, curving of leg bones, bones become weaker.
 Elevated serum alkaline phosphatase (ALP).
 Treated with same medications as osteoporosis (biphosphonates).
-</Paget-diseaes>
+</Paget-disease>
 
 <overdose>
 Check for responsiveness and breathing rate - if none begin CPR
@@ -1395,7 +1395,7 @@ Autoimmune condition which affects the myelination of the nerves.
 Treatments could include plasma exchange and immunoglobulin therapy.
 Has no effect on cognitive function.
 Recovery happens in 90% of cases but usually takes several months to a few years.
-</Gullain-Barre-Syndrome>
+</Guillain-Barre-Syndrome>
 
 <central-venous-access>
 Femoral site has a higher chance for infection, femoral site is only used if subclavian site is unavailble.
@@ -1447,7 +1447,7 @@ Resume compressions at rate of 30:2
 Writing false information about someone
 </libel>
 
-<prenatal-diagnosics>
+<prenatal-diagnostics>
 Glucose tolerance test
 HIV test
 Hep B test
@@ -1539,38 +1539,30 @@ Administered with 18G catheter.
 Should be administered in less than 4 hours to prevent bacterial contamination.
 </packed-red-blood-cells>
 
+<loop-diuretic>
+Examples: furosemide, bumetanide, torsemide
+They are potassium wasting. 
+</loop-diuretic>
+
+<interpersonal-behviour>
+Do not ask why questions, they are confrontational even before the facts are known.
+Do involve emotional aspects into your questions as they are also confrontational.
+</interpersonal-behviour>
+
+<aspirin>
+Could be taken alongside clopidogrel.
+</aspirin>
+
+<hepatitis-a>
+Fecal-oral route.
+Not transmitted through the blood.
+Traveling to high to medium level affected couintries such as Africa, South America, and Asia.
+</hepatitis-a>
+
+<blood-pressure>
+Optimal position for measuring BP is sitting upright. Laying down may incrase the reading by as much as 8 mmHg
+</blood-pressure>
+
 </review>
 
-<topics-to-review>
 
-<foods-to-check>
-Cauliflower, carrots
-Lookup various food families
-Blackberries, blueberries, watermelon
-Orange juice, banana 
-Dry beans, potatoes
-Lasagna
-Green vegies
-Beets
-Spinach
-nuts
-Milk
-avocado
-Tuna
-Peanut butter
-Apples
-Cabbage
-</foods-to-check>
-
-</topics-to-review>
-
-
-<study-fields>
-
-Statistics/R
-Django/Python/React
-Genetics
-Android/Kotlin
-Math 
-
-</study-fields>
