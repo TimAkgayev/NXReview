@@ -1,0 +1,34 @@
+    Parsing
+        Parse XML producing the Topic list
+        
+        list _conflict_db_(Conflict)
+        list _interpage_contested_(Topic)
+        map _interpage_conflictMap_(Int:<Topic>)
+        for each element
+            check if it's on the _conflict_db_ list if not
+                list _local_matches_(Topic)
+                check it with the rest of the list to find any similar entries, out of those entries make a list _local_matches_
+                add the _local_matches_ list to a conglomorate list called _conflict_db_
+                add the _local_matches_ list to a map _interpage_conflictMap_ {index(_interpage_contested_) : _local_matches_}
+                add the element to a list called _interpage_contested_
+
+        for each element on the _conflict_db_ list, remove them from the Topic list
+        
+        send _interpage_contested_ list and _interpage_conflictMap_ map to user for verification
+
+
+    Verification:
+        show list of _interpage_conflictMap_ to the user
+        user pickes which elements resolve the _interpage_contested_
+        a map of {_interpage_contested_:<_matched_>} is generated
+
+    Resolution:
+        for each element of the map of {_interpage_contested_:<_matched_>}
+            for each element in <_matched>
+                get _matched_ from the _conflict_db_ list and merge it into _interpage_contested_ from the Topic list
+                remove _matched_ from _conflict_db_ list
+            add remaining elements on the _conflict_db_ list back into the Topic list
+        
+        rewrite the XML based on the existing Topic list
+        redirect back to Parsing
+         
