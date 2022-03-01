@@ -6,6 +6,8 @@ from xml.dom import minidom
 import difflib
 from .forms import ConflictResolutionForm
 
+resolvedMap = {}
+
 # Create your views here.
 def index(request):
     """Home page view"""
@@ -16,8 +18,7 @@ def index(request):
     Topic.objects.all().delete()
     Conflict.objects.all().delete()
 
-    #Go through the tag list and add it to the Topic list
-    for xmlTopic in xmlTopicList:
+    #Go through the tag list and add it to the Topic database list
         topic = Topic()
         topic.title = xmlTopic.title
         topic.text = xmlTopic.text
@@ -29,23 +30,21 @@ def index(request):
     topicIDsToRemove = []
     for topic in Topic.objects.all():
         conflicts = []
-        #for each topic get a list of possible conflicts
+        #get a list of possible conflicts for this topic
         for comparison in Topic.objects.all():
             if topic.id == comparison.id:
                 continue
-            #make sure topic is not marked to removed already
-            isRemoved = False
-            for tid in topicIDsToRemove:
-                if topic.id == tid:
-                    isRemoved = True
-                
-            if isRemoved == True:
-                continue
-
+            #make sure topic is not marked to be removed already
+            for rid in topicIDsToRemove:
+                if topic.id == rid:
+                    continue
+        
             comparisonTitle = [comparison.title]
             closeMatchList = difflib.get_close_matches(topic.title, comparisonTitle, cutoff=0.7)
             if len(closeMatchList) > 0:
                 conflicts.append(comparison)
+
+        #save the conflicts and remove them from the main list 
         if len(conflicts) > 0:
             possibleConflicts = []
             for conflicting in conflicts:
@@ -58,7 +57,6 @@ def index(request):
                 possibleConflicts.append(conflict)
                 #mark topic for removal from Topic list
                 topicIDsToRemove.append(conflicting.id)
-                
 
             #add a map entry
             conflictMap[len(topicsWithConflicts)] = possibleConflicts
@@ -82,27 +80,48 @@ def index(request):
 def conflicts(request):
     if request.method == "POST":
 
+       
         for key, value in request.POST.items():
-            #check if the new topic is found, if not go on to the next item 
+            #only process numberic entries 
             if key.isnumeric() == False:
                 continue
-            newTopic = Conflict.objects.filter(id=key).first()
-            if newTopic == None:
+
+            #find the topic in question
+            originalTopic = Topic.objects.filter(id=key).first()
+            if originalTopic == None:
                 continue
 
             #check if a possible resolution is found, if not check if the value is none, if not go on to next topic
-            if value == "none":
-                    #no resolution needed, just add the object as is
+            if value == "none" or value.isnumeric() == False:
+                    #no resolution needed, just leave the topic as is
                     continue
-            if value.isnumeric() == False:
-                continue
 
+            #merge the resolutions into the original topic
+            for resolutionID in value:
+                resolution = Conflict.objects.filter(id=resolutionID).first()
+                if resolution == None:
+                    continue
+                
+                originalTopic.text += "\n" + resolution.text
+                originalTopic.save()
+
+                #remove the topic from the conflict list
+                resolution.delete()
+
+        #move the remaining topics on the conflict list into the main list
+        for conf in Conflict.objects.all():
+            newTopic = Topic()
+            newTopic.text = conf.text
+            newTopic.title = conf.title
+            newTopic.save()
+        Conflict.objects.all().delete()    
+           
 
         #after all conflicts have been resolved, rewrite the xml with no repeats 
         tree = ET.parse('RewriteReview.xml')
         root = tree.getroot()
         root.clear()
-        for item in NonConflict.objects.all():
+        for item in Topic.objects.all():
             e = ET.Element(item.title.strip())
             e.text = "\r\t\t"+item.text.strip()+"\n\t"
             root.append(e)
@@ -114,10 +133,12 @@ def conflicts(request):
             
         
         #go back to main page
-        return redirect('nxreview:index')
+        return redirect('nxreview:index') 
+
     else:
         return render(request, 'conflicts.html')
 
+ 
 
                   
 def openAndParseXML(xmlfile):
