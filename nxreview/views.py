@@ -19,6 +19,7 @@ def index(request):
     Conflict.objects.all().delete()
 
     #Go through the tag list and add it to the Topic database list
+    for xmlTopic in xmlTopicList:
         topic = Topic()
         topic.title = xmlTopic.title
         topic.text = xmlTopic.text
