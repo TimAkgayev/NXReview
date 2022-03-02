@@ -6,7 +6,7 @@ from xml.dom import minidom
 import difflib
 from .forms import ConflictResolutionForm
 
-resolvedMap = {}
+
 
 # Create your views here.
 def index(request):
