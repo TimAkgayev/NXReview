@@ -48,6 +48,7 @@ def index(request):
         #save the conflicts and remove them from the main list 
         if len(conflicts) > 0:
             possibleConflicts = []
+            possibleConflictIDs = []
             for conflicting in conflicts:
                 #add each to Conflict list
                 conflict = Conflict()
@@ -56,8 +57,11 @@ def index(request):
                 conflict.save()
                 #add each to local list
                 possibleConflicts.append(conflict)
+                possibleConflictIDs.append(conflict.id)
                 #mark topic for removal from Topic list
                 topicIDsToRemove.append(conflicting.id)
+
+            resolvedMap[topic.id] = possibleConflictIDs
 
             #add a map entry
             conflictMap[len(topicsWithConflicts)] = possibleConflicts
@@ -105,6 +109,11 @@ def conflicts(request):
                 
                 originalTopic.text += "\n" + resolution.text
                 originalTopic.save()
+
+                #remove entry from resoution map
+                for resID in resolvedMap[key]:
+                    if resolutionID == resID:
+                        resolvedMap[key].remove(resolutionID)
 
                 #remove the topic from the conflict list
                 resolution.delete()
