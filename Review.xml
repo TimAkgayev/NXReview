@@ -1,9 +1,10 @@
 <review>
 
-<heparin>
-PTT control is 38 seconds, theraputic should be 1.5 - 2.5 x control
-Petechia on chest is an adverse effect
-</heparin>
+<coagulation>
+Prothrombin Time - monitors <blr>extrnisic</blr> pathway and <blr>warfarin</blr> therapy - normal values are <blr>11-12</blr> seconds. Theraputic values are <blr>22-36</blr> seconds.
+INR = (measured PT) / (reference PT)
+Partial thromboplastin time - monitors <blr>intrinsic</blr> pathway - normal range is <blr>25-35</blr> seconds. Theraputic values of <blr>60-100</blr> seconds (1.5 - 2.5x)
+</coagulation>
 
 <phlebitis>
 Discontinue infusion and apply a warm soak, document
@@ -17,12 +18,12 @@ Monitor clients for first 15 min then periodically after
 </transfusion>
 
 <urine>
-Normal out put is 800 to 2000 mL/day ()
+Normal out put is 800 to 2000 mL/day (30-80 ml/hour)
 </urine>
 
 <benzodiazepines>
 Don't ambulate clients after administering a benzo, even to the bathroom
-Don't administer an opiod after, due to risk of respiratory depression
+Don't administer an opiod after a benzo, due to risk of respiratory depression
 </benzodiazepines>
 
 
@@ -1821,7 +1822,696 @@ Blood vessel constriction with stress or cold, usually effects the nose and fing
 Treatment isn't needed. 
 </reynold-syndrome>
 
+<theophylline>
+Used as tablets to control asthma, by relaxing airway muscles.
+Theraputic range is 10-20 mcg/ml of blood. Toxicity is over 20 mcg/ml
+</theophylline>
 
+<digoxin>
+Normal levels is between 0.5 - 2ng/ml
+</digoxin>
+
+<lithium>
+Theraputic range for initial management is 1 - 1.5 mEq. Management doses are lower at 0.8 - 1.2 mEq/L .
+</lithium>
+
+<wet-to-dry-dressing>
+Usually requires pain medication.
+Used as a method of debridment, lower layers dry and pull of eschar.
+Remove old tape - pull parallel to skin, towards the dressing.
+</dressing-change>
+
+<feeding-tube>
+During insertion if patient is coughing the tube is in the trachea, remove the tube and let patinet rest before attempting reinsertion.
+</feeding-tube>
+
+<peritoneal-dialysis>
+Abdominal pain is common during the first few exchanges. It's due to peritonieal irritation. It usually subsides in 1 to 2 weeks of treatment.
+</peritoneal-dialysis>
+
+<vegan-diet>
+Lack vitamin D, Calcium from dairy and Vit B12, and Iron from meats.
+Have vitamin B1 and A which are found in vegies.
+</vegan-diet>
+
+<pregnancy-nausea>
+Associated with an increase in human chorionic gonadotropin hormone.
+Could start as early as 4 weeks.
+Should diminish by 14th week of pregnancy.
+Eating a dry carbohydrate immediately upon arising.
+Eating more protein with an evening meal might help, like a bedtimes snack of penut butter or cheese.
+Eat salty or sour food (potato chips or lemonade) during periods of nausea.
+Consume ginger foods or teas.
+Don't brush teeth immediately after eating.
+Do not delay meals, excessive hunger could cause nausea. 
+Avoid consuming fluids early in the day, during nausea or after meals.
+</pregnancy-nausea>
+
+<asthma>
+For kids, give the inhaler and spacer to nurse not teacher and don't have them carry it with them. 
+</asthma>
+
+<sudden-vaginal-bleeding>
+Ask when the first day of last period was to determine if it's a possible spontaneous abortion.
+Ask when bleeding started to estimate blood loss.
+</sudden-vaginal-bleeding>
+
+<statin>
+Common side effects: rash, headach, GI disturbances.
+Important side effect: muscle pain or tenderness - could indicate myositis or muscle inflammation which could lead
+to rhabdomyolysis, which could lead to kidney failure.
+</statin>
+
+<paracentesis>
+Removal of fluid from the abdomen.
+Positioned in a supine position with head of bed slightly elevated.
+</paracentesis>
+
+<pheochromocytoma>
+Benign tumor of the adrenal glands, causes hypertension.
+</pheochromocytoma>
+
+<pre-filled-syringe>
+Do not expell the air bubble. It prevents leakage by pushing the medicine into the tissue.
+</pre-filled-syringe>
+
+<social-readjustment-rating-scale>
+Rates life events on a scale of most stressful to least, some common ones:
+
+Death of a spouce (100)
+Divorce (76)
+Jail Term (63)
+Death of close family member (63)
+Fired at work (47)
+Foreclosure (30)
+Children leaving home (29)
+Trouble with boss (23)
+Minor violation of the law (11)
+</social-readjustment-rating-scale>
+
+<beginning-of-labor>
+Bloody show - vaginal discharge with a little blood indicates the end of pregnancy and begnning of labor.
+Contractions are felt in lower black 
+Fetal movement decreases
+</beginning-of-labor>
+
+<personal-protective-equipment>
+Remove the PPE just prior (not after) existing the containemnt room.
+</personal-protective-equipment>
+
+<lower-back-pain>
+Best position for pain relief is in bed with head levated 45 degrees and knees moderately flexed - flexingin the knees relieves pressure on the sciatic nerve.
+Knees should be higher than hips.
+</lower-back-pain>
+
+<informed-concent>
+Should be obtained from next of kin or spouce if the client is not mentally competent.
+</informed-concent>
+
+<heel-pressure-injury>
+Place a roll under calf, not under achilles tendon as that will cause injury.
+Wear socks when in bed to reduce injury from friction.
+Do not massage the area as that will increase tissue breakdown.
+</heel-pressure-injury>
+
+<crutches>
+Should be kept 8-10 inches to the side.
+Elbows flexed at 20-30 degrees.
+</crutches>
+
+<incident-report>
+Do not document the fact that incident report was filed in the client's health record.
+</incident-report>
+
+<post-anesthesia>
+Fine crackles are an expected finding. 
+</post-anesthesia>
+
+<A1C-hemoglobin>
+Normal levels are 4-6%
+</A1C-hemoglobin>
+
+<calcium>
+Protein bound, so with low protein calcium could be low as well.
+</calcium>
+
+<wound-healing>
+Monitor albumin (norm: 3.5-5) and total protein.
+Adequate intake of protein, vitamin C and zinc.
+Foods such as meat (protein and zinc), legumes (zinc), nuts (zinc), dairy (zinc)
+</wound-healing>
+
+<oral-steroids>
+Are ulcerogenic and should be adminsted with meals.
+</oral-steroids>
+
+<pediatric-vitals>
+See pediatric_vitals.png chart in the downloads folder.
+</pediatric-vitals>
+
+<neonate-ointment>
+Usually tetracycline or erythromycin.
+Prevents opthalmia neonatorum, caused by gonorrheal or chalmydial infection.
+</neonate-ointment>
+
+<atrial-fibrillation>
+Could be treateed with amiodarone and digoxin, watch for toxicities such as blurred vision and halos.
+</atrial-fibrillation>
+
+<contrast>
+If given to renal patient, time with dialysis to immediately remove the contrast from the blood.
+Oral contrast could contain a laxative to prevent constipation and promote explusion, so diarrhea is normal after the procedure.
+</contrast>
+
+<Addisons-disease>
+Hypoglycemia - due to lack of cortisol. 
+Hyperpigmentation - caused by excess ACTH
+Weight loss - due to continued loss of water
+Low blood pressure
+</Addisons-disease>
+
+<common-supplements>
+Feverfew - used to prevent migranes, interacts with platelet aggregation and so should not be used with aspirin and warfarin/heparin.
+Echinacea - used to decrease inflammation and manage infections, suppresses immune system should not be combined with HIV, TB or cancer medications.
+Valerian - interacts with depressent meds.
+St.John's wort - treats depression, interacts with antidepressants and could cause excess serotonin and serotonin syndrome.
+</common-supplements>
+
+<pregnancy-adaptations>
+Blood pressure decreases as the pregnancy goes on in response to vasodialating effect of progesterone.
+</pregnancy-adaptations>
+
+<pediatric-pain-management>
+Neonate - Infant (0-1):  sucrose on the pacifier, swaddling and swaying.
+Toddler - Preschooler (1-5): toys books, singing.
+School age - video games, tv
+</pediatric-pain-management>
+
+<Self-Determination-Act>
+Requires providers to provide information to clients about the patient rights, so they can make a decision for themselves.
+</Self-Determination-Act>
+
+<omnibus-budget-reconciliation-act>
+Provides clients with rights to be free from physical or chimical restraints as a method of discipline or convience. 
+</omnibus-budget-reconciliation-act>
+
+<tarasoff-ruling>
+Required reporting of planned self harm or harm to others.
+</tarasoff-ruling>
+
+<insulin>
+Lispro - very fast acting - onset 15-30 min, peak on 30 min to 90 min, duration 3-5 hours.
+Regular - onset 30-60min, 1-5 hours peak, duration 6-10 hours.
+Neutral Protamine Hagedorn - intermediate acting, peak action of 4-12 hours, duration of 16 hours.
+Glargine - onset 3-4 hours, no peak, 24 hours duration.
+</insulin>
+
+<kidney-stones>
+Calcium oxalate - comes from green leafy vegetalbes, like rhubarb, also cola, tea, chocolate and high doses of vitamin C.
+Struvite stones - associated with urinary tract infectionotin, need to acidify the urine by increaseing egg consumption, as well as consumption of fish and cranberries.
+Uric acid stones - cut down on foods high in purines such as red meat, organ meats, beer and alcohol, sardines, shellfish.
+Cystine stones - caused by a rare disorder which elevates cystine in the blood, urine needs to be more alkaline so consumption of milk, nuts and vegetables needs to be increased. 
+</kidney-stones>
+
+<epoetin-alpha>
+Hemoglobin should not increase rapidly or above 12 g/dL or the risk of thromboembolytic events increases. 
+Once hemoglobin approaches 11 g/dL or if hemoglobin rises by more than 1g/dL in a 2 week period, dosage should be decreased by 25%.
+This threshold is lower for clients with chronic-kidney-disease.
+</epoetin-alpha>
+
+<hispanic-culture>
+Silence is a sign of disagreement.
+Direct eye contact is avoided with authority figures.
+Prefer social interactions before being asked personal questions.
+</hispanic-culture>
+
+<anaphylectic-reaction>
+Runny nose and sneezing is indicative of an atopic reacon but not anaphylaxis.
+Diffuse rash is not indicative of anaphylaxis and does not happen immediately.
+</anaphylectic-reaction>
+
+<heart-failure>
+Ejection fraction 55% - 70% Normal level
+40-50% - may be asymptomatic
+35-39% - mild heart failure, may have dyspnea.
+<35% - moderate to severe.
+</heart-failure>
+
+<Alzheimers>
+Should only cook with supervision.
+Don't argue.
+Place limits on wrong behaviours.
+Focus on feelings rather than words, for example "you seem worried"
+</Alzheimers>
+
+<burns>
+Monitor hemodynamics frequently and administer fluids to prevent hypovolemic shock.
+Diet high in calories, vitamin C, Zinc and protein. 
+Daily weights, 2% weight loss from pre burn weight is a mild caloric deficit, over 10% requires modification of intake.
+Positing and range of motion exercies.
+
+Totol body surface area:
+18% back / 18% front
+9% each arm (4.5% back and front)
+18% each leg (9% back and front)
+9% head (4.5% back and front)
+1% perenium
+</burns>
+
+<bulemia>
+Set eating habits and make a contract.
+Monitor for one hour to prevent purging.
+</bulemia>
+
+<antihypertensives>
+Should be taken in the morning as the meds are most effective when the client is active. 
+</antihypertensives>
+
+<restraints>
+Never attach them to side rails, must be attached to a stable portion of the bed frame.
+</restraints>
+
+<intra-cranial-pressure>
+Could affect the gag reflex.
+</intra-cranial-pressure>
+
+<tracheostomy>
+Track cleaning and care should be done every 8 hours.
+During first few days secretions tend to be thick.
+Keep a spare of same size or larger at bedside.
+Wait 24 hours to chage ties to prevent irritating the trachea.
+Changing ties or moving the trach tube could irritate the trachea and cause coughing. 
+Suction when there is a moist cough or hypoxia. 
+In case of dislodgement, notify physician and respiratory therapist, raise the clients head of bed 
+</tracheostomy>
+
+<croup>
+Barking cough caused by a virus. Treatment is dexamethasone.
+</croup>
+
+<performace-improvement-nurse>
+Reports are not meant to get other nurses in trouble or for disciplinary actions.
+</performace-improvement-nurse>
+
+<peritonitis>
+Adbominal pain and rebound tenderness.
+Vomiting, diarrhea and hyperactive bowel sounds.
+</peritonitis>
+
+<peritoneal-dialysis>
+First indication is a cloudy return dialysate solution.
+Requires sterile technique.
+</peritoneal-dialysis>
+
+<wet-to-dry-dressing>
+Wash hands and prepare your sterile field before removing the old dressing.
+
+Purpose is to absorb drainage and trap debris as the dressing dries.
+Dressing must be damp not entirely wet.
+Number of layer depened on the depth of the wound.
+All wound surfaces have to be in contact with the wet gauze, including dead spaces and tunnels. 
+Number of pieces of gauze should be counted and recorded to make sure they're all removed later.
+Damp gauze should not touch the skin around the wound.
+</wet-to-dry-dressing>
+
+<negative-pressure-wound-therapy>
+If pump stops working or falls off, patient should inform the nurse immediately.
+NPWT dressing should not be kept on without the pump for more than 2 hours otherwise infection is possible.
+Dressing should be removed completely and a wet to dry dressing should be applied until the pump is fixed.
+</negative-pressure-wound-therapy>
+
+<implanted-port>
+Could swim and shower with it.
+Don't need daily flushing.
+</implanted-port>
+
+<sodium>
+Regular intake should be less than 3,000 mg per day.
+Restricted intake should be less than 2,000 mg per day.
+Minimum intake is 500 mg per day.
+</sodium>
+
+<licensed-nurse-practitioner>
+Collecting specimens such as blood, urine and sputum.
+Changing wound dressings. 
+</licensed-nurse-practitioner>
+
+<respiratory-rate>
+Newborn: 25-55 bpm
+Infant (6-12mo): 24-30 bpm
+Young child (1-5yo): 20-30 bpm
+Child(6+): 12-20 bpm
+</respiratory-rate>
+
+<heart-rate>
+Newborn: 110-160 bpm
+Infant (0-1.5): 80-150
+Child (1.5 - 11): 70-120
+Teen (12+ years) 60-100
+</heart-rate>
+
+<blood-pressure>
+0-6mo: (65-90)-(45-65) mmHg
+6-12mo: (80-100)/(55-65) mmHg
+1-11yo: (90-110)/(55-75) mmHg
+12+: 120/80 mmHg    
+</blood-pressure>
+
+<temperature>
+0-3y: 99.4F (37.5C)
+3y-5y: 99F (37.2)
+5+: 98.6 (37F)
+</temperature>
+
+<pulmonary-embolism>
+Typically occurs 12-72 hours after injury to a long bone.
+Petechia on the chest and mucus membranes.
+</pulmonary-embolism>
+
+<deep-vein-thrombosis>
+Throbbin pain in the extremity.
+Swelling, redness, warmth and pain in the area.
+</deep-vein-thrombosis>
+
+<electro-cardio-gram>
+Five large squares is 1 second.
+Thirty large squares represent 6 seconds.
+</electro-cardio-gram>
+
+<surgical-dress-code>
+Must wear cap at all times.
+Hair should be clipped, not shaved.
+Shirt shold be tucked in pants to avoid skin shedding and prevent contact with sterile fields.
+Nails should be short and unpolished.
+</surgical-dress-code>
+
+<incident-report>
+Should be completed even in cases of near misses, where for example a wrong medication was almost given (even though it wasn't)
+</incident-report>
+
+<low-fat-diet>
+Canadian bacon - considerably leaner than regular bacon and could be incorporated into healthy meals.
+</low-fat-diet>
+
+<diabetes>
+Rist factors: Race - African American, Hispanic, Native American and Asian 
+Age - greater than 45 
+Pregnancy - newborn weighing more than 9 lbs
+</diabetes>
+
+<breastfeeding>
+Newborn should feed every 1.5-3 hours, if not feeding after 3 hours, must awaken the baby and feed.
+Breast goes from firm to soft after feeding.
+Infant should be heard swollowing.
+</breastfeeding>
+
+<diapers>
+New borns should have 6-8 wet diapers daily (at least every 4 hours).
+</diapers>
+
+<developmental-milestones>
+1st - walks without help
+2nd - builds a tower of 3-4 blocks
+3rd - Uses 2-3 word phrases
+4th - Jumps with both feet
+</developmental-milestones>
+
+<water-breaking>
+Anytime there is a change in labor status the first step is to assess the fetal well being by ausultating the heart rate:
+Below 110 - late sign of fetal hypoxia maybe due to a prolapsed cord (when the cord exists the cervix before the baby)
+Above 160 - early sign of fetal hypoxia. 
+
+Check for a prolapsed cord.     
+Fluid should be straw colored - green or brown fluid should be reported. 
+pH of fluid is used to distinguish it from urine - normal pH should be alkaline or 7 and above. 
+</water-breaking>
+
+<prolapsed-cord>
+Push on the presenting cord to relieve pressure. 
+Place the client in Trendelenburg position or knee-chest position. 
+</prolapsed-cord>
+
+<autograft>
+Usually immobilized and elevated for 3-7 days.
+</autograft>
+
+<dopamine>
+Used as a vasopressor to increase cardiac output.
+</dopamine>
+
+<cast>
+Cannot perform range of motion exercises on an extremity with a cast.
+Muscle "setting" of the limb in the cast is the best exercies - it's isometric - involves ontracting and releaseing the muscles. 
+If a leg is immobilized, quadricept setting must be used to maintain muscle strenght. Maintain contraction for a few seconds for 10 sets. 
+Must be done every hour to maintain strenght.   
+</cast>
+
+<compartment-syndrome>
+Pain, Pulse, Parasthesia, Paralysis, Pale, Poikilothermia (cool extremity) 
+</compartment-syndrome>
+
+<chest-tube>
+Measured hourly during the first 24 hours after surgery. 
+If more than 200 mL of drainage occurs during the first hour and more than 100 mL per hour in the hours after, surgeon should be notified. 
+Wall suction must be at least -80mmHg to maintain -20cm H2O in the suction chamber.
+Avoid dependent loops 
+If chest tube becomes dislodges from the chest, place a dry gauze over the incision and tape on 3 side, making sure to leave one side untaped as to allow relief of pressure.
+If the connection becomes dislodged at the chamber level place the end of the tube into 1-2 in of water. 
+</chest-tube>
+
+<hip-replacement>
+Leg must be abducted in order to maintain proper limb orientation. Use an abductor pillow that's triangle shaped.
+</hip-replacement>
+
+<purine>
+Shellfish and mussels are high in purine. 
+</purine>
+
+<uric-acid>
+Avoid oily fish with bones. 
+</uric-acid>
+
+<gout>
+Caused by uric acid crystals in joints, which is convereted from purine.
+Increase fluid intake to over 2L / day
+Avoid alcohol and beer as well as high fructose corn syrup.
+Avoid organ meats and shellfish. 
+</gout>
+
+<common-diseases>
+mononucleosis - standard precautions (Epstein-Barr virus) - fatigue, fever and swollen lymph nodes. Spread by saliva. 
+hepatitis A - spread by the stool of the person. 
+Toxic shock syndrome - cannot be transmitted to others. 
+Rhinovirus - common cold, droplet transmission. 
+</common-diseases>
+
+<hepatitis>
+A - spread through feces
+B - all fluids, except feces urine and vomit
+C - mostly blood, usually not through sex or feces or urine or vomit. 
+D - all fluids, except for feces, urine and vomit.
+</hepatitis>
+
+<withdrawl>
+Cannabis withdrawl - insomnia, lack of appetite and hyperactivity
+Narcotics - watery eyes, cramps and mild tremors. 
+Alcohol - hyperalterness, easily startled, anorexia, anxeity, tremors, insomnia, seizures up to 72 hours after last drink, tacticle disturbances (itching, pins and needles etc) 
+</withdrawl>
+
+<alcohol-withdrawal>
+Use Clinical Institute Withdrawl Assessment for Alcohol, Revise (CIWA-Ar) scale. 
+To check for tremors by extending arms and spreading fingers. Even if not visible touch fingertip to feel for vibration. 
+Scale checks for N/V: 0-7 points
+Tremor: 0-7 points
+Sweating: 0-7 points
+Agitation: 0-7 points
+Tactile distrubances: 0-7
+Auditory disturbance: 0-7
+Visual distrubances: 0-7
+Headache: 0-7
+Orientation: 0-4
+
+Total: 0-67
+<9: very mild
+10-15: mild
+16-20: modest
+21-67: severe withdrawl
+
+Check cerum electrolytes and coagulation along with CBC
+Other symptoms are tachycardia and hypertension
+</alcohol-withdrawal>
+
+<risperidone>
+Can cause photosensitivity and impaired temperature regulation. 
+Can cause orthostatic hypotension. 
+Dry mouth
+</risperidone> 
+
+<akathesia> 
+Inability to remain still. 
+</akathesia>
+
+<ectopic-pregnancy>
+Unilateral, dull abdominal pain. 
+Could present as reffered should pain due to the blood irritating the subdiaphragmatic phrenic nerve.
+Could be fatal to the woman due to potential rupture of the fellopian tube and hemorrhage.  
+</ectopic-pregnancy>
+
+<threatened-abortion>
+Symptoms are spotting and cramping. 
+</threatened-abortion>
+
+<spontaneous-abortion>
+Frank, red bleeding and moderate cramps.
+</spontaneous-abortion>
+
+<normal-effects-of-pregnancy>
+Whitish vaginal secretions during the first trimester of pregnancy are normal. 
+Breast tenderness and amenorrhea.
+</normal-effects-of-pregnancy>
+
+<hyperemesis-gravidum>
+Excessive nausea and vomiting.
+Could be a sign of hydatidiform mole, due to high levels of hCg
+</hyperemesis-gravidum>
+
+<infant-apnea>
+Sessation of breathing for more than 20 seconds or if shorter but accompanied by bradycardia, cyanosis, or marked hypotonia. 
+Sessation of breathing for periods of less than 20 seconds with no complicating factors is considered normal in neonates, it's called periodic breathing. 
+Diagnosis is much more common in preterm infants, and rare in full term.
+When it's diagnosed in full term infants, it's usually indicative of an underlying issue. 
+</infant-apnea>
+
+<neonate>
+Report fever greater than 101F (38.3C)
+More than one episode of projectile vomiting should be reported as it's not normal. 
+</neonate>
+
+<pneumonia>
+Risk factors are underlying lung conditions, shallow breathing due to broken ribs (lack of lung expansion causes pneumonia), anything that decreases lung expansion like bed rest. 
+</pneumonia>
+
+<therapy>
+Flooding - rapid desensitization where the person is suddenly introduced to the feared subject to learn how to handle it. 
+Cognitive Behaviour Therapy - attempts to explain how the persons interpretations and perceptions influences behaviour. 
+Psychodynamic therapy - examining past events to see how they reflect the future or current status of the client. 
+Psychoterapy - based on Freud that sexual energy drives developement. Use of free association, dream analysis - disocovers the source of repressed thoughts to resolve current conflicts. 
+Erikson - focuses on acheiving healthy psychosocial developmental milestones as defined by Erikson. 
+Maslow - focus on the whole person, focus on the current situation and solve the problems one level at a time. 
+</therapy>
+
+<transfusion-related-lung-injury>
+Rare but serious syndrome characterized by acute respiratory difficulty following a transfusion (either immediately during or up to 6 hours after).
+Rapid onset of dyspnea and drop of SpO2 < 90%
+High morbidity with majority of the patients requiring ventialtor support. 
+Lung injury is usually transient and resolve within 48-96 hours with supportive care. 
+Could occur due to the client's antibodies activating donor's leukocytes or donor's antibodies activating client lekocytes. 
+Leads to sequestration of hyperactive neutrophils along the lung epithelium which leads to pulmonary edema. 
+To reduce the risk give, leukocyte reduced blood. 
+In case of an event, obtain HLA (human leukocyte antibody) blood test, chest x-ray, oxygen, corticosteroids. Have intubation equipment ready. 
+</transfusion-related-lung-injury>
+
+<blood-transfusion>
+Reduced leukocyte blood products are given to those that expereinced a transfusion reaction before.
+Diphenhydramine, acetaminophen and hydrocortisone is given to clients with high risk of rejection. 
+</blood-transfusion>
+
+<apnea-monitor>
+White and Black lead - upper right chest and upper left chest
+Green lead - on abdomen, not over bony area. 
+</apnea-monitor>
+
+<infant-sleep>
+Do not use soft mattresses due to increased risk of SIDS, use a firm mattress. 
+Do not use bumper guards for same reason.
+Do not rock the baby to sleep as that introduces dependence. Instead place them in the crib and let them fall asleep. 
+Sleep pattern should be developed by 4 months of age. 
+Sleep should last 9-11 hours. 
+Total daily sleep should be about 15 hours. 
+</infant-sleep>
+
+<preoperative-medication-hold>
+Hold all medications that effect hydration and bleeding times. 
+Hold diuretics as they increase the risk for hypovolemia and hypokalemia. 
+Hold anticoagulats to reduce the risk of severe bleeding. 
+</preoperative-medication-hold>
+
+<bulimia-nervosa>
+A vicious cycle where the client diets and then binge eats a large quantity of food, then attempts to rid of the food by endusing vomiting. 
+Focus is to interrup the cycle. Altering dysfunctional thoughts. Exploring self-concept.
+Set limits on eating - like only at a table or with others.
+Weight is usually in the normal range. 
+Usually aware of the problem and are ashamed.
+May brush teeth frequently.
+</bulimia-nervosa>
+
+<anorexia-nervosa>
+Restricting eating to maintain a percieved proper weight. 
+Usually underweight. 
+Intense fear of gaining weight. 
+Multiple measurements of weight daily. 
+Don't allow food to touch teeth.
+Counting bites
+Usually refuse to acknowledge the problem.
+</anorexia-nervosa>
+
+<radiation-therapy>
+Consipation is a common side effecet if abdomen is irradiated.
+Alopecia is expected if head is irradiated.
+Fatige is a common and expected side effect.
+Rash could occur and must be treated. 
+Could result in difficulty in swollowing due to inflammation and thus require further intervention. 
+</radiation-therapy>
+
+<vomiting>
+In complicated clients, elevate head of bed, suction the mouth, check lung sounds, and notify provider.
+</vomiting>
+
+<lumbar-puncture>
+Hydrate well before the procedure. 
+Instruct to void.
+Either sit on the side of the bed while leaning forward or tuck knees to chest and lay on side.
+Local anesthetic is injected. 
+Spinal needle is inserted into subarachnoid space. 
+Pressure in the space is measured then CSF is withdrawn. 
+Client may feel some pressure and brief sharp pain with tingling down one or both legs. 
+</lumbar-puncture>
+
+<suctioning>
+Hyperoxygenate for 30 seconds, suction for 5-10 seconds at a time. 
+</suctioning>
+
+<biot-respirations>
+Seen in patients with brain damage. A cycle of rapid respirations followed by short period of apnea. 
+</biot-respirations>
+
+<cheyne-stokes-respirations>
+Seen in patients with heart problems. A cycle that alternates between fast deep breaths with slow shallow respirations. 
+</cheyne-stokes-respirations>
+
+<stridor>
+Occurs during inspiration. 
+</stridor>
+
+<wheezing>
+Mostly during expiration but could also occur during inspiration. 
+</wheezing>
+
+<metoclopromide>
+Stimulates the motility of upper GI tract and decreases nausea. 
+</metoclopromide>
+
+<cardio-pulmonary-resucitation>
+First do chest compressions then open the airway after 30 compressions. 
+</cardio-pulmonary-resucitation>
+
+<urine-output>
+Normal is 33-84ml/hour or 800 - 2000 ml / day   
+</urine-output>
+
+<diabetes-insipidus>
+Could be caused by deteriorating head trauma from the pressure on the pituitary gland. 
+</diabetes-insipidus>
 
 </review>
 
