@@ -13,7 +13,7 @@ def index(request):
     """Home page view"""
     
     #Parse xml files to produce a list of all tags
-    xmlTopicList = openAndParseXML('Review.xml')
+    xmlTopicList = openAndParseXML('test.xml')
 
     Topic.objects.all().delete()
     Conflict.objects.all().delete()
@@ -30,16 +30,18 @@ def index(request):
     topicsWithConflicts = []
     topicIDsToRemove = []
     for topic in Topic.objects.all():
+
+        #make sure topic is not marked to be removed already
+        for rid in topicIDsToRemove:
+            if topic.id == rid:
+                continue
+
         conflicts = []
         #get a list of possible conflicts for this topic
         for comparison in Topic.objects.all():
             if topic.id == comparison.id:
                 continue
-            #make sure topic is not marked to be removed already
-            for rid in topicIDsToRemove:
-                if topic.id == rid:
-                    continue
-        
+            
             comparisonTitle = [comparison.title]
             closeMatchList = difflib.get_close_matches(topic.title, comparisonTitle, cutoff=0.7)
             if len(closeMatchList) > 0:
@@ -119,7 +121,7 @@ def conflicts(request):
            
 
         #after all conflicts have been resolved, rewrite the xml with no repeats 
-        tree = ET.parse('RewriteReview.xml')
+        tree = ET.parse('rtest.xml')
         root = tree.getroot()
         root.clear()
         for item in Topic.objects.all():
