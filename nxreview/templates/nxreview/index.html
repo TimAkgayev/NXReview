@@ -1,4 +1,4 @@
-{%extends "nxreview/base.html" %}
+{%extends "nxreview/base_review.html" %}
 
 {%block content%}
 
@@ -6,8 +6,8 @@
 <div id="review-grid">
 
     {% for topic in topics %}
-    <div class ="grid-item"> {{topic.title}}  </div> 
-    <div class ="grid-item"> {{topic.text}} </div> 
+    <div class ="grid-item topic-title"> {{topic.title}}  </div> 
+    <div class ="grid-item topic-text"> {{topic.text}} </div> 
     {% endfor %}
   
             

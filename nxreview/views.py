@@ -6,10 +6,30 @@ from xml.dom import minidom
 import difflib
 from .forms import ConflictResolutionForm
 
+def index(request):
+    #Parse xml files to produce a list of all tags
+    xmlTopicList = openAndParseXML('Review.xml')
+
+    Topic.objects.all().delete()
+    Conflict.objects.all().delete()
+
+    #Go through the tag list and add it to the Topic database list
+    for xmlTopic in xmlTopicList:
+        topic = Topic()
+        topic.title = xmlTopic.title
+        topic.text = xmlTopic.text
+        topic.save()
+
+    context = {'topics': Topic.objects.all()}
+    return render(request, 'nxreview/index.html', context)
+
+    
+def quiz(request):
+    return render(request, 'nxreview/quiz.html')
 
 
 # Create your views here.
-def index(request):
+def indexUnique(request):
     """Home page view"""
     
     #Parse xml files to produce a list of all tags

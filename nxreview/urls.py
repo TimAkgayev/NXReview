@@ -9,4 +9,5 @@ urlpatterns = [
     #Home Page 
     path('', views.index, name="index"),
     path('conflicts/', views.conflicts, name="conflicts_page"),
+    path('quiz/', views.quiz, name="quiz_page"),
 ]
