@@ -6,10 +6,135 @@
         {%load static%}<link rel="stylesheet" type="text/css" href="{%static 'nxreview/css/styles.css' %}" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script>
-            $(document).ready(function(){
+            
+            //------------globals-----------------------
+            var gData = new Map();
+            var gTitles = new Array();
+            var gUsedTitles = new Array();
+            var gCurrentTitle, gCurrentText;
 
+            class Topic 
+            {
+                constructor()
+                {
+                    this.Title = "";
+                    this.Text = "";
+                }
                 
+            }
+
+            class Data
+            {
+                constructor()
+                {
+                    this.UnusedTopics = new Array();
+                    this.UsedTopics = new Array();
+                }
+
+                //@return {Topic} - random topic from UnusedTopics list
+                GetRandomTopic()
+                {
+                    let r = Math.floor(Math.random()*UnusedTopics.length);
+                    let t = UnusedTopics[r];
+                    
+                    //move the topic from Unused list to Used list
+                    UnusedTopics.splice(r, 1);
+                    UsedTopics.push(t);
+
+                    return t;
+                }
+            }
+
+            //----------------------------------------------------
+            $(document).ready(function(){
+                
+                {%for topic in topics %}
+                    gData.set('{{topic.title}}', "{{topic.text|escapejs}}");
+                    gTitles.push('{{topic.title}}');
+                {%endfor%}
+
+                gCurrentTitle = generateRandomQuestion(gTitles, gUsedTitles);
+                gCurrentText = gData.get(gCurrentTitle);
+
+                gCurrentText = blurrText(gCurrentText);
+
+                $('#quiz-card-title').html(gCurrentTitle);
+                $('#quiz-card-text').html(gCurrentText);
             });
+
+            /**
+            * @param {Array} existingTitles - Titles present in database 
+            * @param {Array} usedTitles - Titles which have already been shown to user
+            * @return {String} - title that has not been used
+            */
+            function generateRandomQuestion(existingTitles, usedTitles) {
+                const numTitles = existingTitles.length;
+                var randomTitle;
+                
+
+                //get a random index that has not been used
+                do
+                {
+                    randomTitle = Math.floor(Math.random()*numTitles);
+                    var isRepeat = false;
+                    for (const x of usedTitles)
+                    {
+                        if (x == randomTitle)
+                        {
+                            isRepeat = true;
+                            break;
+                        }
+
+                    }
+                }while(isRepeat==true);
+
+
+                //register the index as used
+                usedTitles.push(randomTitle);
+             
+                return existingTitles[randomTitle];
+            }
+
+            //@param {String} - text that contains blurr markup ([blr]--[/blr])
+            //@return {String} - text with blurred words
+            function blurrText(text)
+            {
+                var openTag = -1;
+                var closeTag = -1;
+                var remainingText = text;
+                var newText = "";
+                do{
+                    openTag = remainingText.indexOf("[blr]", 0);
+                    closeTag = remainingText.indexOf("[/blr]", 0);
+                    
+                    if(openTag != -1)
+                    {
+                        //get the words before the tag
+                        newText += remainingText.slice(0, openTag);
+                        //insert the blurr tag
+                        newText += "<div class ='in-line-word blurr' onclick='toggleBlurr(this)'>";
+                        //get the word to blurr
+                        newText += remainingText.slice(openTag+5,closeTag);
+                        //end blurr tag
+                        newText += "</div>";
+                        //everything else after the close tag goes on to next iteration
+                        remainingText = remainingText.slice(closeTag+6);
+                    }
+
+                }while(openTag != -1);
+                newText += remainingText;
+
+                return newText;
+
+            }
+
+            
+            function toggleBlurr(divObj)
+            {
+                divObj.classList.toggle("blurr");
+            }
+
+           
 
         </script>
 

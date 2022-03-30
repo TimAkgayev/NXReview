@@ -25,7 +25,8 @@ def index(request):
 
     
 def quiz(request):
-    return render(request, 'nxreview/quiz.html')
+    context = {'topics': Topic.objects.all()}
+    return render(request, 'nxreview/quiz.html', context)
 
 
 # Create your views here.
