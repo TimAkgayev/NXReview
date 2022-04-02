@@ -6,13 +6,8 @@
         {%load static%}<link rel="stylesheet" type="text/css" href="{%static 'nxreview/css/styles.css' %}" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script>
-            
-            //------------globals-----------------------
-            var gData = new Map();
-            var gTitles = new Array();
-            var gUsedTitles = new Array();
-            var gCurrentTitle, gCurrentText;
 
+            
             class Topic 
             {
                 constructor()
@@ -34,67 +29,53 @@
                 //@return {Topic} - random topic from UnusedTopics list
                 GetRandomTopic()
                 {
-                    let r = Math.floor(Math.random()*UnusedTopics.length);
-                    let t = UnusedTopics[r];
+                    var r = Math.floor(Math.random()*this.UnusedTopics.length);
+                    var t = this.UnusedTopics[r];
                     
                     //move the topic from Unused list to Used list
-                    UnusedTopics.splice(r, 1);
-                    UsedTopics.push(t);
+                    this.UnusedTopics.splice(r, 1);
+                    this.UsedTopics.push(t);
 
+                    t.Text = blurrText(t.Text);
                     return t;
                 }
             }
 
+            
+            //------------globals-----------------------
+            var gData = new Data();
+            var gCurrentTopic;
+
             //----------------------------------------------------
             $(document).ready(function(){
-                
+                var t;
                 {%for topic in topics %}
-                    gData.set('{{topic.title}}', "{{topic.text|escapejs}}");
-                    gTitles.push('{{topic.title}}');
+                    t = new Topic();
+                    t.Title = '{{topic.title}}';
+                    t.Text = "{{topic.text|escapejs}}";
+                    gData.UnusedTopics.push(t);     
                 {%endfor%}
 
-                gCurrentTitle = generateRandomQuestion(gTitles, gUsedTitles);
-                gCurrentText = gData.get(gCurrentTitle);
+                getNewQuestion();
 
-                gCurrentText = blurrText(gCurrentText);
-
-                $('#quiz-card-title').html(gCurrentTitle);
-                $('#quiz-card-text').html(gCurrentText);
+                $('#new-question-button').click(function() {
+                    getNewQuestion();
+                });
             });
+
+            function getNewQuestion()
+            {
+                gCurrentTopic = gData.GetRandomTopic();
+                $('#quiz-card-title').html(gCurrentTopic.Title);
+                $('#quiz-card-text').html(gCurrentTopic.Text);
+            }
 
             /**
             * @param {Array} existingTitles - Titles present in database 
             * @param {Array} usedTitles - Titles which have already been shown to user
             * @return {String} - title that has not been used
             */
-            function generateRandomQuestion(existingTitles, usedTitles) {
-                const numTitles = existingTitles.length;
-                var randomTitle;
-                
-
-                //get a random index that has not been used
-                do
-                {
-                    randomTitle = Math.floor(Math.random()*numTitles);
-                    var isRepeat = false;
-                    for (const x of usedTitles)
-                    {
-                        if (x == randomTitle)
-                        {
-                            isRepeat = true;
-                            break;
-                        }
-
-                    }
-                }while(isRepeat==true);
-
-
-                //register the index as used
-                usedTitles.push(randomTitle);
-             
-                return existingTitles[randomTitle];
-            }
-
+            
             //@param {String} - text that contains blurr markup ([blr]--[/blr])
             //@return {String} - text with blurred words
             function blurrText(text)
