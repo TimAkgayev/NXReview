@@ -68,6 +68,9 @@
                 gCurrentTopic = gData.GetRandomTopic();
                 $('#quiz-card-title').html(gCurrentTopic.Title);
                 $('#quiz-card-text').html(gCurrentTopic.Text);
+
+                $('#info-card-count').html(gData.UsedTopics.length);
+                $('#info-card-total').html(gData.UsedTopics.length + gData.UnusedTopics.length);
             }
 
             /**
@@ -129,7 +132,7 @@
             </nav>
         </header>
         
-        <main class = "center">
+        <main>
         
             {% block content %} 
             

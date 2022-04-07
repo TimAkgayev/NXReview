@@ -1,9 +1,3 @@
-.center {
-
-    margin: auto;
-    max-width: 800px;
-}
-
 header {
    
     text-align: center;
@@ -18,13 +12,62 @@ html, body, main {
     height: 100%;
 }
 
+#main-container{
+    display: flex;
+    flex-direction: row;
+    min-height: 40%;
+    width: 100%;
+}
+
+#left-subpanel{
+    flex-grow: 1;
+    width: 25%;
+}
+
+#middle-subpanel{
+    flex-grow: 1;
+    width: 50%;
+}
+
+#right-subpanel{
+    flex-grow: 1;
+    width: 25%;
+}
+
+#info-card{
+    box-shadow:0px 1px 1px rgba(0,0,0,0.25),0 2px 2px rgba(0,0,0,0.2),0 4px 4px rgba(0,0,0,0.15),0 8px 8px rgba(0,0,0,0.1),0 16px 16px rgba(0,0,0,0.05);
+    border-top: solid 1px rgba(0,0,0,0.5);
+    text-align: center;
+    height: 100px;
+    max-width: 30%;
+    border-radius: 10px;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#info-card-title{
+    font-weight: bold;
+}
+
+#info-card-count{
+    display: inline;
+}
+
+#info-card-total{
+    display: inline;
+}
+
 #quiz-card{
-    display:flex;
+    display: flex;
     border-radius: 10px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    max-width: 50%;
+    max-width: 80%;
     margin: 3em auto;
     padding: 1em;
     box-shadow:0px 1px 1px rgba(0,0,0,0.25),0 2px 2px rgba(0,0,0,0.2),0 4px 4px rgba(0,0,0,0.15),0 8px 8px rgba(0,0,0,0.1),0 16px 16px rgba(0,0,0,0.05);
@@ -36,13 +79,7 @@ html, body, main {
     font-size: 2em;
 }
 
-#quiz-card-text{
-  
-}
 
-#quiz-card-container{
-    min-height: 40%;
-}
 
 #new-question-button{
     background-color: blueviolet;
@@ -108,4 +145,21 @@ nav {
     margin: 0.5em;
     padding: 0.2em;
 
+}
+
+
+@media (max-width: 576px){
+    #main-container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #info-card{
+        max-width: 80%;
+        height: 50%;
+    }
+
+    #quiz-card{
+        max-width: 100%;
+    }
 }
