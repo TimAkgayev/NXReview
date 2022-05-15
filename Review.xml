@@ -2192,9 +2192,9 @@ Teen (12+ years) [blr]60-100[/blr] bpm
 
 <blood-pressure>
 0-6mo: ([blr]65-90[/blr])-([blr]45-65[/blr]) mmHg
-6-12mo: ([blr]80-100[/blr])/([blr]55-65[/blr]) mmHg
-1-11yo: ([blr]90-110[/blr])/([blr]55-75[/blr]) mmHg
-12+: [blr]120/80[/blr] mmHg    
+1-2 years (toddler) - ([blr]85-110[/blr]) - ([blr]45-70[/blr]) mmHg
+3-5 years (preschool) - ([blr]90-120[/blr]) - ([blr]45-80[/blr]) mmHg 
+13-17 years (adolescence) - ([blr]120-80[/blr]) mmHg
 </blood-pressure>
 
 <temperature>
@@ -2724,7 +2724,8 @@ Vertical - evacuate the [blr]entire floor[/blr], at least [blr]2 floors[/blr] fr
 15. [blr]Secure the catheter[/blr]. 
 </urinary-catheter>
 
-<[rand]potassium-rich-foods[/rand]>
+<potassium-rich-foods>
+[rand]
 Dried appricots - [blr]380mg[/blr]
 Banana - [blr]420mg[/blr]
 Lima beans - [blr]480mg[/blr]
@@ -2794,9 +2795,1497 @@ Monitor the client for [blr]hypotension[/blr] and avoid [blr]hyperthermia[/blr] 
 Rapid rewarming could lead to [blr]electrolyte imbalances[/blr], [blr]cerebral edema[/blr], and [blr]seizures[/blr]. 
 </theraputic-hypothermia>
 
-<insulin> 
+<monoamine-oxidase-inhibitors>
+Inhibit the breakdown of different [blr]neurotransmitters[/blr] in the brain, such as [blr]serotonin[/blr], [blr]dopamine[/blr] and [blr]tyramine[/blr]. 
+Example medications: [blr]phenelzine[/blr], [blr]tranylcypromine[/blr], [blr]selegiline[/blr], [blr]isocarboxazid[/blr]
+Interact with foods high in [blr]tyramine[/blr], consumption of which could cause [blr]tyramine[/blr] excess (due to [blr]inhibition of breakdown[/blr]) and cause a [blr]hypertensive crisis[/blr]. 
+</monoamine-oxidase-inhibitors>
+
+<tyramine-rich-foods>
+[blr]Aged cheeses[/blr] like [blr]cheddar[/blr], [blr]swiss[/blr] and [blr]blue cheeses[/blr]. [blr]Alcohol[/blr] such as [blr]beer[/blr] and [blr]red wine[/blr]. [blr]Smoked[/blr] or [blr]aged meats[/blr]. 
+</tyramine-rich-foods>
+
+<newborn-stomach-capacity>
+The stomach capacity of a newborn is [blr]0.5[/blr] - [blr]1[/blr] ounce. 
+</newborn-stomach-capacity>
+
+<common-screening-older-adult>
+Common screening for older includes:
+[blr]Stoon DNA[/blr] test every [blr]3[/blr] years. 
+[blr]Digital rectal examination[/blr] every [blr]year[/blr] to test for prostate cancer. 
+Test for diabetes every [blr]3[/blr] years. 
+Colonoscopy every [blr]10[/blr] years. 
+PSA test every [blr]2[/blr] years.
+Low Dose CT scan [blr]every year[/blr]. It's more effective than an [blr]XRAY[/blr] and is done if smoking for more than [blr]30[/blr] years, a [blr]current smoker[/blr] or quit less than [blr]15[/blr] years ago.
+</common-screening-older-adult>
+
+<hypertension-lifestyle>
+Sodium intake less than [blr]2 grams[/blr] per day.
+AHA recommends moderate activity for at least [blr]30 min[/blr] a day, [blr]5[/blr] days a week. 
+No more than [blr]1 serving[/blr] of alcohol per day. 
+</hypertension-lifestyle>
+
+<blood-pressure-measureming>
+Turn the [blr]palm up[/blr].
+Palpate the [blr]brachial[/blr] artery. 
+Place stethoscope over the artery. 
+Inflate the cuff to the point that the brachial pulse is no longer then inflate it [blr]30mmHg[/blr] higher. 
+</blood-pressure-measureming>
+
+<common-antibiotics>
+Gentamycin - belongs to [blr]aminoglycoside[/blr] class - causes [blr]ototoxicity[/blr] which causes [blr]tinnitus[/blr]. [blr]Renal toxicity[/blr] - should increase [blr]fluid intake[/blr]. 
+Ciprofloxacin - blongs to a class known as [blr]fluroquinolones[/blr]. Do not consume [blr]dairy[/blr] products and they [blr]lower the effectiveness[/blr] of this antibiotic. Cause [blr]sensitivity[/blr] to [blr]uv light[/blr]. 
+Cephazolin - belongs to a class knows as [blr]cephalosporins[/blr], commonly cause [blr]diarrhea[/blr]. 
+</common-antibiotics>
+
+<aminoglycosides>
+Class of antibiotics most commonly used to treat [blr]gram negative aerobic[/blr] bacteria, such as [blr]pseudomonas[/blr] and [blr]enterobacter[/blr].
+Cause [blr]inner ear toxicity[/blr] and [blr]renal toxicity[/blr]. 
+Example drugs: [blr]Gentamycin[/blr], [blr]tobramycin[/blr], [blr]neomycin[/blr], [blr]streptomycin[/blr]. 
+Have poor [blr]intenstinal absorption[/blr] so [blr]IV[/blr] or [blr]IM[/blr] routes are required. 
+</aminoglycosides>
+
+<fluoroquinolones>
+Avoid [blr]direct sunlight[/blr] as they cause [blr]photosensitivity[/blr]. 
+</fluoroquinolones>
+
+<dumping-syndrome>
+Caused by [blr]rapid emptying[/blr] of [blr]chyme[/blr] (digested food bolus) into the small intestine. The symptoms are caused by a rapid movement of [blr]fluid[/blr] into the small intestine, which causes [blr]depletion[/blr] of the [blr]plasma volume[/blr], abdominal [blr]distension[/blr] and rapid movement of the [blr]bolus[/blr] through the intestine. 
+The apparent symptoms include: feeling [blr]weak[/blr] and [blr]dizzy[/blr], [blr]sweating[/blr], [blr]diarrhea[/blr]. 
+Occures [blr]10[/blr]-[blr]30[/blr] minutes after eating. 
+Avoid giving [blr]water[/blr] with food and avoid food high in [blr]carbs[/blr] such as [blr]concentrated sweets[/blr]. 
+Teach to eat [blr]small frequent meals[/blr]. Increase amount of [blr]protein[/blr] and [blr]dietary fats[/blr]. 
+The patient should be instructed to [blr]lie down[/blr] after eating to reduce the speed of which chyme moves into the small intestine. 
+Also goes hand in hand with [blr]postprandial-hypoglycemia[/blr]. 
+</dumping-syndrome>
+
+<postprandial-hypoglycemia>
+Results from rapid movement of [blr]chyme[/blr] into the [blr]small intestine[/blr]. Chyme contains concentrated amounts of [blr]carbohydrates[/blr]. If it's rapidly dumped into the small intestine [blr]hyperglycemia[/blr] occurs which causes a sharp release of [blr]insulin[/blr]. That in turn causes reflex [blr]hypoglycemia[/blr]. 
+Symtoms include [blr]anxiety[/blr], [blr]cold sweat[/blr], [blr]trembling[/blr], [blr]hunger[/blr], [blr]blurry vision[/blr]. 
+Occures approximately [blr]2[/blr] hours after eating. 
+Priority is to obtain [blr]blood glucose levels[/blr] and if low administer a [blr]fast acting carbohydrate[/blr]. 
+</postprandial-hypoglycemia>
+
+<postpartum-hemorrhage>
+Bleeding that saturates more than [blr]1[/blr] pad an hour is considered [blr]severe[/blr]. 
+Each pad holds [blr]100[/blr] ml of blood. 
+Continuos flow or dripping of blood is [blr]an emergency[/blr]. 
+</postpartum-hemorrhage> 
+
+<fat-embolism>
+Most people develop symtpoms after [blr]24[/blr]-[blr]48[/blr] hours of injury. 
+</fat-embolism>
+
+<medication-error>
+[blr]Stabilize[/blr] the client.
+Contant [blr]the health care provider[/blr]. 
+Complete [blr]an incident report[/blr]. 
+</medication-error>
+
+<open-angle-glaucoma>
+[blr]Mydriatic[/blr] eye drops are counterindicated as they raise the pressure. 
+[blr]Tonometer[/blr] measurments should be taken [blr]1[/blr] to [blr]2[/blr] times per [blr]year[/blr]. 
+Symtptoms include [blr]cloudy[/blr] or [blr]blurry[/blr] vision, lights have [blr]rainbows[/blr] and [blr]halos[/blr] around them. 
+</open-angle-glaucoma>
+
+<glaucoma-screening>
+[blr]Tonometer[/blr] readings are indicated for all people over [blr]40[/blr]. 
+Primary risk is age greater than [blr]60[/blr]. 
+Some medications like [blr]corticosteriods[/blr] could cause glaucoma. 
+</glaucoma-screening>
+
+<metoclopromide> 
+Could cause tardive dyskinesia with long term use. 
+</metoclopromide>
+
+<tardive-dyskinesia>
+Means late apperaing invluntary movement. 
+Usually occurs about 6 months after medications are started. 
+Symptoms include involuntary movments of the fingers, face, arms and legs. 
+Irriversible if not caught in time. 
+Risk factors are female gender, older adult or first episode of schitzophrenia. 
+</tardive-dyskinesia>
+
+<pregnancy-milestones>
+Quickening should occur between 16-20 weeks of pregnancy. 
+Expected weight gain during the first trimester is insignificant. Most weght gain happens during the second and third trimesters, at approximately 1lb per week. Total weight gain during preganancy should be 25-35 lbs. 
+Nausea usually ends by 14-16 weeks. 
+Tell todlers about the baby right before birth since they have poor time perception. 
+</pregnancy-milestones>
+
+<physiological-changes-of-pregnancy>
+Oxygen consumption increases by 20%. Blood volume is increased by 40-50%. 
+Gastroesophageal reflux caused by increase in progesterone. 
+Mild glycosuria and proteinurea might be present. 
+Joints get looser due to hormone relaxin. 
+</physiological-changes-of-pregnancy>
+
+<pain-in-infants>
+Decrease in oxygen saturation. 
+Hypertension. 
+Stiff posture. 
+</pain-in-infants>
+
+<incident-report>
+Should be completed within 24 hours. 
+Examples when should be completed - break in aseptic technique, client refuses treatment as prescribed, client voices dissatisfaction. 
+You should document the facts of the incident, interventions that were performed and the client's response. 
+</incident-report>
+
+<cane-use>
+Hold the cane in the strong hand. 
+Move the cane forward 6-10 inches, keeping the body weight on both legs. 
+Move weak leg until it's even with the cane. 
+Move strong leg until 6-10 inches past the cane. 
+Move the weak leg in line with the strong leg. 
+</cane-use>
+
+<radiation-safety>
+Do not allow the client to leave the room. 
+Visitors under 18 are not allowed. 
+</radiation-safety>
+
+<diabetes-and-exercise>
+Exercise has a glucose lowering effect. 
+Best to exercise after meals when glucose levels are rising. 
+Monitor glucose levels before, during and after exercising. 
+If glucose less than or equal to 100 mg per dL before exercise, eat a 15g fast carbohydrate and recheck in 15-30 min. Do not exercise if less than 100mg per dL 
+</diabetes-and-exercise>
+
+<rhabdomyolysis>
+Primary intervention is to administer IV crystalloid fluids to dilute promote potassium and myoglobin excretion. 
+An osmotic diuretic, such as mannitol, is often administered to flush myoglobin from theh kidneys, to prevent tubular necrosis. 
+Administer bicarbonate to alkalinize the urine and lessen myoglobin toxicity. 
+Administer regular insulin with 50% dextrose to treat hyperkalemia.     
+Monitor BUN and creatinine to monitor kidney function.  
+Symtpoms: cola colored urine from exesss myoglobin, oliguria, musce aches. 
+</rhabdomyolysis>
+
+<theraputic-communication>
+Avoid yes or no questions. 
+Avoid making assumptions. 
+Recognize behaviour without judgment, saying what you observe like "you look upset".
+Don't ask "why" questions.
+Reflect the inforamtion back, if a client asks "what do you think I should do?" respond with "What do you think you should do?".
+Don't interject your own feelings or experiences into the conversation as a way to offer solutions. 
+</theraputic-communication>
+
+<seasonal-affective-disorder>
+Thought to be caused by excess melatonin. 
+Avoid wearing glasses with ultraviolet filters as UV light helps reduce melatonin buildup. 
+Phototherapy should be used from Fall to Spring. 
+Phototherapy should be used for 2 to 6 hours per day, during this time the client should sit within 3 feet of artificial light. 
+Client should begin phototherapy in the morning, soon after awekening and repeat exposure after sundown to simulate extended daylight hours. 
+</seasonal-affective-disorder>
+
+
+<intra-cranial-pressure>
+Early sign is a slowing of speech. 
+Later signs are nausea and vomiting, pupil changes, irregular respirations, widened pulse pressure, systolic hypertension and bradycardia. 
+</intra-cranial-pressure>
+
+<rheumatoid-arthiritis>
+Apply heat to joints, not ice. 
+Best way to reduce pain and stiffness is through streching and strengthening exercises. 
+</rheumatoid-arthiritis>
+
+<dementia>
+Don't ask questions that require recent memory recall if the client has problems with that as it may cause anxiety, instead state the facts as statements, rather than questions. 
+State the day and time as part of the greeting. "Good morning it's Tuesday, 8am in the morning". Don't directly tell them the date and time as it may be demeaning. 
+Offer small cups of fluid throughout the day, don't just ask if the client is thristy. 
+Offer foods with high water content such as broths and fruits. 
+Eat with the client when possible. 
+If the client ate but insists they didn't eat breakfast, offer breakfast food as a snack. 
+Asses other factors for loss of apetite and weight loss besides mood changes, such as ill fitting dentures.
+</dementia>
+
+<HIPPA>
+Clients could set a password that allows only the people who know it to be able to get information over the phone. 
+</HIPPA>
+
+<home-risks>
+When entering home, take off your shoes and either wear non skid socks or shoes. Walking around in socks could make the patient slip. 
+Heating pads should not be left on overnight even in the lowest settings as they may cause burns. 
+</home-risks>
+
+<air-embolism>
+May have chest pain, be hypotensive and tachycardic. 
+Administer oxygen, clamp the catheter, place the client on the left side. 
+</air-embolism>
+
+<tracheostomy>
+Client is unable to speak after a newly placed tracheostomy, since the air doesn't pass through the vocal cords anymore. 
+</tracheostomy>
+
+<Levine-sign>
+The sign is a clenched fist over chest, suggesting angina pectoris.
+</Levine-sign>
+
+<splenomegaly>
+When percuissing Traube's space, if a tympanic percussion is heard then enlargment of the spleen is less likely, if the sound is dull, it most likely indicates splenomegaly. 
+</splenomegaly>
+
+
+<Kubler-Ross-stages-of-grief>
+1.Denial
+2.Anger
+3.Bargaining
+4.Depression
+5.Acceptance
+</Kubler-Ross-stages-of-grief>
+
+<parenteral-nutrition>
+Glucose should be checked every 6 hours. 
+</parenteral-nutrition>
+
+<total-parenteral-nutrition>
+Solution should be delivered through a central line if it's long term or if high protein or calories are required. 
+Contains 10% or greater of dextrose. 
+</total-parenteral-nutrition>
+
+<child-sleep>
+Bottle fed infants sleep for longer periods and wake up less frequently during the night than breast fed infants.
+Toddlers sleep 11-14 hours a night, with a single nap during the day.
+Infants sleep 13 hours at night and 2 naps during the day. 
+Preschoolers sleep 10-12 hours at night and one nap during the day, however most give up the nap by the age of 5.
+</child-sleep>
+
+<Lyme-disease>
+Caused by a bite of a tick, infected with Borrelia burgdorferi. 
+Indicated by bulls eye rash. 
+Early indication is flu like symptoms - fever, chills, headache. 
+Later on disease might manifest as joint inflammation and neurological symptoms. 
+</Lyme-disease>
+
+<hemophilia>
+Avoid rectal temperature measurements. 
+Only contact sports are avoided, non contact sports such as swimming are ok. 
+</hemophilia>
+
+<peritoneal-dialysis>
+Dialysis solutions contain dextrose and so it is common for a patient to experience a sweet taste in the mouth. 
+Follow fluid restrictions. 
+</peritoneal-dialysis>
+
+<newborn-pain>
+Dimming the lights does not help to alleviate pain in newborns. 
+Kangaroo care is a skin to skin contact with the mother, does reduce pain. 
+Oral glucose reduces pain response. 
+</newborn-pain>
+
+<lithium-toxicity>
+Theraputic range of lithium is 0.8-1.2 mEq/L.
+Early signs: nausea, muscle weakness and slurred speech. 
+Late sings: coarse hand tremor.
+Severe toxicity: ataxia, confusion, stupor. 
+</lithium-toxicity>
+
+<older-adult-temperature>
+Usually cooler due to lower metabolic rate.
+Fever is usually considered in temperatures over 100F (37.8C).
+</older-adult-temperature>
+
+<first-stage-of-labor>
+Contractions occur 3-5 minutes apart. 
+Contractions have a duration of 40-60 seconds. 
+Client may become doubtful in ability to control pain. 
+Cervix is dilated to 4-7 cm. 
+Cervix is effaced to 40-80%.
+Remind the client to empty the bladder often to assist in the progress of labor. 
+</first-stage-of-labor>
+
+<transition-stage-of-labor>
+Copiuos amounts of bloody show is seen. 
+</transition-stage-of-labor>
+
+<pressure-injury-risk>
+To assess the risk for pressure injury use a Braden scale. 
+Sensory perception (1 - completely limited, 2 - very limited, 3 - slightly limited, 4-not limited)
+Moisture (1 constantly moist, 2-very moist, 3-occasionally moist, 4-rarely moist)
+Activity (1 - bedridden, 2 - chair ridden, 3 - walks occasionally, 4-walks frequently)
+Mobility (1 - immobile, 2 - very limited, 3 - slightly limited, 4 - not limited)
+Nutrition (1 - very poor, 2 - probably inadequate, 3 - adequate, 4 - excellent)
+Friction and shear (1 - problem, 2 - potential problem, 3 - no apparent problem)
+
+Total score: 6-23
+17 and up - low risk
+15-16 - mild risk
+12-14 - moderate risk
+less than 11 - severe risk
+</pressure-injury-risk>
+
+<unlicensed-assistive-personal>
+Could perform hourly rounding to check on the client during a blood transfusion. 
+</unlicensed-assistive-personal>
+
+<blood-transfusion>
+Nurse must remain with the client for the first 15-30 min.
+Transfusion reactions are most likely to occur with the infusion of the first 50 mL of blood. 
+Transfusion is needed when: platelets are low enough to cause spontaneous bleeding, severe anemia reduces the amount of oxygen available. 
+Blood should be delivered over 2-3 hours with 4 hours at most. 
+Never infuse other medications with blood products as they may clot the blood. 
+</blood-transfusion>
+
+<blood-storage>
+Whole blood and packed red blood cells are refrigerated and can be stored for about a month. 
+Platelets are stored at room temperature for 5 days. 
+Plasma is frozen for up to a year. 
+</blood-storage>
+
+<brachytherapy>
+Place the client on a low residue diet to to soften the stool and reduce the chance of dislodgement. 
+Use of bedside commode is discouraged. Usually a client has an indwelling cather to prevent getting up to the bathroom. 
+</brachytherapy>
+
+<vancomycin>
+Theraputic range is 10-20 mcg/mL.
+Serum trough levels are drawn 30 min or less before the next dose, and the next dose should be adjusted based on the readings. 
+Major risk of this medication is acute-kidney-injury. It usually occurs within 10 days of the therapy. 
+Indications of renal impairment include - hematuria, proteinuria, elevated creatinine, elevated BUN. 
+Another major side effect is ototoxicity. Examine reports of unsteady gait, or oscillating vision. 
+</vancomycin>
+
+<walker-use>
+1. Stand in the middle of the walker
+2. Grasp handles
+3. Move the walker forward a few inches, making sure all four feet touch. 
+4. Step forwar with the affected leg. 
+5. Step forward with the strong leg. 
+</walker-use>
+
+<rubeola>
+Also called measles. 
+Rash develops on the hair line and behind ears and moves down until it coveres the entire body. May or may not be pruritic.
+Other symptoms include conjunctivitis, coryza (inflammation of the nasal membranes), Koplik spots and high fever as high as 105F(40.5C). 
+The rash clusters merge with one another to form large red blotches. 
+Precautions implemented should be droplet and airborne. 
+Avoid contact 4 days before and 4 days after rash onset. 
+If parents are not vaccinated, they should not visit, if they are they can stay in the room and should wear a regular shurgical mask. 
+People at high risk for severe illness are young children (less than 5 years old), adults (greater than 20 years old), pregnant women and immunocompromised. 
+The virus could live up to two hours in the air. 
+Very stringent airborne precautions must be followed, including full isolation in negative airpressure room and an N95 mask for the health care providers. 
+</rubeola>
+
+<rubella>
+Also known as german measles. 
+Less severe than rubeola and of shorter duration. 
+Symptoms are similar but the rash starts on the face. 
+Precautions implemented are airborne. 
+</rubella>
+
+<live-vaccines>
+Contraindicated in people who are on corticosteriods. 
+</live-vaccines>
+
+<important-cultural-questions>
+1. How does the client want to be greeted or addressed. 
+2. What is the cultural norm for direct eye contact. 
+3. What are the roles for older adults or children, or roles of men and women? 
+4. What kind of distance should you keep. Can you shake hands. How should the physical exam be performed?
+5. Important religious practicies that might affect the care. 
+</important-cultural-questions>
+
+
+
+<co-analgesic>
+Medications whose primary use is not for analgesia but could be used with non-opioid analgesics to better control pain.
+Primary example is lidocaine, other examples are anticonvulsants. 
+Acetaminophen is not a co-analgesic. 
+</co-analgesic>
+
+<freud-development-theory>
+Use a mnemonic - Old Age Pensioners Love Grapes. 
+Oral - birth to 1 - fixated on thumb sucking - later in life are nail biters and smokers. 
+Anal - 1 to 3 - pleasure from defication - by this time ego has developed - if potty training is harsh people become tidy, punctual and respectful of authority. The opposite traits if potty training is not restrictive. 
+Phallic - 3 to 6 - children become aware of gender differencesa - leads to Oedipus complex in boys and Electra Complex in girls. In Oedipus complex boy wants to posess his mother exclusively and get rid of father - boy develops castration anxiety - conflict is resolved by imitating father, through a process called identification - where the boy internally adopts values, attitudes and behaviours of another person. Electra complex - girl desires her father but realizes she does not have a penis. This leads to penis envy where she wishes she was a boy. The girl resolves this by repressing the desire for her father and penis envy turns into a wish to have a baby. 
+Latent - 6 to puberty - libido is dormant. Most sexual impulses are repressed and sexual energy is sublimated into schoolwork. 
+Genital - puberty to adult - sexual exploration with a resolution of settling down with a loved one.  
+</freud-development-theory>
+
+<havighurst-developement-theory>
+Developed a developmental task theory. 
+Infancy and Early Childhood - 0 to 6- tasks include learning to walk, talk and read as well as toilet training. 
+Middle Childhood -  6 to 12 - Learning to get along with children, learning masculine or feminine role, achieving personal independence. 
+Adolesense - 13-18 years - preparing for marriage and family life, preparing for a career, aquiring values and ethics. 
+Early Adulthood - 19 to 30 - Finding a marriage partner, starting a family, beginning a career.
+Middle Age - 31 to 60 - Raising children, achieving adult civic responsibility.
+Late Maturity - 61 and on - adjusting to retirement, meeting social and civil obligations. 
+</havighurst-developement-theory>
+
+<fowler-developement-theory>
+Fowler developed a theory of faith development and seeking of meaning. 
+Primal Undiferrentiated Faith - 0 to 3 - similar to trust vs mistrust stage of Erikson. Developemnt of trust in the harmony of the universe or mistrust. 
+Intuitive Projective Faith - 3 to 7 - faith develops through encounters with stories and images. Intuitive understanding of right and wrong and God. Imitates the religious behaviours of parents.  
+Mythic Literal Faith - 7 to 12 - belief in justice and fairness, reciprocity (doing good will get a good result) - understand the Bible stories as literal. 
+Synthetic Conventional Faith - 12 to adult - identification with an institution, conflicts that occur with faith are ignored. Perception of the divine as an abstract and formless entity. 
+Individuative Reflective Faith - mid twenties to mid thirties - struggle as individual takes personal responsibility for their beliefs, greater nuance in beliefs and open mindidness. 
+Conjunctive Faith - Mid life - develops a multi dimensional view of faith and truth. 
+Enlightment - Later adulthood - rarely achieved by individuals, differences in religious beliefs are not an issue, regars everyone worthy of compassion. These individuals manifest the saying "kingdom of God is within you".
+</fowler-developement-theory>
+
+<kohlberg-development-theory>
+Developed a theory of moral development in children.
+Obidience orientation and punishment - 0 to 4 - see rules as fixed and absolute, obeying the rules is important as a way to avoid punishment. 
+Individualism and Exchange - 4 to 9 - judge actions based on what they bring them in exchange. 
+Good Interpersonal Relationships - 9 to 15 - good boy or girl orientation, emphasis on conformity and being nice, considering how choices influce relationships. 
+Maintaining Social Order - 15 to 30 - following social rules and considering effect on society as a whole.
+Social Contract - 30 to 60 - accounting for differnt values and beliefs of other people. 
+Universal Principles - 60 and on - people follow internalized principles of justice even if they conflict with laws and rules. 
+</kohlberg-development-theory>
+
+<piaget-development-theory>
+Developed a theory of cognitive developement. 
+Sensorimotor stage - 0 to 2 - knowing the world through movement and sensations, develop object permanance and separate themselves from the environment. 
+Preoperation stage - 2 to 7 - begin to think symbolically and use words and pictures to represent objects. Egocentrism and only see their own perspective. Very concrete and literal thinking. 
+Concrete operational stage - 7 to 11 - think logically about events, develop concepts of conservation of liquids. Begin using inductive logic. 
+Formal operational stage - `12 and up - abstract thinking about hypothetical problems, generate new ideas from learned ones. 
+</piaget-development-theory>
+
+<theory-of-play>
+Unoccupied play - 0 to 3 months - play by learning how their body moves. 
+Solitary play - 3 monts to 2 years - child plays alone, not interested in playing with others. 
+Spectator play - 2 years - watches other children playing but does not play with them. 
+Parallel play - 2 to 3 - doing an activity similar to the other kids but not interacting with them. 
+Associate play - 3 to 4 - associate with others but there is not much cooperation.
+Team play - 4 onwards - has roles within a larger team. 
+</theory-of-play>
+
+<eriksons-develeopment-theory>
+Developed a set of milestones individuals reach or don't reach through their life and virtues that emerge from reaching or failing to reach a particualr milestone. 
+Trust vs Mistrust - 0 to 1 - either they trust the parent will come or not - successfully gaining trust leads to a virtue of Hope and Prospect.
+Autonomy vs Shame and Doubt - 1 to 3 - Either kids learn to become independent or they are ashamed and doubtfull - leads to a virtue of Willpower.
+Initiative vs Guilt - 3 to 6 - Either kids learn that asking questions and exploring is good or they feel guilty for doing so - leads to a virtue of Purpose. 
+Industry vs Inferiority - 6 to 11 - either kids learn to be industrious or they feel inferior. Successfully mastering industry leads to a virtue of Competence. 
+Identity vs Role Confusion - 12 to 20 - kids learn who they are or are uncenrtain about themselves - leads to a virtue of Fidelity. 
+Intimacy vs Isolation - 20 to 40 - virtue developed is Love
+Generativity vs Stagnation - 60 onward - either create a generation or stagnate, virtue developed is Care. 
+Integrity vs Dispair - virtue developed is Wisdom. 
+</eriksons-develeopment-theory>
+
+<speech-development>
+0 to 6 months - coos giggles, makes noises when talked to. 
+6 to 1 year - understands no, babbles (ba-ba-ba), says mama or dada without meaning. Communicates with gestures. Tries to repeat your sounds. First word. 
+1 year to 1.5 years - Says 2 or 3 words, vocabulary of 4 to 6 words. 
+1.5 years to 2 years - vocabulary of 50 words, asks for food by name, makes animal sounds, starting to combine words like "more milk". Begins using pronouns like "mine". Uses 2 word phrases. 
+2 to 3 years - knows some spacial concepts like "in" or "on". Pronouns like "you", "me", "her". Descriptive words like "big" or "happy". Uses 3 word sentences. Uses question inflection. Begins using plurals and simple tenses. 
+3 to 4 years - groups objects like food and clothes, some sounds still distorted. Strangers able to understand much of what is said. Able to describe use of objects. Enjoys poems and language absurdities. Like "is that an elephant on your head". Expresses ideas and feeling rather than just describing the world. Answers simple quesitons. Repeats sentences. 
+4 to 5 years - undrstand more advanced spatial concepts like "next to". Understands compelex questions. Answers why questions. Lists items in a category. 
+5 years - undrstands time sequences (what happened first, second etc.). Carries out a series of 3 directions. Understands rhyming. Engages in conversations. Sentences of 8 words or more and are compound and complex. Uses imagination to create stories. 
+</speech-development>
+
+<child-gross-motor-developement>
+0 to 2 months - lifts head, minor head lag with pull to sit is ok. 
+3 to 4 months - head lag should disappear completley, pushes up with arms and turns head while on belly. Tolerates tummy time well. Rolls from belly to back. 
+5 months - rolls from back to belly. Brings feet to mouth. Pivots in a circle on belly. Can sit with support. 
+6 to 8 months - Sits without support. 
+9 to 11 months - moves between layout down and sitting upright. Crawls. Pulls to a standing position. Cruises around furniture. Walks with two hands held. 
+11 to 12 months - walks with one hand held. 
+13 to 14 months - walks alone 
+15 to 18 months - walks up stairs, can run but falls easily. Kicks ball forward. 
+2 years - walks and run well. Jumps in place. 
+</child-gross-motor-developement>
+
+<child-fine-motor-development>
+birth - reflexive grasp
+3 months - inffective reach for objects, voluntary grasp. 
+6 months - controlled reach. 
+6 to 12 months - grasps and puts objects in mouth. Pincer grasp (thumb and one finger). Transfers objects from one hand to another. 
+1 to 2 years - builds a tower of three blocks. Self feeds with small amount of assistance. Brings spoon to mouth. Holds drinks and cups. 
+2 to 3 years - can turn pages of a book. Holds crayons with thumb and fingers, not fist. Eats without assistance. 
+</child-fine-motor-development>
+
+<narcotic-dispension-law>
+It's the law that two nurses (either LPNs or RNs) must sign that the narcotic was wasted. 
+Placebos are allowed by law but banned by the ethics committees. 
+A count must be done at the beginning and end of shift by law. 
+A law requires all narcotics to be in a locked cabinet. 
+</narcotic-dispension-law> 
+
+<medication-administration>
+Medication should be checked three times before administration. 
+</medication-administration>
+
+<blepharitis>
+Inflammation of a margin of an eyelid. 
+</blepharitis>
+
+<chalazion>
+Cyst in the eyelid (upper or lower).
+</chalazion>
+
+<exopthalmos>
+Protrusion of the eyeball, often seen in patients with hyperthyroidism. 
+</exopthalmos>
+
+<presbyopia>
+Far sightetness. Occurs naturally with age as elasticity of the crystalline lens is lost. 
+</presbyopia>
+
+<aplastic-anemia>
+Leads to pancytopenia - a severe decrease in all blood cells. 
+Some medications could cause this type of anemia like - cimetidine, NSAIDs, sulfonamides. 
+</aplastic-anemia>
+
+<leukocytosis>
+Abnormal increase in the number of white blood cells - could be induced by some medications like lithium. It's not as serious as leukocytopenia (reduced white blood cells).
+</leukocytosis>
+
+<granulocytes>
+Types of white blood cells that include eosinophil, basophils and netrophils). 
+Granulocytosis or excess of these cells is often seen when the body is fighting an infection. 
+</granulocytes>
+
+<agranulocytosis>
+A lack of granulocytes (not an increase in agranulocytes as the name might suggest).
+Also known as granulocytopenia. 
+Some medications which could cause this are antithyroid medications such as carbimazole and methimazole, NSAIDS, and clozapine. 
+</agranulocytosis>
+
+<agranulocytes>
+Types of white blood cells that include monocytes and lymphocytes.
+</agranulocytes>
+
+<sickle-cell-anemia>
+A crisis could begin due to fever, stress or dehydration. 
+Staying hydrated is the most import aspect of the teaching. 
+Follow a high calorie, high protein diet.
+Avoid flying on a plane - high altitudes can precipitate a crisis due to body's higher demand for oxygen. 
+</sickle-cell-anemia>
+
+<first-stage-of-labor>
+Extends until the cervix is fully dialted at 10 cm. Consists of two stages - early labor and active labor. 
+During early labor cervix dilates from 0cm to 6cm. A bloody show appears which is the mucus plug appears which covers the cervix. 
+During early labor the woman can take a walk, listen to relaxing music. Can stay home if the pregnancy is uncomplicated. 
+During active labor the cervix will dilate from 6cm to 7 cm. Contractions will become stronger and more regular. The water might brake at this point. Now is the time to head to the facility. 
+Average dilation rate of cervix is 1 cm an hour.
+Active labor usually lasts between 4 to 8 hours. 
+During active labor you can walk or roll on a ball.
+Active labor ends when the cervix dilates to 7cm. 
+</first-stage-of-labor>
+
+<effacement>
+Measured in percentages. 
+</effacement>
+
+<transition-stage-of-labor>
+Begins when the cervix is dilated by 7cm and ends when it's fully dilated at 10cm. 
+The most intense part of labor. Contractions are the strongest. 
+Contractions come every 2 to 3 minutes and last 60 to 90 seconds. 
+</transition-stage-of-labor>
+
+<second-stage-of-labor>
+Contractions are more spaced out, giving a chance to rest. Urge to push as baby gets lower. 
+</second-stage-of-labor>
+
+<third-stage-of-labor>
+Delivery of the placenta. Usually have to give a small push to separate the placenta. Uterus begins to contract. 
+</third-stage-of-labor>
+
+<fourth-stage-of-labor>
+Recovery and bonding with the infant. 
+</fourth-stage-of-labor>
+
+<hypotonic-solution>
+Examples are D2.5W, 0.33%NS, D5W after metabolism - initially it's isotonic.
+</hypotonic-solution>
+
+<hypertonic-solutions>
+D5W in 0.9% Normal Saline, D51/2NS. Any Dextrose 5% in saline above 1/4. 
+</hypertonic-solutions>
+
+<isotonic-solutions>
+D51/4NS
+</isotonic-solutions>
+
+<magnesium-sulfate>
+Tocolytic agent given to women to reduce the intensity of contractions or to prevent premature labor. 
+</magnesium-sulfate>
+
+<carboprost-tromethamine>
+Brand name is Hemabate. 
+It is a naturally occuring prostaglandin F2a.
+Used to induce labor or to treat subinvolution. 
+Induces uterine contractions. 
+</carboprost-tromethamine>
+
+<methylergovine>
+Brand name is methergine. 
+Ergot alkaloid that improves uterine muscle tone and strength and timing of contractions. 
+Administed in post partum care to help deliver the placenta and help with uterine atony. 
+</methylergovine>
+
+<oral-potassium>
+Could be distasteful, capsules can be opened and sprinkled in apple sauce. 
+Potassium is irratating to the esophagus and should not be given on an empty stomach. 
+</oral-potassium>
+
+<visual-acuity>
+Checked with a Snellen chart, by having the patient stand 20 feet away. 
+</visual-acuity>
+
+<intro-ocular-pressure>
+Checked by a device called a tonometer. 
+</intro-ocular-pressure>
+
+<gestational-length>
+After 14th week about 1 cm per week. At 20 weeks the baby should be about 20 centimeters or 8 inches. Average birth length is 50cm or 20 inches. 
+</gestational-length>
+
+<fetal-development-milestones>
+First trimester - development of major organs and structures. 
+Second trimester - organs continue developing and woman becomes aware of the pregnancy. 
+Third trimester - fetal lungs begin movements of respiration at 24 weeks. Fetus can open its eyes at 28 weeks. Fingernails comple development at 38 weeks of gestation. 
+</fetal-development-milestones>
+
+<infant-apical-pulse>
+Auscultated at 4th intercostal left sternal border. 
+</infant-apical-pulse>
+
+<navajo-culture>
+Navajo are the second most populous native American cultures. 
+Their main source of protein in sheep meat. 
+Major vegetables are corn and squash.
+</navajo-culture>
+
+<arabic-culture>
+Do not consume juice or beverages until the meal is over. 
+</arabic-culture>
+
+<african-american-culture>
+Graciously accept all gifts and do not reject them. 
+</african-american-culture>
+
+<chinese-culture>
+Serve foods in specific order. 
+</chinese-culture>
+
+<diseases-of-the-nail>
+Onychomycosis - nail fungus, causes thickening of the nail and brittleness. 
+Onychomadesis - proximal separation of the nail bed due to a temporation sessation of nail growth. 
+Onychorrhexis - brittle nails, appears as vertical lines and cracks in the nail. Rhexis is "splitting" in Greek.
+Onychia - infection of the soft parts around the nail or the matrix beneath it. 
+Paronychia - similar to onychia as it's an infection of the nail folds, but proximal ones. 
+</diseases-of-the-nail>
+
+<transdermal-patch>
+May reinforce the patch with tape if it starts to loosen. 
+</transdermal-patch>
+
+<rho-gam>
+Also known as Rho(D) immune globulin. 
+Administered at 28 weeks of gestation and then again within 72 hours after delivery. 
+Contraindicated to patients who are Rh positive or those who have elevated temperature. 
+</rho-gam>
+
+<Cushing-syndrome>
+Characterized by a chronic exposure to a corticosteroid. Could either be secondary due to medication or primary. 
+</Cushing-syndrome>
+
+<hyperthyroidism>
+Treatment with propranolol (to relieve cardiac manifestations) and propylthiouracil (if methimazole did not work well) is common. 
+</hyperthyroidism>
+
+<spinal-cord-damage>
+Gold standard to diagnose is a CT scan. 
+</spinal-cord-damage>
+
+<hemoglobin>
+Reference range is 13.5 - 17.5
+</hemoglobin>
+
+<hematocrit>
+Adult male reference range is 45% - 52%. 
+</hematocrit>
+
+<dermatomes>
+C8 - can control shoulders and entire length of the arm.
+C4 - can control shoulders
+T1 - control parts of muscles of underside of arms
+T2 and below - control of torso
+L1 and below - below the waist
+S1 and S2 - lateral part of heels and genitals
+</dermatomes>
+
+<insulin>
+Should not be shaken because that causes bubbles and froth which could cause the insulin to stick to the vial. 
+Should be gently rolled in the hands or turned upside down a few times, but not vigorously shaken. 
 </insulin>
 
+<ventricular-dysrythmia>
+Amiodarone and lidocaine are administered.
+</ventricular-dysrythmia>
+
+<burns-fluid-resucitation>
+Based on the Parkland formula, should be started in adults with 15% or greater surface area burned and children with 10% or more surface area affected. 
+4ml x %tba x (body weight in kg) with 50% given in first 8 hours and another 50% in the next 16 hours. 
+
+For children, in addition to the formula above give:
+additional 4ml/kg for first 10kg of body weight 
+additional 2ml/kg for second 10kg body weight
+additional 1ml/kg for remaining weight 
+</burns-fluid-resucitation>
+
+<septic-shock>
+Fluid resucitation should be started at 30ml/kg
+Should start infusing an empirical antibiotic (antibiotic directed against a likely cause). 
+</septic-shock>
+
+<spontaneous-abortion>
+Occurs if the woman delivers before 20 weeks (fetus is not able to survive before that).    
+</spontaneous-abortion>
+
+<intra-cranial-pressure>
+Standard ICP is 5 - 15 mmHg.
+To decrease the pressure the head of bed should be at 30-40%. 
+Neck should not be flexed. 
+</intra-cranial-pressure>
+
+<dicyclomine>
+Has antispasmodic properties, and anticholinergic properties. 
+Used in treatment of irritable bowel syndrome. 
+Usually administed on PRN basis for abdominal cramping. 
+Main adverse effect is dizzinees. 
+</dicyclomine>
+
+<Indian-culture>
+Women wear a sari, which is a long dress.
+Majority of people follow a Hindu religion (80%), the largest minority is Muslim (16%) and the rest 6% are Christian, Buddhist, Sikh and Jains. 
+Use prayer beads called Japa Mala, which is also used in Buddhism. 
+</Indian-culture>
+
+<infant-cardiac-problems>
+Early sign is trouble feeding.
+Classical sign is irrtability. 
+</infant-cardiac-problems>
+
+<body-mass-index>
+Normal BMI is 18.5 - 25
+</body-mass-index>
+
+<assult-and-battery>
+Assualt is threatening the client in fear. 
+Battery is touching the client without consent. 
+</assult-and-battery>
+
+<atelectasis>
+Common complication in the post operative period especially after abdominal surgeries, due to accumulation of mucus due to inefficient throx expansion. 
+If it's not addressed it might progress to pneumonia. 
+If the client has to stay in bed they have to be supine and head of bed needs to be elevated or semi-recumbent (30-45 degrees). 
+Encourage the client to cough at least 10 times per hour. 
+</atelectasis>
+
+<type-1-diabetes>
+Eat 15-30 grams of a simple-carbohydrate before exercising, not a complex carb (since it takes a long time to digest).
+</type-1-diabetes>
+
+<simple-carbohydrate>
+15 grams of simple carbohydrate examples:
+1 tablespoon of sugar in water or honey. 
+1/2 cup of apple/orange juice or soda
+1 cup of milk 
+3-4 glucose tablets 
+</simple-carbohydrate>
+
+<Legionnaires-disease>
+Not transmissible from person to person, so standard precautions are used. 
+Transmitted by inhaling droplets of contaminated water.
+</Legionnaires-disease>
+
+<rotavirus>
+Transmitted by fecal oral route. 
+</rotavirus>
+
+<hepatic-encephalopathy>
+Asterixis is a common occurance, which is a flapping hand tremor. 
+</hepatic-encephalopathy>
+
+<venous-insufficiency>
+Associated with painless skin ulcers. 
+Brown colored skin, near the ankles. 
+Plulse is present and normal.
+Edema is common. 
+Ulcers are painless and appear on area near ankle and tibia, they are very irregular and shallow. 
+</venous-insufficiency>
+
+<peripheral-arterial-disease>
+Dangle the legs to increase perfusion. 
+Pain worst at night and after sleep. 
+Intermittent claudication - Pain and cramping when exercising that stops when you rest.
+Cool to touch and hairless skin. 
+Thick toenails. 
+Pulse is weak.
+Ulcers located on ends of toes, top of feet, or sides of heels.
+Ulcers look punched out. 
+Edema is not commmon. 
+Legs become red with dangling. 
+</peripheral-arterial-disease>
+
+<turgor>
+Check turgor midpoint right below the clavicles or on the inner forearm. 
+</turgor>
+
+<contrast>
+Avoid taking metformin before hand as it could cause contrast related nephrotoxicity and lactic acidosis. 
+Metformin should be stopped immediately before the procedure and witheld for at least 48 hours. 
+</contrast>
+
+<milia>
+Tine white dots that appear on the skin. Most often on infant faces. 
+Happens when skin flakes become trapped in pockets near the surface. 
+Harmless and goes away on its own. 
+</milia>
+
+<tuberculosis>
+Common therapy is a coctail of 4 drugs - isoniazid, rifampin, pyrazinamide and ethembutol for 2 months, followed by 4 months of just isoniazid and rifampin. 
+All four drugs could cause liver damage, pay attention to jaundice and clay colored stools. 
+Tuberculosis is no longer contagious after 2 weeks of antibiotic treatment. 
+Isoniazid - Major sidefect is peripheral neuropathy. Have to take a B complex vitamin as isoniazid deplestes the stores of pyridoxine (B6). Has to be taken for at least 6 months. 
+Rifampin - common side effect is turning your urine, sweat and stool reddish orange.
+Pyrazinamide - can cause hyperuricemia or elevated uric acid in the blood, could cause gout and kidney stones. 
+Ethambutol - can cause vision loss, report loss of color vision, blurred vision or increased light sensitivity. 
+</tuberculosis>
+
+
+<prolapsed-cord>
+A medical emergency, stay with the patient and call for help.
+Don't handle the cord or try to push it back in. 
+Try to lift the fetus off the cord. 
+Place the client on left lateral, trendelenburg position.
+Give oxygen and prepare for emergency c-section. 
+</prolapsed-cord>
+
+<tracheal-suctioning>
+Limit suction to 100-120 mmHg in adults and 80-100 in children. 
+Limit duration to 10-15 seconds for adults and 10 seconds for children. 
+Avoid routine suctioning. 
+If the client has bradycardia (from vagal response) or tachycardia, suction fast - 5 second continuous or 10 second intermittent. 
+Advance catherter premeasured distance only. 
+</tracheal-suctioning>
+
+<knee-arthroplasty>
+Place the client in a continous passive motion machine that moves the leg for them for 6-8 hours per day. This increases the range of motion. 
+</knee-arthroplasty>
+
+<hypokalemia>
+Major effect on breathing - weakens muscle needed to breathe. Results in shallow respirations. 
+</hypokalemia>
+
+<oral-contraceptives>
+Increase the risk of clots and strokes in women who smoke more than 10 cigarettes per day. 
+</oral-contraceptives>
+
+
+<phenylketonuria>
+Impaired metabolism of an essential amino acid phenylalanine. 
+Foods high in protein have this amino acid - such as meats, cheeses, eggs. 
+</phenylketonuria>
+
+<antipsychotics>
+Could cause an extrapyramidal syndrome - which can cause parkinson like symptoms such as shuffling gait and stooped posture. Tardive dyskinesia is a form of extrapyramidal syndrome which mostly involves the face. 
+Could cause acute dystonic reaction - this could cause lyringial spasms - usually treated with anticholinergics and benzodiazapeines. 
+Could cause neuroleptic-malignant-syndrome - symtoms are high fever (102-104F), muscle rigidity, 
+</antipsychotics>
+
+<malignant-hyperthermia>
+Genetic disorder characterized by abnormal reaction to anesthetic drugs. 
+</malignant-hyperthermia>
+
+<nsaids>
+Antacids should be taken with this class of drugs to prevent GI bleeding. 
+</nsaids>
+
+<latin-american-culture>
+Curandero is a traditional healer. 
+</latin-american-culture>
+
+<pulse>
+During an infant cardiac arrest the best place to check for pulse is the brachial artery. 
+During an adult cardiac arrest the best place to check for pulse is the carotid artery. 
+</pulse>
+
+<magnesium-sulfate>
+Monitor for respiratory depression. 
+</magnesium-sulfate>
+
+<eclampsia>
+Severe outcome of pre-eclampsia, results in blood pressure so high that it causes seizures.
+</eclampsia>
+
+<pre-eclampsia> 
+Symptoms include epigastric pain, espcially in the right side. 
+Changes in vision such as blurring. 
+Proteinuria. 
+</pre-eclampsia>
+
+<septic-shock>
+Type of distributed shock. 
+First phase is the warm shock alsko known as hyperdynamic shock. The blood pressure at this stage is usually within normal limits, the cardiac output and heart rate increase and there is vasodialation, causing the skin to feel warm. Prompt intervention of IV fluids and antibiotics at this stage improves the outcomes greatly. 
+</septic-shock>
+
+<digoxin>
+Must monitor potassium during digoxin administration. If patient is hypokalemic digoxin toxicity could be worsened. If hyperkalemic digoxin will not be as effective. 
+</digoxin>
+
+<pregnancy>
+Left side lying position is the best for expectant mothers, as it promotes optimal placental oxygenation. 
+</pregnancy>
+
+<retinal-detachment>
+Medical emergency. 
+Instruct the client to stop all head and eye movements and apply an eye patch to the eye. 
+</retinal-detachment>
+
+<iron-deficiency-anemia>
+Infants 12-16 months of age are at high risk for developing it because by that age maternal stores have depleted. 
+</iron-deficiency-anemia>
+
+<bradycardia>
+Epinephrine is the drug of choice for bradycardia in a child. 
+If the child has an IV the dose of epinephrine should be 1:10000 if there is no IV in place then must use 1:1000 dose concentration. 
+The dosage calculation for children is 0.1ml/kg.
+Epinephrine should be given every 3-5 minutes until bradycardia is resolved. 
+</bradycardia>
+
+<intraosseous-access>
+Used mostly for children and newborns. 
+Used because they are faster to establish to deliver treatment in a patient in whom IV lines are difficult to establish. 
+Patients are switched over to IV medication within 24 hours. 
+</intraosseous-access>
+
+<burns>
+Intramuscular administion is avoided as patients with burns are usually hemodynamically unstable and so tissue and muscle perfusion and absorption is not dependable. 
+</burns>
+
+<intubation>
+First drug to be administed is propofol to induce sleep. 
+Then administer a paralytic agent such as vecuronium, rocuronium or succinylcholine. 
+</intubation>
+
+<thrombophlebitis>
+Can be caused by failure to change IV sites every 72 hours. 
+</thrombophlebitis>
+
+<asceptic-technique>
+Intended to try to minimize contamination with pathogens. Sterile technique on the other hand is aimed at eliminating all pathogens. 
+</asceptic-technique>
+
+<immunocompromised>
+Frequent and meticulous hand washing. 
+Fresh fruits and flowers can contain pathogens, all fruits and vegies should be cooked. Plants and flowers are not allowed in the room. 
+Neutropenia is particulary dangerous as it could lead to life threatening infections. Neutropenic paties should have a private room. 
+</immunocompromised>
+
+<semi-private-room>
+Hospital room with two beds and a curtain or divider between them. 
+</semi-private-room>
+
+<terbutaline>
+Beta 1 agonist - causes vasodilation
+Tocolytic used to prevent premature labor. 
+Could raise blood sugar levels. 
+Could lower serum potassium, stop the infusion if potassium drops below 3.5 mEq/L.
+Being a beta 1 agonist one of the side effects is tachycardia. Infusion should be stopped if heart rate exceeds 120 bpm. 
+Infusion should be stopped if blood pressure drops below 90/60.     
+</terbutaline>
+
+<appendicitis>
+An examination will reveal rebound tenderness at McBurney's point - point 2/3 of length between naval and anterior superior iliac spine. 
+Rovsing sign - tenderness on right side when left side is palpated. 
+Orburator sign - pain on movement of the hip joint while knee is flexed. 
+If pain suddently disappears, appendix must have ruptured. Must do a CT scan to confirm. 
+</appendicitis>
+
+<cushing-disease>
+Diet should be low sodium, high protein, and low fat, increased calcium and vitamin D. Higher fiber foods to lower cholesterol are also encouraged. 
+</cushing-disease>
+
+<bulimia-nervosa>
+Buproprion is contraindicated because of the weight loss associated with it. 
+</bulimia-nervosa>
+
+<smoke-alarm>
+Change batteries when the day-light saving time changes, which is approximately twice a year.
+</smoke-alarm>
+
+<ectopy>
+Changes in otherwise normal heart beat. Most common forms are PVCs and PVAs (premature atrial contrations). 
+</ectopy>
+
+<respiratory-distress>
+In children significantly increases insensible fluid loss and therefore causes dehydration. Requires an addition of 20-50% of fluid than normal to compensate.  
+</respiratory-distress>
+
+<respiratory-acidosis>
+Takes 3-5 days to become compensated. Acute respiratory acidosis is uncompensated.  
+</respiratory-acidosis>
+
+<iron-deficiency-anemia>
+Causes the RBCs to be hypochromic (pale, lacking central color) and microcytic (small). 
+</iron-deficiency-anemia>
+
+<medication-refusal>
+First inquire about the reason for refusal. 
+Then educate the client about the benefits of the medecine and address their concerns. 
+If the client still refuses to take the medication, document it and inform the primary health care provider. 
+</medication-refusal>
+
+<opioid-analgesia>
+Morphine equivalency is a term that describes comparative potency of an opiod analgestic when compared with perenteral morphine. 
+</opioid-analgesia>
+
+<bed-bath>
+A client can have prefenreces how often they wish to bathe. Once a week is ok also. As long as the client remains hygenic. 
+</bed-bath>
+
+<nasogastric-tube>
+If the tube is correctly inserted into the stomach the sample pH should be at or below 3.5 pH. 
+</nasogastric-tube>
+
+<tetrology-of-fallot>
+Mnemonic to remember this condition is PROVe.
+P - Pulmonary inficibular stenosis
+R - Right ventricular hypertrophy
+O - Overriding aorta
+V - Ventral Septal Defect
+</tetrology-of-fallot>
+
+<open-angle-glaucoma>
+Common risk factors are: older age, african american ethnicity, type 2 diabetes. 
+</open-angle-glaucoma>
+
+<enterohepatic-circulation>
+Bile acids and salts are absorbed into the intestine and then re-excreted again to reabsorb as much nutrients as possible. 
+</enterohepatic-circulation>
+
+<phenytoin>
+Anticonvulsant.
+Should not be taken with calcium carbonate because it decreases the effectiveness of phenytoin. 
+</phenytoin>
+
+<myocardial-enzymes>
+Troponin - the gold standard, rises about 3-4 hours after MI and remains raised for 3 weeks. It's also the most specific biomarker for MI. 
+CPK-MB - levels rise in 3-6 hours and peak in 24 hours. Not the most specific to the heart though. 
+Creatine kinase - also found in brain, muscles and other tissue. Any time there is muscle damage there is an elevation of this enzyme. Negative result of this are a good indication to rule out an MI, but positives are non specific. 
+Myglobin - present in all muscles, only negative results are considered to rule out MI. 
+</myocardial-enzymes>
+
+<alcohol-withdrawal>
+Symptoms typically evolve in 4 phases: 
+Early withdrawal - mild tremors, start about 4-12 hours after last drink and are accompanied by other symptoms like nausea, insomnia, and headaches. Patient is still A and O. 
+Moderate withdrawal - patient is somewhat confused and hyperactive, in this stage remember that "everything increases" - blood pressure, temperature, heart rate, respirations etc. 
+Strong withdrawal - auditory or visual hallucinations. Begins 12-24 hours after last drink, can last 1 to 2 days. Usually the patinets are alrets and not disoriented but report seeing bugs in the room. These can be very scary to the patient, nurse needs to stay with them, notify the physician and implement seizure precautions. 
+Severe withdrawal - delirium tremens. Typically occurs 3-5 days after the last drink. Considered a medical emergency. Sympathetic overdrive - fever and hypertension which can progress to cardiovascular collapse. Hallucinations continue but are more immersive and can eveolve into tonic-clonic seizures. 
+</alcohol-withdrawal>
+
+<umbilical-cord>
+Normal number of vessels is three. Two arteries and one vein. 
+Two arteries return wastes to the mother. The single vein carries nutrients and oxygen to the baby. 
+The color of the cord is usually blue and white. 
+</umbilical-cord>
+
+<neonatal-jaundice>
+Occurs in 60-80% of term newborns in the first week of life. 
+Jaundice first becomes visible on face and forehead and then on extremities and trunk. This is called a cephalocaudal progression. 
+Newborn should be tested for Rh incompatibility and hyperbilirubinemia. 
+Press finger over bridge of nose to blanch the skin and watch for yellow discoloration on blanching. 
+</neonatal-jaundice>
+
+<mongolian-spot>
+Temporary spot found in babies of Mediterranin, Latin American or Asian descent. 
+Will fade in months or years. 
+</mongolian-spot>
+
+<heme-cell-family>
+Common myeloid progenitor - Produces megalocaryocyte (produces platelets), erythrocyte, mast cell (release histamine), myeloblast.
+Myeloblast - produces neutrophils, eosinophils, basophils as well as monocytes. 
+Monocytes - found in blood, migrate to tissue to form macrophages. 
+Neutrophils - most abundant leukocyte, accounding for 40-70% of them. Highly motile, capable of chemotaxis. Capable of mobilizing other cells and can phagocytize pathogens. 
+Eosinophils - respond to parasitic infections and allergic reactions, account for about 2-3% of leukocytes. 
+Basophils - least common type of leukocytes, accounting for about 0.5 - 1% of these cells. Appear in inflammatory allergic reactions.
+
+Common lymphoid progenitor - produces B lymphocytes, T lymphocytes, and Natural Killer Cells, these account for 30-60% of all cells. 
+B lymphocytes - integral part of humoral immunity system. When they detect an antigen they turn into an antibody secreting plasma cells. 
+T lymphocytes - CD8+ killer T cless contain cytotoxins and are able to kill other cells directly. CD4+ helper T cells - activate B memory cells and other T cells. 
+Natural killer cells - work in an analogous way to T cells by utilizing cytotoxins, but do not require activation to kill cells that are missing the self markers.
+</heme-cell-family>
+
+<multiple-myeloma>
+Proliferation of plasma cells, leading to bone pain and loss. Affects the ability to fight infections. 
+Bone scans are usually falsely negative and are therefore not performed. Usually normal X rays are ordered. 
+</multiple-myeloma>
+
+<bone-scan>
+A small amount of radionucleotide is injected and scans are done at intervals. Asked to drink a lot of water to rid of radiation. Asked to empty bladder before the scan. 
+</bone-scan>
+
+<nutrition>
+45-65% of calories should come from complex carbs that are rich in fiber such as whole wheat pasta, brown rice, granola. 20-30% from fat and 10-20% from protein. 
+</nutrition>
+
+<Weber-test>
+Can distinguish between unilateral conductive hearing loss (middle ear) or sensorineural (inner ear) hearing loss. Cannot determine which ear has hearing loss. 
+Tuning fork is placed against a bone on top of the head or face and if the affected ear hears the noise louder then it is a conductive hearing loss, if the normal ear hears it louder then it's sensorimotor hearing loss. 
+Rinne test must be performed to detect hearing loss that patient is not aware of. 
+</Weber-test>
+
+<speaking-with-deaf>
+Good lighting, rephrase rather than repeat, do not raise voice. 
+</speaking-with-deaf>
+
+
+<diaper-dermatitis>
+Less in breast fed babies. 
+Barrier cream should not be removed with every diaper change. 
+</diaper-dermatitis>
+
+<toddler-nutrition>
+Finger foods like diced bananas and avocados. 
+Skim milk should not be offered until 2 years of age, babies need fat in whole fat milk for brain development. 
+Grapes should be cut in small pieces to reduce chances of choking. 
+Toddlers could be very picky and could through tamper tantrums to get the food they like. 
+Decrease in apetite because of a significantly decreased growth (compared to infant years). 
+Should not insist the child to eat if they have no interest in eating or making them finish the plate. 
+Like routine and predictability.
+Serve favorite food along with a small amount of new food to try. 
+Focus on high nutrition not high calories. 
+Don't use sweets as rewards, don't withold favorite food as punishment.     
+</toddler-nutrition>
+
+<contraindications-to-breastfeeding>
+Clients with active varicella. 
+Active TB infection that is untreated. 
+Active herpes on the breast. 
+</contraindications-to-breastfeeding>
+
+<advanced-directives>
+Different from a DNR. Lists directives that the client may wish to be implemented. DNR simply says do not resucitate if the heart stops. 
+</advanced-directives>
+
+<stroke>
+Keep head of bed elevated by about 15-30 degrees, not higher (not high Fowler's position) to keep IC pressure down. 
+</stroke>
+
+<hypoglycemia>
+Treatment should occur if sugar falls below 70mg/dL. 
+If patinet as concious give a simple oral carb.
+If unconcious then administer 1mg of glucagon subq. or 25-50ml of 50% dextrose IV. 
+</hypoglycemia>
+
+<droplet-precautions>
+Staff who are not wearing a mask should keep 3 feet (1 meter) away. 
+</droplet-precautions>
+
+<monoamine-oxidase-inhibitors>
+May precipitate a hypertensive crisis, especially in presence of foods that contain tyramine. 
+</monoamine-oxidase-inhibitors>
+
+<bipolar-mania>
+For acute mania lithium must be at 1-1.5 mEq/L 
+For maintance dose it must be at 0.6-1.2 mEq/L 
+</bipolar-mania>
+
+<positron-emission-tomography>
+Long procedure, can last as long as 2 hours. 
+A radio isotope is administered as a dye (client may feel the flush and metalic taste) and the client waits on the stretcher for 35-45 minutues while the isotope circulates. 
+Increase fluids. 
+Can visualize brain activity by highlighting glucose. 
+</positron-emission-tomography>
+
+<retroperitoneal-bleeding>
+Cullen's sign - is bruising around the umbilicus. 
+Gray turner's sign - brusing around the flank. 
+Gross hematuria. 
+</retroperitoneal-bleeding>
+
+<Cullens-sign>
+Brusing around the umbilicus. 
+Could indicate acute pancreatitis, ruptured ectopic pregnancy, aortic rupture. 
+</Cullens-sign>
+
+<sepsis>
+In early sepsis all organ systems are involved and it's important to identify this stage. Follow the SIRS (Systemic Inflammatory Response Syndrome) guidelines:
+If two or more of these criteria are present then the client is progressing toward sepsis. 
+Heart rater >90 bpm. 
+Temperature > 101F OR less than 96.8F
+Respiratory rate >20 bpm or PaCO2 less than 32 mmHg.  
+WBC > 12,000/mL or > 10% bands (immature neturophils) present. 
+</sepsis>
+
+<bands>
+Immature neutrophils, produced in high amounts when there is an active infection. 
+</bands>
+
+<thoracentesis>
+A 14 or 16 guage needle is used to drain the air or fluid from the lungs to relieve the pressure.   
+</thoracentesis>
+
+<hemorrhagic-shock>
+Symptoms: no urine output, tachycardia and hypotension. 
+</hemorrhagic-shock>
+
+
+<age-appropriate-toys>
+Birth - 2 months: mobile maintained 8-10 inches from face. 
+2-4 months - rattles, cradle gym. 
+4-6 months - brightly colored toys (small enough to grasp, large enough not to swallow).
+6-9 months - large toys with bright colors, movable parts and noisemakers. 
+9-12 months - books with pictures, large push and pull toys, teddy bears. 
+</age-appropriate-toys>
+
+<staff-conflict-resolution>
+Ask the staff who are in conflict to summarize each others complaints and have the opponent validate the summary. 
+This promotes theraputic communication and is effective at conflict resolution. 
+</staff-conflict-resolution>
+
+<biophysical-profile>
+Test done after 28th week of pregnancy. 
+Combines an ultrasound with non-stress test. 
+Sonogram asses fetal breath movements, fetal tone, amniotic fluid index and general movements. 
+Each criteria carrise a weight of 2 points:
+Reactive non stress test - 2. 
+Fetal tone - 2
+Amniotic fluid index (amount of fluid present) - 2 
+fetal breath movements - 2 
+general movements - 2
+
+8-10 - healthy baby
+6 - needs a retest in 24 hours 
+0-4 - baby needs to be delivered
+</biophysical-profile>
+
+<fetal-non-stress-test>
+May be done after 26-28 weeks of pregnancy. 
+Done using a fetal heart rate monitor, may use sound to wake the baby up.
+Heart rate should rise when the baby moves. 
+Reassuring if the fetal heart rate increases by at least 15 beats over baseline lasting at least 15 seconds, within a 20 minute window. This is called a reactive test, a non reactive test requires further assessment. 
+</fetal-non-stress-test>
+
+
+<fundal-height>
+Expected to reach umbilicus at 20 weeks. 
+Then 1 cm per week until 36th week. 
+</fundal-height>
+
+<fetal-movements>
+First periced by the mother at 16-20 weeks as flutter in lower abdomen. 
+</fetal-movements>
+
+<colostomy>
+To prevent leakage don't let the bag get too heavy, empty it is when it's a 1/3 full. 
+</colostomy>
+
+<infant-examination>
+Any invasive assessments like the ears and mouth are likely to cause crying and so are best completed last. 
+Parents should hold the infants to make them feel more comfortable. 
+Ausculate heart and breath sounds when infant is quit and asleep. 
+</infant-examination>
+
+<thyroid-storm>
+Acute response which could come after thryoid surgery or manipulation of the thyroid.
+Defined by a hypermetabolic state. Elevated blood pressure, heart rate, respirations and temperature. 
+</thyroid-storm>
+
+<pregnancy-breast-tenderness>
+Apply cold compresses and wear a supportive bra. 
+</pregnancy-breast-tenderness>
+
+<iv-lidocaine>
+Suppresses ventricular irritability. Should not be use in heart block, becuase it can diminish ventricular escape beats. 
+</iv-lidocaine>
+
+<heart-block-poem>
+If R is far from P, then you have first degree. 
+If longer, longer, longer (PR interval) drop, then you have Wenkebach (Mobitz I).
+If some Ps don't get through then you have Mobitz II. 
+If Ps and Qs don't agree then you have third degree. 
+</heart-block-poem>
+
+
+<complete-heart-block>
+Ventricular escape rythm is usually 60 beats or less. Ventricles must not be slowed with drugs such lidocaine as that could lead to a cardiac arrest. 
+
+Pacemaker is the treatment of choice for complete heart block. 
+Isoproterenol is used to accelerate ventricular escape rythm as a temporary measure.    
+Epinephrine is usually administered for complete heart block, 2-10 mcg/min and titrated based on response. 
+Other drugs that may be used are atropine and dopamine.
+Transcutaneous pacing may be used temporarily. 
+
+Some medications that could cause heart block are Digoxin, beta blockers, calcium channel blockers. 
+</complete-heart-block>
+
+<digoxin>
+Apical pulse shold be taken for a full minute before medication administration. If the pulse is less than 60 dose should be witheld and provider notified. 
+Normal serum ranges are 0.8ng - 2ng/mL. 
+Potassium levels should be closely monitored because hypokalemia increases the effect of digoxin. 
+Symptoms of digoxin toxicity are gastrointestinal such as N and V, halos around lights.
+Pediatric patients mostly just present with bradycardia or arrhythmias. 
+</digoxin>
+
+
+<wheel-chair-bound>
+Teach to do wheelchair pushups every 15 minutes. 
+</wheel-chair-bound>
+
+<nutrition>
+Provide 1.25 - 1.5 g/kg of protein per day. 
+Provide diets rich in zinc, vitamins A, B, C, and sulfur if immobility is present. 
+</nutrition>
+
+<schitzophrenia>
+Positive symptoms - Perceptions (hallucionations, delusions), thought content (paranoia, religiousness, magical thinking), thought patterns (concrete thinking, word salad, associative looseness), sense of self (depersonalization, echolalia - immitation of speech, echopraxia - immitation of movement). 
+Negative symptoms - Affect (flat, apathy), Volition (deteriorating appearance, ambivalence), Relationships (social isolation), Psychomotor behaviours (pacing and rocking, posturing)
+Cognitive symptoms - Difficulty focusing, working memory problems, poor executive function (imparied judgement and decision making).
+</schitzophrenia>
+
+<informed-concent>
+Mentally ill individuals retain the right to refuse treatment until the court rules that they can't. 
+</informed-concent>
+
+<phenytoin>
+Used to prevent seizures. 
+Comes as a sunspension and must be shaken to administer a proper dose. 
+Side effects - inhibits mucosal absorption of folic acid (B9), interferes with metabolism of vitamin D, and could cause hypocalcemia. 
+Can cause gingival hyperplasia (excessive growth of gums) in long term use, effect is minimized with frequent dental care. 
+Can turn the urine pink or red-brown. 
+Decreases oral contraceptive effectiveness. 
+</phenytoin>
+
+<folic-acid>
+Good sources are green leafy vegetables, legumes, tomatoes, various fruits. 
+</folic-acid>
+
+<Jehovas-Witesses>
+Don't believe in blood donation or even autologous transfusions. 
+Have to use alternative volume expanders rather than blood. 
+</Jehovas-Witesses>
+
+<fetal-heart-rate-patterns>
+Variable decelerations - cord compression - change maternal posistion, Give O2 at 8-10L/min, notify provider
+Early decelerations(occuring at the same time as contractions) - normal pattern
+Late decelerations (occuring after the contractions) - placental insufficiency, predictor for lower APGAR scores. Position on side, raise legs if hypotensive, Give O2 at 8-10L/min. 
+</fetal-heart-rate-patterns>
+
+<client-in-labor>
+Check for dilation and efacement. 
+Place a fetal heart rate monitor and assess the baseline rate. 
+</client-in-labor>
+
+<umbilical-cord-care>
+Avoid tub baths until cord has fallen off on its own. 
+Keep dry and exposed to air. 
+Usually separates in 5-15 days. 
+</umbilical-cord-care>
+
+<log-rolling>
+Maintains proper spine alignment during turning a patient. 
+Requires minimum of 3 nurses, one at the head and two at the side. The nurse at the head uses hands to make sure the neck is straight at all times. 
+Two nurses stay at the same side and turn the patient. The patient does not help at all. 
+</log-rolling>
+
+<toddler-safety>
+Keep stairs off limits by having gates at the top and bottom. 
+Do not feed popcorn, uncut grapes, hot dog pieces or berries. 
+</toddler-safety>
+
+<ileal-conduit>
+Urinary diversion when the bladder can not be used. Creates a pocket out of intestine. 
+Collection appliance should be changed every 3-7 days to prevent leakage.
+Bag should be emptied when it's 1/3 full.  
+</ileal-conduit>
+
+<cerebro-spinal-leak>
+Double ring appears on gauze if the fluid is CSF. 
+</cerebro-spinal-leak>
+
+<NIH-Stroke-Scale>
+Limb Ataxia -   0 absent, 1 present in 1 limb, 2 present in both
+Sensory - 0 normal, 1 feels pinprick but with mild loss of sense, 2 no feeling at all
+Aphasia - 0 none, 1 mild, 2 severe, 3 global (mute). 
+Dysarthria - 0 none, 1 mild, 2 moderate
+Extinction and Inattention - 0 none, 1 present, 2 profound (loss of comprehension of space on side contralateral of the lesion).
+</NIH-Stroke-Scale>
+
+<hyperglycemia>
+Exessive sleepiness, saying they can't wake up today. 
+</hyperglycemia>
+
+<migrane-aura>
+Could see flashing lights or fireflies. 
+</migrane-aura>
+
+<hypokalemia>
+Think low and slow - hypotension, lethargy, bradycardia, depressed St segment, flat or inverted T wave, prominient U wave, leg cramps, decreased DTRs and bowel sounds, constipation, low and shallow respirations, muscle weakneass. 
+</hypokalemia>
+
+<chloasma>
+Mask of pregnancy - blotchy, brown hyperpigmentation of skin over cheeks, nose and forehead. 
+</chloasma>
+
+<linea-nigra>
+Dark line that runs down the middle of abdomen, could be one of earlies signs of pregnancy, usually appears at about 5 months of pregnancy (20 weeks).  
+</linea-nigra>
+
+<lordosis>
+Significant inward curvature of the spine. 
+</lordosis>
+
+<first-trimester>
+Marked by hypertrophy of mamary glands and hyperpigmentation of the areola. 
+</first-trimester>
+
+<diabetes-insipidus>
+Treated with desmopressin - an antidiuretic. 
+</diabetes-insipidus>
+
+<syndrome-of-inappropriate-antidiuretic-hormone-secretion>
+Could occur in patients with lung cancer. 
+Treated with diuretics such as furosemide. 
+Results in hypervolemia and dilutional hyponatremia. 
+Maintain fluid restriction of 800-1000ml/day. 
+</syndrome-of-inappropriate-antidiuretic-hormone-secretion>
+
+<anti-retro-viral-therapy>
+Long term therapy results in hyperlipidemia and cardiovascular disease. 
+Effectively suppress the viral load within 12-24 weeks of therapy. 
+</anti-retro-viral-therapy>
+
+<meningitis>
+Inflammation of the three layers of the brain's sheath. Dura mater, Arachnoid mater, and pia mater. 
+Nuchal ridgidity and photophobia are the hallmark symptoms. 
+</meningitis>
+
+<client-cohort>
+Clients who can share the room togheter. 
+Must be of the same gender. 
+Client with a healing surgical would should not be placed in a room with a client with an infection. 
+</client-cohort>
+
+<infant-stools>
+Mucus in stool is not normal even with meconium. 
+Breastfed babies will have a seedy tan colored stools. 
+</infant-stools>
+
+<hypoalbuminemia>
+Causes a loss of oncotic pressure in the vessels and causes fluids to move into tissues causing edema. 
+</hypoalbuminemia>
+
+<gastrostomy-tube>
+Feedings should be administed in a period of 20-30 minutes. 
+Liquid medications that are meant to be taken by mouth should not be administered through a tube because they may contain excessive sorbitol which could cause diarrhea. 
+Maintain head of bed at 30-45 degrees during and at least 1 hour after feedings. 
+After verifying gastric residual, flush the tube with water and start the feeding.
+May need to hold feeding if residual volume is above 100mL. 
+Check residual every 4-6 hours if on continuous feeding and just before every intermittent feeding.  
+</gastrostomy-tube>
+
+<LPN-delegation>
+Has limited IV administration abilities, some could be qualified. 
+</LPN-delegation>
+
+<alteplase>
+Used to dissolve blood clots in blood vessels, used in heart attacks and strokes. 
+Must be used with caution in known or suspected infections at the central line insertion site, since it could release a localized infection into systemic circulation. 
+</alteplase>
 
 </review>
 
