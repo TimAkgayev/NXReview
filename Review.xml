@@ -2873,7 +2873,7 @@ Continuos flow or dripping of blood is [blr]an emergency[/blr].
 </postpartum-hemorrhage> 
 
 <fat-embolism>
-Most people develop symtpoms after [blr]24[/blr]-[blr]48[/blr] hours of injury. 
+Most people develop symtpoms after [blr]12[/blr]-[blr]48[/blr] hours of injury. 
 </fat-embolism>
 
 <medication-error>
@@ -4283,10 +4283,11 @@ Causes a loss of [blr]oncotic pressure[/blr] in the vessels and causes fluids to
 </hypoalbuminemia>
 
 <gastrostomy-tube>
-Feedings should be administed in a period of [blr]20[/blr]-[blr]30[/blr] minutes. 
+Feedings should be administed over a period of at least <blr>30 minutes</blr>.  
 [blr]Liquid medications[/blr] that are meant to be taken by mouth should [blr]not be administered[/blr] through a tube because they may contain excessive [blr]sorbitol[/blr] which could cause [blr]diarrhea[/blr]. 
 Maintain head of bed at [blr]30[/blr]-[blr]45[/blr] degrees [blr]during[/blr] and at least [blr]1 hour[/blr] after [blr]feedings[/blr]. 
-After verifying [blr]gastric residual[/blr], [blr]flush[/blr] the tube with [blr]water[/blr] and start the feeding.
+First <blr>assess the abdomen</blr> and <blr>bowel sounds</blr>, note the last <blr>bowel movement</blr>. 
+After verifying [blr]gastric residual[/blr] and <blr>placement</blr>, [blr]flush[/blr] the tube with [blr]water[/blr] and start the feeding.
 May need to hold feeding if residual volume is above [blr]100mL[/blr]. 
 Check residual every [blr]4[/blr]-[blr]6[/blr] hours if on [blr]continuous feeding[/blr] and just before every [blr]intermittent[/blr] feeding.  
 </gastrostomy-tube>
@@ -4378,6 +4379,51 @@ Antidote is protamine, which binds to it and neutralizes it. 1 mg neutralizes 10
 <diabetes-and-steroids>
 If a rise in blood glucose is noted a provider should be alereted as an increase in antidiabetic regiment might be required. 
 </diabetes-and-steroids>
+
+<cholecystitis>
+Assessing fluid and electrolytes is important in these clients because they often present with hypokalemia and hypomagnesemia due to vomiting. 
+Can cause clay colored stools. 
+</cholecystitis>
+
+<magnesium-sulfate>
+Calcium gluconate is an antidote. 
+Suppressed deep tendon reflexes is a sign of toxicity, so check patellar reflexes. 
+</magnesium-sulfate>
+
+<pre-eclampsia>
+Excess stimulation can trigger seizure activity, so limit visitors and dim lights. 
+</pre-eclampsia>
+
+<electro-convulsive-therapy>
+Contraindication is osteoporosis, brittles bones could be damaged during hard muscle contractions. 
+</electro-convulsive-therapy>
+
+<cane>
+Handle of the cane should be around hip level. 
+</cane>
+
+<fat-embolism>
+Usually occur as a result of long bone fractures. 
+Petechiae are seen on the chest in 50-60% of cases, but could also be present on the face and arms. 
+Other symptoms include dyspnea and tachypnea. Mental symtpoms include apprehension and confusion.
+</fat-embolism>
+
+<sudden-infant-death-syndrome>
+Infants should not sleep in car seats or strollers or swings as they may slump enough to obstruct the airway. 
+Should not use blankets, instead use pajamas or sleepers and dress them warmly for sleep. 
+Risk factors include: male gender, African American or Native American descent, overheating, mothers who smoke or smoked prenatally, exposure to tobacco smoke, prenatal use of alcohol or drugs, infants who experienced an apparent life threatening event that included cyanosis, pallor, choking or gagging. 
+</sudden-infant-death-syndrome>
+
+<age-related-eye-changes>
+Arcus senilis - white, gray or bluish ring around the iris is a common finding in older adults. 
+Presbyopia - farsightedness
+Need for additional light to see clearly. 
+</age-related-eye-changes>
+
+
+<hyperglycemia>
+Three Ps - polydypsia, polyphagia and polyuria. 
+</hyperglycemia>
 
 </review>
 
