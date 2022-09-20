@@ -61,6 +61,17 @@ html, body, main {
     display: inline;
 }
 
+.hidden-word {
+
+    display: inline;
+    filter:blur(2px);
+}
+
+.hidden-word:hover {
+    display: inline; 
+    filter:blur(0px);
+}
+
 
 #quiz-card{
     display: flex;
@@ -78,6 +89,7 @@ html, body, main {
     color: black;
     font-size: 2em;
 }
+
 
 
 

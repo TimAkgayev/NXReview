@@ -15,8 +15,8 @@
                         openTag = obj.innerHTML.indexOf("[blr]", openTag+1);
                         closeTag = obj.innerHTML.indexOf("[/blr]", closeTag+1);
         
-                        obj.innerHTML = obj.innerHTML.replace("[blr]", "");
-                        obj.innerHTML = obj.innerHTML.replace("[/blr]", "");
+                        obj.innerHTML = obj.innerHTML.replace("[blr]", "<div style='display: inline-block; font-size: 1.5em; font-weight:bold'>[</div> <div class='hidden-word'>");
+                        obj.innerHTML = obj.innerHTML.replace("[/blr]", "</div><div style='display: inline-block; font-size: 1.5em; font-weight:bold'>]</div>");
 
 
                         console.log(obj.innerHTML);
@@ -31,6 +31,7 @@
             <nav>
                 <a href = "{% url 'nxreview:index' %}" class = "nav-link"> Review </a>
                 <a href = "{% url 'nxreview:quiz_page' %}" class = "nav-link"> Quiz </a>
+                <a href = "{% url 'nxreview:important_page' %}" class = "nav-link"> Important </a>
             </nav>
         </header>
         
