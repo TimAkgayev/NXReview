@@ -1213,6 +1213,11 @@ Contraindicated in [blr]closed angle glaucoma[/blr], [blr]small bowel[/blr] obst
 Tonic-clonic (tonic - [blr]extension[/blr] of arms/legs, clonic - [blr]contraction[/blr] of arms and legs) should not last more than [blr]60-90[/blr] seconds. Status epilepticus is established if there is a seizure followed by small [blr]rest[/blr] then followed by another sezure or a seizure that lasts more than [blr]5[/blr] minutes.
 [blr]Benzodiazapeines[/blr] like [blr]diazapam[/blr] are presricbed as they increase the [blr]seizure threshold[/blr] in the brain. Given [blr]IV push[/blr], [blr]rectally[/blr] or [blr]nasaly[/blr]. 
 Lay [blr]on side[/blr] so [blr]saliva can drain[/blr]. Give [blr]oxygen[/blr] if there are [blr]color changes[/blr]. [blr]Lower[/blr] clinet to [blr]floor[/blr], protect [blr]the head[/blr], [blr]clear objects[/blr] from area. Administer [blr]Lore/diazepam[/blr]. Stay with the client until [blr]alert[/blr]. 
+Have a peripheral saline lock inserted in case the patient will need meds to stop the seizure. 
+Have an oxgen facemask ready (not a nasal canula)
+Need to call 911 if a seizure lasts longer than 5 minutes, at which point it is classified as satatus epilepticus. 
+Status epilepticus is classified as a single seizure lasting longer than 5 minutes or two consecutive seizures within a 5 minute period. 
+[blr]Loosen[/blr] clothing, place [blr]pillow under the head[/blr], place clinet on [blr]side[/blr] with head [blr]flexed forward[/blr] and [blr]down[/blr] so that [blr]saliva could drain[/blr] and tongue can [blr]roll forward[/blr].
 </seizure>
 
 <Hodgekin-lymphoma>
@@ -1718,18 +1723,20 @@ Calling the therapis every time there is some anxiety is [blr]not recommended[/b
 
 
 <phenozopyridine>
+[important]
 [medication]
 Causes [blr]urine[/blr] to become [blr]organge[/blr] or [blr]red[/blr], which is [blr]normal[/blr].
 If the [blr]kidneys[/blr] cannot [blr]excrete it[/blr] fast enough then the [blr]skin[/blr] could become [blr]dislored[/blr] too, in which case the med should be [blr]stopped immediately[/blr]. 
 </phenozopyridine>
 
 <post-partum>
+[important]
 [maternity]
 It's normal to urinate up to [blr]3000ml[/blr] per [blr]day[/blr] for [blr]2[/blr]-[blr]3[/blr] days post, as [blr]fluid accumulated[/blr] during pregnancy is [blr]leaving the body[/blr].
 </post-partum>
 
 <Naegeles-rule>
- 
+ [important]
 [maternity]
 Determine [blr]first day[/blr] of [blr]last menstrual period[/blr]
 [blr]Subtract 3 calendar months[/blr] from [blr]that time[/blr]
@@ -1737,7 +1744,7 @@ Determine [blr]first day[/blr] of [blr]last menstrual period[/blr]
 </Naegeles-rule>
 
 <fundal-height>
- 
+ [important]
 Increases by [blr]1cm/week[/blr] starting at [blr]12-14 weeks[/blr] and lasts until [blr]36[/blr] weeks, then [blr]it varies[/blr].
 Rises [blr]just above the pubis symphysis[/blr] at about [blr]12-14[/blr] weeks.
 Regardless of the mode of delivery fundal height follows this pattern post-partum: 
@@ -1759,7 +1766,7 @@ Do not [blr]reduce fluid intake[/blr] to make the [blr]stool harder[/blr].
 </colostomy>
 
 <pacemakers>
- 
+ [important]
 [cardiovascular]
 [blr]Hearing aid[/blr] may affect placement of the transmitter, as it shouldn't come within [blr]6 inches[/blr] of it.
 Avoid placing devices that are [blr]battery operated[/blr] or [blr]magnetic[/blr] close to the transmitter.
@@ -1785,7 +1792,7 @@ Life expectancy is around [blr]16[/blr] to [blr]early 20s[/blr].
 </Duchenne-muscular-dystrophy>
 
 <cataracts>
- 
+[important]
 After surgery: avoid increasing [blr]IOP[/blr], avoid sleeping on [blr]affected side[/blr], wear an [blr]eye patch[/blr] at [blr]night[/blr] and [blr]glasses[/blr] durinig [blr]the day[/blr], avoid getting [blr]water[/blr] in [blr]the eye[/blr], avoid prolonged [blr]reading[/blr] or [blr]eye strain[/blr].
 </cataracts>
 
@@ -1805,12 +1812,12 @@ Do not involve [blr]emotional[/blr] aspects into your questions as they are also
 </interpersonal-behviour>
 
 <aspirin>
- 
+ [important]
 Could be taken alongside [blr]clopidogrel[/blr].
 </aspirin>
 
 <hepatitis-a>
- 
+ [important]
 Transmission: [blr]Fecal-oral route[/blr].
 Not transmitted through [blr]the blood[/blr].
 Take care traveling to high to medium level affected couintries such as [blr]Africa[/blr], [blr]South America[/blr], and [blr]Asia[/blr].
@@ -1826,13 +1833,12 @@ Symptoms: [blr]dry skin[/blr], [blr]tachycardia[/blr], [blr]cold extremities[/bl
 </dehydration>
 
 <carbohydrates>
- 
+ [important]
 [nutrition]
 Increase the production of [blr]CO2[/blr], avoid in [blr]respiratory compromised[/blr] clients.
 </carbohydrates>
 
 <dose-adjustment>
- 
 Must be verified by [blr]two nurses[/blr] for important medications like [blr]insulin[/blr] and [blr]heparin[/blr].
 </dose-adjustment>
 
@@ -1840,9 +1846,6 @@ Must be verified by [blr]two nurses[/blr] for important medications like [blr]in
 If client is experiencing a concern about an issue, first [blr]normalize the experience[/blr], then explain what to do about the actual issue.
 </theraputic-communication>
 
-<seizure>
-[blr]Loosen[/blr] clothing, place [blr]pillow under the head[/blr], place clinet on [blr]side[/blr] with head [blr]flexed forward[/blr] and [blr]down[/blr] so that [blr]saliva could drain[/blr] and tongue can [blr]roll forward[/blr].
-</seizure>
 
 <hypocalcemia>
  
@@ -1851,21 +1854,24 @@ Numbness in the [blr]fingertips[/blr] and  [blr]lips [/blr]
 </hypocalcemia>
 
 <colorectal-cancer>
+[important]
 Screening: colonoscopy every [blr]10[/blr] years after age of [blr]45[/blr], if [blr]barium enema[/blr] is selected for screen should be done every [blr]5[/blr] years, if [blr]fecalt occult blood[/blr] 
 is selected as screening method it should be done [blr]every year[/blr].
 </colorectal-cancer>
 
 <Hegars-sign>
+[important]
 [blr]Softening of the cervix[/blr], indicative of [blr]pregnancy[/blr], [blr]palpated[/blr] on a [blr]bimanual[/blr] exam.
 Sign is present from [blr]4th week[/blr] until the [blr]12th week[/blr] of pregnancy.
 </Hegars-sign>
 
 <quickening>
+[important]
 [blr]First movement[/blr] of the fetus, usually occurs in [blr]18th[/blr] or [blr]20th[/blr] week of pregnancy.
 </quickening>
 
 <positive-sign-of-pregnancy>
- 
+ [important]
 [blr]Auscultation[/blr] of [blr]fetal heart beat[/blr], which can usually be [blr]first auscultated[/blr] at [blr]12 weeks[/blr].
 </positive-sign-of-pregnancy>
 
@@ -1874,18 +1880,21 @@ Massage is [blr]contraindicated[/blr] in clients that are at an increased risk f
 </deep-vein-thrombosis>
 
 <African-American>
+[important]
 Higher risk of [blr]colorectal[/blr] cancer and [blr]lung[/blr] cancer.
 </African-American>
 
 
 
 <malpractice> 
+[important]
 A type of [blr]negligence[/blr] where a there is a failure to act as a [blr]competent person[/blr] would [blr]normally act[/blr] in [blr]that situation[/blr]. Does not have to be [blr]intentional[/blr].
 Requres [blr]four[/blr] elements to be proven, the four Ds : [blr]Damages[/blr] - [blr]Injury[/blr] is present, [blr]Direct cause[/blr] - [blr]cuasation[/blr] is present, [blr]Duty[/blr] - had the [blr]duty[/blr] to care for the person at the moment, [blr]dereliction[/blr] - [blr]breach of duty[/blr]
 Examples: [blr]improper use of equipment[/blr], failure to [blr]act in emergency[/blr], inapropriate [blr]medication administration[/blr].
 </malpractice>
 
 <cluster-headaches>
+[important]
 One of the most [blr]painful[/blr] types of headaches. Occur in [blr]one side of the head[/blr].
 Acute treatment is to provide [blr]100% oxygen[/blr] at [blr]6-8L/min[/blr] for [blr]10 min[/blr]. May be [blr]repeated[/blr] after a [blr]5 min rest[/blr].
 [blr]Oxygen[/blr] causes [blr]vasoconstriction[/blr] and [blr]increases[/blr] the [blr]synthesis of serotonin[/blr] in the [blr]central-nervous-system[/blr].
@@ -1897,6 +1906,7 @@ Should be [blr]2 inches[/blr] below [blr]armpits[/blr].
 </crutches>
 
 <colostomy>
+[important]
 Assess the [blr]new stoma[/blr] every [blr]4 hours[/blr] post surgery.
 </colostomy>
 
@@ -5443,10 +5453,6 @@ Antidote is Prothrombin Complex Concentrate (PCC) with vitamin K, provides a qui
 Must be ordered by a physician. 
 </cooling-blanket>
 
-<seizures>
-Need to call 911 if a seizure lasts longer than 5 minutes, at which point it is classified as satatus epilepticus. 
-Status epilepticus is classified as a single seizure lasting longer than 5 minutes or two consecutive seizures within a 5 minute period. 
-</seizures>
 
 <hellp>
 HELLP syndrome is a severe complication of preeclempisa.
@@ -6611,11 +6617,6 @@ Normal is 1.5ml/kg
 <prednisone>
 Decreases calcium absorption from the GI tract. 
 </prednisone>
-
-<seizure-precautions>
-Have a peripheral saline lock inserted in case the patient will need meds to stop the seizure. 
-Have an oxgen facemask ready (not a nasal canula)
-</seizure-precautions>
 
 <stomatitis>
 Avoid anything acidic or alcohol, use normal saline mouth rinses. 
