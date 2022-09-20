@@ -1676,7 +1676,7 @@ Resume [blr]compressions[/blr] and [blr]breaths[/blr] at ratio of [blr]30:2[/blr
 </libel>
 
 <prenatal-diagnostics>
- 
+[important]
 [maternity]
 [blr]Glucose tolerance[/blr] test
 [blr]HIV[/blr] test
@@ -1686,6 +1686,7 @@ Resume [blr]compressions[/blr] and [blr]breaths[/blr] at ratio of [blr]30:2[/blr
 </prenatal-diagnostics>
 
 <maternal-serum-alpha-fetoprotein>
+[important]
 [maternity]
 [blr]Blood test[/blr] given to the mother at [blr]15-20 weeks[/blr] ([blr]second[/blr] trimester)
 Assesses for [blr]neural tube defects[/blr] (such as [blr]spina bifida[/blr] or [blr]ananecephaly[/blr]) and other [blr]chromosomal abnormalities[/blr].
@@ -1703,11 +1704,13 @@ Calling the therapis every time there is some anxiety is [blr]not recommended[/b
 </anxiety>
 
 <furosemide>
+[important]
 [medication]
 [blr]Potassium wasting[/blr] diuretic.
 </furosemide>
 
 <spironolactone>
+[important]
 [medication]
 [blr]Potassium sparing[/blr] diuretic.
 </spironolactone>
