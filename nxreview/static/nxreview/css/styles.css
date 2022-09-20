@@ -61,13 +61,13 @@ html, body, main {
     display: inline;
 }
 
+
 #quiz-card{
     display: flex;
     border-radius: 10px;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    max-width: 80%;
     margin: 3em auto;
     padding: 1em;
     box-shadow:0px 1px 1px rgba(0,0,0,0.25),0 2px 2px rgba(0,0,0,0.2),0 4px 4px rgba(0,0,0,0.15),0 8px 8px rgba(0,0,0,0.1),0 16px 16px rgba(0,0,0,0.05);
@@ -159,7 +159,8 @@ nav {
         height: 50%;
     }
 
-    #quiz-card{
-        max-width: 100%;
+
+    #middle-subpanel{
+        width: 80%; 
     }
 }
