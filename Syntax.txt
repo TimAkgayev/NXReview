@@ -1,0 +1,15 @@
+Markup which could be used in the review. 
+
+[important]
+[electrolyte]
+[nutrition]
+[medication]
+[pediatric]
+[maternity]
+[psychiatric]
+[renal]
+[hepatic]
+[cardiovascular]
+[hematology]
+[herbal]
+[asthma]
