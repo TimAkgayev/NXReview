@@ -824,6 +824,8 @@ Most common areas are [blr]elbows[/blr], [blr]knees[/blr], [blr]scalp[/blr] and 
 Visitation no more than [blr]30 min[/blr]
 Distance no less than [blr]6[/blr] feet
 No [blr]pregnant[/blr] staff or visitors
+Do not allow the client to [blr]leave the room[/blr]. 
+Visitors under [blr]18[/blr] are not allowed. 
 </radiation-safety>
 
 <myelomeningocele>
@@ -1920,12 +1922,13 @@ Suction [blr]laryngectomy tube[/blr] first, then [blr]mouth[/blr] to prevent [bl
 </laryngectomy-suctioning>
 
 <diabetic-ketoacidosis>
- 
+ [important]
 [blr]Plyuria[/blr] - body is trying to [blr]get rid of excess sugar[/blr]
 [blr]Hypotension[/blr] - as a result of [blr]dehydration[/blr]
 </diabetic-ketoacidosis>
 
 <chemotherapy-precautions>
+[important]
 Medications remain in the client's body for [blr]3-7[/blr] days.
 Clinets who recieved chemo in the last [blr]48 hours[/blr] shold be under [blr]chemotherapy precautions[/blr].
 Wear [blr]two pairs[/blr] of [blr]chemotherapy approved gloves[/blr], one [blr]on top of the other[/blr].
@@ -1947,6 +1950,7 @@ Could [blr]leave door open[/blr] (droplets [blr]fall on floor[/blr] after [blr]e
 </droplet-precautions>
 
 <aldosterone>
+[important]
 Functions to [blr]retain sodium[/blr] and excrete [blr]potassium[/blr].
 </aldosterone>
 
@@ -2036,11 +2040,13 @@ Not [blr]infectious[/blr] - could [blr]share rooms[/blr].
 </bacterial-pneumonia>
 
 <herpes-zoster>
+[important]
 Aka. [blr]Shingles[/blr].
 Requires [blr]airborne[/blr] and [blr]contact[/blr] precautions. Observed until the [blr]lesions are dry[/blr] and [blr]crusted[/blr]. 
 </herpes-zoster>
 
 <cushing-disease>
+[important]
 [blr]High protein[/blr] diet to minimize [blr]muscle wasting[/blr].
 [blr]Low carb diet[/blr] to [blr]not gain weight[/blr].
 [blr]Low calorie[/blr] diet.
@@ -2053,6 +2059,7 @@ Not associated with [blr]alcohol consumption[/blr].
 </bladder-cancer>
 
 <enteral-nutrition>
+[important]
 [blr]Air[/blr] in line could cause [blr]flatulance[/blr].
 Incorrect [blr]temperature[/blr] can cause [blr]diarrhea[/blr].
 Too much [blr]residual[/blr] indiciates [blr]slow digestion[/blr] and could cause [blr]nausea[/blr]. 
@@ -2069,6 +2076,7 @@ Stay away from [blr]electrical devices[/blr].
 </Holter-monitor>
 
 <broken-arm>
+[important]
 Evaluate [blr]neurovascular[/blr] status of the [blr]extremity[/blr], apply [blr]ice[/blr], then [blr]splint[/blr] and [blr]elevate[/blr]. 
 </broken-arm>
 
@@ -2083,6 +2091,7 @@ Treatment [blr]isn't needed[/blr].
 </reynold-syndrome>
 
 <theophylline>
+[important]
 Used as [blr]tablets[/blr] to control [blr]asthma[/blr], by [blr]relaxing airway muscles[/blr].
 Theraputic range is [blr]10-20 mcg[/blr]/ml of blood. Toxicity is over [blr]20 mcg[/blr]/ml
 </theophylline>
@@ -2098,11 +2107,13 @@ During insertion if patient is [blr]coughing[/blr] the tube is [blr]in the trach
 </feeding-tube>
 
 <vegan-diet>
+[important]
 Lack [blr]vitamin D[/blr], [blr]Calcium[/blr] from [blr]dairy[/blr] and [blr]Vit B12[/blr], and [blr]Iron[/blr] from [blr]meats[/blr].
 Have vitamin [blr]B1[/blr] and [blr]A[/blr] which are found in [blr]vegies[/blr].
 </vegan-diet>
 
 <pregnancy-nausea>
+[important]
 Associated with an increase in [blr]human chorionic gonadotropin[/blr] hormone.
 Could start as early as [blr]4 weeks[/blr].
 Should diminish by [blr]14th week[/blr] of pregnancy.
@@ -2131,11 +2142,13 @@ to [blr]rhabdomyolysis[/blr], which could lead to [blr]kidney failure[/blr].
 </statin>
 
 <paracentesis>
+[important]
 Removal of [blr]fluid[/blr] from the [blr]abdomen[/blr].
 Positioned in a [blr]supine position[/blr] with head of bed [blr]slightly elevated[/blr].
 </paracentesis>
 
 <pheochromocytoma>
+[important]
 [blr]Benign tumor[/blr] of the [blr]adrenal glands[/blr], causes [blr]hypertension[/blr].
 This tumor secretes  [blr]epinephrine [/blr] and  [blr]norepinephrine [/blr].
 </pheochromocytoma>
@@ -2201,20 +2214,24 @@ Normal levels are [blr]4-6%[/blr]
 </A1C-hemoglobin>
 
 <calcium>
+[important]
 [blr]Protein[/blr] bound, so with [blr]low protein[/blr] calcium could be [blr]low[/blr] as well.
 </calcium>
 
 <wound-healing>
+[important]
 Monitor [blr]albumin[/blr] (norm: [blr]3.5[/blr]-[blr]5[/blr]) and [blr]total protein[/blr].
 Adequate intake of [blr]protein[/blr], [blr]vitamin C[/blr] and [blr]zinc[/blr].
 Foods such as [blr]meat[/blr] ([blr]protein[/blr] and [blr]zinc[/blr]), [blr]legumes[/blr] (zinc), [blr]nuts[/blr] (zinc), [blr]dairy[/blr] (zinc)
 </wound-healing>
 
 <foods-high-in-zinc>
+[important]
 [blr]Legumes[/blr], [blr]nuts[/blr] and [blr]dairy[/blr]. 
 </foods-high-in-zinc>
 
 <oral-steroids>
+[important]
 Are [blr]ulcerogenic[/blr] and should be adminsted [blr]with meals[/blr].
 </oral-steroids>
 
@@ -2223,6 +2240,7 @@ See pediatric_vitals.png chart in the downloads folder.
 </pediatric-vitals>
 
 <neonate-ointment>
+[important]
 Usually [blr]tetracycline[/blr] or [blr]erythromycin[/blr].
 Prevents [blr]opthalmia neonatorum[/blr], caused by [blr]gonorrheal[/blr] or [blr]chlamydial[/blr] infection.
 </neonate-ointment>
@@ -2232,6 +2250,7 @@ Could be treated with [blr]amiodarone[/blr] and [blr]digoxin[/blr], watch for [b
 </atrial-fibrillation>
 
 <contrast>
+[important]
 If given to [blr]renal patient[/blr], time with [blr]dialysis[/blr] to [blr]immediately remove[/blr] the contrast from [blr]the blood[/blr].
 [blr]Oral contrast[/blr] could contain a [blr]laxative[/blr] to prevent [blr]constipation[/blr] and promote [blr]explusion[/blr], so [blr]diarrhea[/blr] is normal after the procedure.
 Is iodinated - but allergy to iodine or shellfish does not preclude the use as it is rarely triggered by the dye. 
@@ -2245,6 +2264,7 @@ Risks for allergic reactions are dehydration, asthma, and age.
 
 
 <common-supplements>
+[important]
 Feverfew - used to prevent [blr]migranes[/blr], interacts with [blr]platelet aggregation[/blr] and so should not be used with [blr]aspirin[/blr] and [blr]warfarin[/blr]/[blr]heparin[/blr].
 Echinacea - used to decrease [blr]inflammation[/blr] and manage [blr]infections[/blr], [blr]suppresses immune system[/blr] should not be combined with [blr]HIV[/blr], [blr]TB[/blr] or [blr]cancer[/blr] medications.
 Valerian - interacts with [blr]depressent[/blr] meds.
@@ -2256,6 +2276,7 @@ Blood pressure [blr]decreases[/blr] as the pregnancy goes on in response to [blr
 </pregnancy-adaptations>
 
 <pediatric-pain-management>
+[important]
 Neonate - Infant (0-1):  [blr]sucrose[/blr] on the [blr]pacifier[/blr], [blr]swaddling[/blr] and [blr]swaying[/blr].
 Toddler - Preschooler (1-5): [blr]toys[/blr], [blr]books[/blr], [blr]singing[/blr].
 School age - [blr]video games[/blr], [blr]tv[/blr]
@@ -2270,10 +2291,12 @@ Provides [blr]clients[/blr] with [blr]rights[/blr] to be [blr]free[/blr] from [b
 </omnibus-budget-reconciliation-act>
 
 <tarasoff-ruling>
+[important]
 Required [blr]reporting[/blr] of [blr]planned self harm[/blr] or [blr]harm to others[/blr].
 </tarasoff-ruling>
 
 <insulin>
+[important]
 [blr]Lispro[/blr] - very fast acting - onset [blr]15-30[/blr] min, peak in [blr]30[/blr] min to [blr]90[/blr] min, duration [blr]3-5[/blr] hours.
 [blr]Regular[/blr] - onset [blr]30[/blr]-[blr]60[/blr]min, [blr]1[/blr]-[blr]5[/blr] hours peak, duration [blr]6[/blr]-[blr]10[/blr] hours.
 [blr]Neutral Protamine Hagedorn[/blr] - [blr]intermediate[/blr] acting, peak action of [blr]4[/blr]-[blr]12[/blr] hours, duration of [blr]16[/blr] hours.
@@ -2281,6 +2304,7 @@ Required [blr]reporting[/blr] of [blr]planned self harm[/blr] or [blr]harm to ot
 </insulin>
 
 <kidney-stones>
+[important]
 C[blr]alcium[/blr] o[blr]xalate[/blr] - comes from [blr]green leafy vegetalbes[/blr], like [blr]rhubarb[/blr], also [blr]cola[/blr], [blr]tea[/blr], [blr]chocolate[/blr] and [blr]high[/blr] doses of [blr]vitamin C[/blr].
 S[blr]truvite[/blr] stones - associated with [blr]urinary tract infectionotins[/blr], need to [blr]acidify[/blr] the urine by increaseing [blr]egg consumption[/blr], as well as consumption of [blr]fish[/blr] and [blr]cranberries[/blr].
 U[blr]ric acid[/blr] stones - cut down on foods high in [blr]purines[/blr] such as [blr]red meat[/blr], [blr]organ meats[/blr], [blr]beer[/blr] and [blr]alcohol[/blr], [blr]sardines[/blr], [blr]shellfish[/blr].
@@ -2293,28 +2317,31 @@ Foods that increase alkalinity of urine:
 </alkaline-urine-foods>
 
 <acidic-urine-foods>
-Foods that increase acidity of foods:
+Foods that increase acidity of urine:
 [blr]Eggs[/blr], [blr]fish[/blr], [blr]cranberries[/blr]. 
 </acidic-urine-foods>
 
 <epoetin-alpha>
+[important]
 [blr]Hemoglobin[/blr] should not [blr]increase rapidly[/blr] or above [blr]12 g[/blr]/dL or the risk of [blr]thromboembolytic[/blr] events increases. 
 Once hemoglobin approaches [blr]11 g[/blr]/dL or if hemoglobin rises by more than [blr]1g/dL[/blr] in a [blr]2 week[/blr] period, dosage should be [blr]decreased by 25%[/blr].
 This threshold is [blr]lower[/blr] for clients with [blr]chronic-kidney-disease[/blr].
 </epoetin-alpha>
 
 <hispanic-culture>
+[important]
 Silence is a [blr]sign of disagreement[/blr].
 [blr]Direct eye contact[/blr] is avoided with [blr]authority figures[/blr].
 Prefer [blr]social interactions[/blr] before being [blr]asked personal questions[/blr].
 </hispanic-culture>
 
 <anaphylectic-reaction>
-[blr]Runny nose[/blr] and [blr]sneezing[/blr] is indicative of an [blr]atopic reacon[/blr] but not [blr]anaphylaxis[/blr].
+[blr]Runny nose[/blr] and [blr]sneezing[/blr] is indicative of an [blr]atopic reaction[/blr] but not [blr]anaphylaxis[/blr].
 [blr]Diffuse rash[/blr] is [blr]not indicative[/blr] of [blr]anaphylaxis[/blr] and does not happen [blr]immediately[/blr].
 </anaphylectic-reaction>
 
 <heart-failure>
+[important]
 Ejection fraction [blr] 55% - 70%[/blr] - normal level
 [blr]40-50%[/blr] - may be [blr]asymptomatic[/blr]
 [blr]35-39%[/blr] - mild heart failure, may have [blr]dyspnea[/blr].
@@ -2331,6 +2358,7 @@ Focus on [blr]feelings[/blr] rather than [blr]words[/blr], for example "you seem
 </Alzheimers>
 
 <burns>
+[important]
 Monitor [blr]hemodynamics[/blr] frequently and administer [blr]fluids[/blr] to prevent hypo[blr]volemic shock[/blr].
 Diet high in [blr]calories[/blr], [blr]vitamin C[/blr], [blr]Zinc[/blr] and [blr]protein[/blr]. 
 [blr]Daily weights[/blr], [blr]2%[/blr] weight loss from pre burn weight is a [blr]mild caloric deficit[/blr], over [blr]10%[/blr] requires modification of [blr]intake[/blr].
@@ -2345,6 +2373,7 @@ Totol body surface area:
 </burns>
 
 <bulemia>
+[important]
 Set [blr]eating habits[/blr] and make a [blr]contract[/blr].
 Monitor for [blr]one hour[/blr] to prevent [blr]purging[/blr].
 </bulemia>
@@ -2362,6 +2391,7 @@ Could affect the [blr]gag reflex[/blr].
 </intra-cranial-pressure>
 
 <tracheostomy>
+[important]
 Track cleaning and care should be done every [blr]8 hours[/blr].
 During first few days [blr]secretions tend to be thick[/blr].
 Keep a [blr]spare of same size[/blr] or [blr]larger[/blr] at bedside.
@@ -2372,6 +2402,7 @@ In case of [blr]dislodgement[/blr], notify [blr]physician[/blr] and [blr]respira
 </tracheostomy>
 
 <croup>
+[important]
 [blr]Barking cough[/blr] caused by [blr]a virus[/blr]. Treatment is [blr]dexamethasone[/blr].
 </croup>
 
@@ -2384,21 +2415,21 @@ Reports are not meant to [blr]get other nurses in trouble[/blr] or for [blr]disc
 [blr]Vomiting[/blr], [blr]diarrhea[/blr] and [blr]hyperactive[/blr] bowel sounds.
 </peritonitis>
 
+[important]
 <peritoneal-dialysis>
 First indication is a [blr]cloudy return dialysate solution[/blr].
 Requires [blr]sterile technique[/blr].
 [blr]Abdominal pain[/blr] is [blr]common[/blr] during the [blr]first few exchanges[/blr]. It's due to [blr]peritonieal irritation[/blr]. It usually subsides in [blr]1[/blr] to [blr]2 weeks[/blr] of treatment.
-The return fluid could be red tinged in  [blr]females [/blr] on their  [blr]periods [/blr] as blood could be pulled through the  [blr]fallopian tubes [/blr] due to the  [blr]tonicity [/blr] of the dialysate. 
+The return fluid could be red tinged in [blr]females [/blr] on their  [blr]periods [/blr] as blood could be pulled through the  [blr]fallopian tubes [/blr] due to the  [blr]tonicity [/blr] of the dialysate. 
 Dialysis solutions contain [blr]dextrose[/blr] and so it is common for a patient to experience a [blr]sweet taste[/blr] in the mouth. 
 Follow [blr]fluid restrictions[/blr]. 
- [blr]Constipation [/blr] could affect dialysate return. 
+[blr]Constipation [/blr] could affect dialysate return. 
 </peritoneal-dialysis>
 
 
 
 <wet-to-dry-dressing>
 [blr]Wash hands[/blr] and prepare your [blr]sterile field[/blr] before [blr]removing the old dressing[/blr].
-
 Purpose is to [blr]absorb drainage[/blr] and [blr]trap debris[/blr] as the dressing [blr]dries[/blr].
 Dressing must be [blr]damp[/blr] not [blr]entirely wet[/blr].
 Number of layer depened on the [blr]depth of the wound[/blr].
@@ -2419,12 +2450,14 @@ Don't need [blr]daily flushing[/blr].
 </implanted-port>
 
 <sodium>
+[important]
 Regular intake should be less than [blr]3,000 mg[/blr] per day.
 Restricted intake should be less than [blr]2,000 mg[/blr] per day.
 Minimum intake is [blr]500 mg[/blr] per day.
 </sodium>
 
 <licensed-practical-nurse>
+[important]
 [blr]Collecting specimens[/blr] such as [blr]blood[/blr], [blr]urine[/blr] and [blr]sputum[/blr].
 Changing [blr]wound dressings[/blr] 
 Can  [blr]prep [/blr] for surgery.
@@ -2433,6 +2466,7 @@ Can not make  [blr]referrals [/blr].
 </licensed-practical-nurse>
 
 <respiratory-rate>
+[important]
 Newborn: [blr]25-55[/blr] bpm
 Infant (6-12mo): [blr]24-30[/blr] bpm
 Young child (1-5yo): [blr]20-30[/blr] bpm
@@ -2440,6 +2474,7 @@ Child(6+): [blr]12-20[/blr] bpm
 </respiratory-rate>
 
 <heart-rate>
+[important]
 Newborn: [blr]110-160[/blr] bpm
 Infant (0-1.5): [blr]80-150[/blr] bpm
 Child (1.5 - 11): [blr]70-120[/blr] bpm
@@ -2447,6 +2482,7 @@ Teen (12+ years) [blr]60-100[/blr] bpm
 </heart-rate>
 
 <blood-pressure>
+[important]
 0-6mo: ([blr]65-90[/blr])-([blr]45-65[/blr]) mmHg
 1-2 years (toddler) - ([blr]85-110[/blr]) - ([blr]45-70[/blr]) mmHg
 3-5 years (preschool) - ([blr]90-120[/blr]) - ([blr]45-80[/blr]) mmHg 
@@ -2454,12 +2490,14 @@ Teen (12+ years) [blr]60-100[/blr] bpm
 </blood-pressure>
 
 <temperature>
+[important]
 0-3y: [blr]99.4[/blr]F ([blr]37.5[/blr]C)
 3y-5y: [blr]99[/blr]F ([blr]37.2[/blr]C)
 5+: [blr]98.6[/blr]F ([blr]37[/blr]C)
 </temperature>
 
 <pulmonary-embolism>
+[important]
 Typically occurs [blr]12-72[/blr] hours after injury to a [blr]long bone[/blr].
 [blr]Petechia[/blr] on the [blr]chest[/blr] and [blr]mucus membranes[/blr].
 </pulmonary-embolism>
@@ -2490,6 +2528,7 @@ Should be completed even in cases of [blr]near misses[/blr], where for example a
 </low-fat-diet>
 
 <diabetes>
+[important]
 Rist factors: Race - [blr]African American[/blr], [blr]Hispanic[/blr], [blr]Native American[/blr] and [blr]Asian[/blr] 
 Age - greater than [blr]45[/blr] 
 Pregnancy - newborn weighing more than [blr]9[/blr] lbs
@@ -2502,10 +2541,12 @@ Infant should be [blr]heard[/blr] swollowing.
 </breastfeeding>
 
 <diapers>
+[important]
 New borns should have [blr]6-8[/blr] wet diapers daily (at least one every [blr]4[/blr] hours).
 </diapers>
 
 <developmental-milestones>
+[important]
 1st - [blr]walks[/blr] without help
 2nd - [blr]builds a tower of 3-4 blocks[/blr]
 3rd - Uses [blr]2-3[/blr] word phrases
@@ -2513,6 +2554,7 @@ New borns should have [blr]6-8[/blr] wet diapers daily (at least one every [blr]
 </developmental-milestones>
 
 <water-breaking>
+[important]
 Anytime there is a change in labor status the first step is to [blr]assess the fetal well being[/blr] by [blr]ausultating[/blr] the [blr]heart rate[/blr]:
 Below [blr]110[/blr] - [blr]late[/blr] sign of [blr]fetal hypoxia[/blr] maybe due to a [blr]prolapsed cord[/blr] (when the [blr]cord[/blr] exists the [blr]uterus[/blr] before the baby)
 Above [blr]160[/blr] - [blr]early[/blr] sign of [blr]fetal hypoxia[/blr]. 
@@ -2523,6 +2565,7 @@ Fluid should be [blr]straw[/blr] colored - [blr]green[/blr] or [blr]brown[/blr] 
 </water-breaking>
 
 <prolapsed-cord>
+[important]
 [blr]Push on the presenting cord[/blr] to [blr]relieve pressure[/blr]. 
 Place the client in [blr]Trendelenburg position[/blr] or [blr]knee-chest[/blr] position. 
 </prolapsed-cord>
@@ -2543,10 +2586,12 @@ Must be done [blr]every hour[/blr] to maintain strenght.
 </cast>
 
 <compartment-syndrome>
+[important]
 Six Ps - [blr]Pain[/blr], [blr]Pulse[/blr], [blr]Parasthesia[/blr], [blr]Paralysis[/blr], [blr]Pale[/blr], [blr]Poikilothermia[/blr] (cool extremity) 
 </compartment-syndrome>
 
 <chest-tube>
+[important]
 Measured every [blr]hour[/blr] during the first [blr]24[/blr] hours after surgery. 
 If more than [blr]200 mL[/blr] of drainage occurs during the [blr]first hour[/blr] and more than [blr]100 mL[/blr] per hour in the [blr]hours after[/blr], [blr]surgeon[/blr] should be [blr]notified[/blr]. 
 Wall suction must be at least [blr]-80mmHg[/blr] to maintain [blr]-20cm[/blr] H2O in the suction chamber.
@@ -2556,6 +2601,7 @@ If the connection becomes dislodged at the chamber level place the end of the tu
 </chest-tube>
 
 <hip-replacement>
+[important]
 Leg must be [blr]abducted[/blr] in order to maintain proper limb orientation. Use an [blr]abductor pillow[/blr] that's [blr]triangle[/blr] shaped.
 </hip-replacement>
 
@@ -2568,6 +2614,7 @@ Avoid [blr]oily fish[/blr] with [blr]bones[/blr].
 </uric-acid>
 
 <gout>
+[important]
 Caused by [blr]uric acid crystals[/blr] in joints, which is convereted from [blr]purine[/blr].
 Increase [blr]fluid intake[/blr] to over [blr]2L[/blr] / day
 Avoid [blr]alcohol[/blr] and [blr]beer[/blr] as well as [blr]high fructose corn syrup[/blr].
@@ -2577,6 +2624,7 @@ Cochicine is used to lower the inflammation and lower the uric acid buildup.
 </gout>
 
 <common-diseases>
+[important]
 mononucleosis - [blr]standard[/blr] precautions ([blr]Epstein-Barr[/blr] virus) - [blr]fatigue[/blr], [blr]fever[/blr] and [blr]swollen lymph nodes[/blr]. Spread by [blr]saliva[/blr]. 
 hepatitis A - spread by [blr]the stool of the person[/blr]. 
 Toxic shock syndrome - [blr]cannot be[/blr] transmitted to others. 
@@ -2584,6 +2632,7 @@ Rhinovirus - [blr]common cold[/blr], [blr]droplet[/blr] transmission.
 </common-diseases>
 
 <hepatitis>
+[important]
 A - spread through [blr]feces[/blr]
 B - [blr]all fluids[/blr], except [blr]feces[/blr], [blr]urine[/blr] and [blr]vomit[/blr]
 C - mostly [blr]blood[/blr], usually not [blr]through sex[/blr] or [blr]feces[/blr] or [blr]urine[/blr] or [blr]vomit[/blr]. 
@@ -2591,12 +2640,15 @@ D - [blr]all fluids[/blr], except for [blr]feces[/blr], [blr]urine[/blr] and [bl
 </hepatitis>
 
 <withdrawl>
+[important]
 Cannabis withdrawl - [blr]insomnia[/blr], [blr]lack of appetite[/blr] and [blr]hyperactivity[/blr]
 Narcotics - [blr]watery eyes[/blr], [blr]cramps[/blr] and [blr]mild tremors[/blr]. 
 Alcohol - [blr]hyperalterness[/blr], easily [blr]startled[/blr], [blr]anorexia[/blr], [blr]anxeity[/blr], [blr]tremors[/blr], [blr]insomnia[/blr], [blr]seizures[/blr] up to [blr]72[/blr] hours after last drink, [blr]tacticle[/blr] disturbances ([blr]itching[/blr], [blr]pins[/blr] and [blr]needles[/blr] etc) 
 </withdrawl>
 
+
 <alcohol-withdrawal>
+[important]
 Use Clinical Institute Withdrawl Assessment for Alcohol, Revised (CIWA-Ar) scale. 
 To check for [blr]tremors[/blr] by extending arms and spreading fingers. Even if not visible [blr]touch fingertip[/blr] to [blr]feel[/blr] for [blr]vibration[/blr]. 
 Scale checks for [blr]N/V[/blr]: [blr]0[/blr]-[blr]7[/blr] points
@@ -2620,12 +2672,14 @@ Other symptoms are [blr]tachycardia[/blr] and [blr]hypertension[/blr]
 </alcohol-withdrawal>
 
 <risperidone>
+[important]
 Can cause [blr]photosensitivity[/blr] and impaired [blr]temperature regulation[/blr]. 
 Can cause [blr]orthostatic hypotension[/blr]. 
 [blr]Dry mouth[/blr]
 </risperidone> 
 
 <akathesia> 
+[important]
 Inability to [blr]remain still[/blr]. 
 Usually treated with  [blr]propranalol [/blr], as it helps with internal state of restlessness. 
 Most common form of extrapyramidal side effect associated with antipsychotic medications. 
@@ -2651,6 +2705,7 @@ Symptoms are [blr]spotting[/blr] and [blr]cramping[/blr].
 </normal-effects-of-pregnancy>
 
 <hyperemesis-gravidum>
+[important]
 [blr]Excessive nausea[/blr] and [blr]vomiting[/blr], due to excess levels of  [blr]estrogen [/blr]. 
 Could be a sign of [blr]hydatidiform mole[/blr], due to high levels of [blr]hCg[/blr]
 Symptoms usually appeart at  [blr]4th [/blr]- [blr]6th [/blr] week of pregnancy and peak between  [blr]9 [/blr]- [blr]13 [/blr] weeks. It gets better in most women by  [blr]14 [/blr]- [blr]20th [/blr] week, but  [blr]20 [/blr]% of women experience symptoms  [blr]the entire duration of pregnancy [/blr]. 
@@ -2659,6 +2714,7 @@ Administer  [blr]IV fluids [/blr],  [blr]electrolyte [/blr] replacements and  [b
 </hyperemesis-gravidum>
 
 <infant-apnea>
+[important]
 Sessation of [blr]breathing[/blr] for more than [blr]20[/blr] seconds or if [blr]shorter[/blr] but accompanied by [blr]bradycardia[/blr], [blr]cyanosis[/blr], or marked [blr]hypotonia[/blr]. 
 Sessation of breathing for periods of less than [blr]20[/blr] seconds with no [blr]complicating[/blr] factors is considered [blr]normal[/blr] in neonates, it's called [blr]periodic breathing[/blr]. 
 Diagnosis is much more common in [blr]preterm[/blr] infants, and [blr]rare[/blr] in [blr]full term[/blr].
@@ -2666,6 +2722,7 @@ When it's diagnosed in [blr]full term[/blr] infants, it's usually indicative of 
 </infant-apnea>
 
 <neonate>
+[important]
 Report fever greater than [blr]101F[/blr] ([blr]38.3[/blr]C)
 More than one episode of [blr]projectile vomiting[/blr] should be reported as it's not normal. 
 </neonate>
@@ -2695,16 +2752,19 @@ In case of an event, obtain [blr]HLA[/blr] ([blr]human leukocyte antibody[/blr])
 </transfusion-related-lung-injury>
 
 <blood-transfusion>
+[important]
 Reduced [blr]leukocyte[/blr] blood products are given to those that expereinced a [blr]transfusion reaction[/blr] before.
 [blr]Diphenhydramine[/blr], [blr]acetaminophen[/blr] and [blr]hydrocortisone[/blr] is given to clients with high risk of rejection. 
 </blood-transfusion>
 
 <apnea-monitor>
+[important]
 [blr]White[/blr] and [blr]Black[/blr] lead - [blr]upper right[/blr] chest and [blr]upper left[/blr] chest.
 [blr]Green[/blr] lead - on abdomen, not over bony area. 
 </apnea-monitor>
 
 <infant-sleep>
+[important]
 Do not use [blr]soft mattresses[/blr] due to increased risk of SIDS, use a [blr]firm mattress[/blr]. 
 Do not use [blr]bumper guards[/blr] for same reason.
 Do not [blr]rock[/blr] the baby [blr]to sleep[/blr] as that introduces [blr]dependence[/blr]. Instead [blr]place them in the crib[/blr] and let them [blr]fall asleep[/blr]. 
@@ -2714,12 +2774,14 @@ Total daily sleep should be about [blr]15[/blr] hours.
 </infant-sleep>
 
 <preoperative-medication-hold>
+[important]
 Hold all medications that effect [blr]hydration[/blr] and [blr]bleeding times[/blr]. 
 Hold [blr]diuretics[/blr] as they increase the risk for [blr]hypovolemia[/blr] and [blr]hypokalemia[/blr]. 
 Hold [blr]anticoagulats[/blr] to reduce the risk of severe [blr]bleeding[/blr]. 
 </preoperative-medication-hold>
 
 <bulimia-nervosa>
+[important]
 A vicious cycle where the client [blr]diets[/blr] and then [blr]binge eats a large quantity of food[/blr], then attempts to [blr]rid[/blr] of the [blr]food[/blr] by endusing [blr]vomiting[/blr]. 
 Focus is to [blr]interrup the cycle[/blr]. Altering [blr]dysfunctional thoughts[/blr]. Exploring [blr]self-concept[/blr].
 Set [blr]limits[/blr] on [blr]eating[/blr] - like [blr]only at a table[/blr] or [blr]with others[/blr].
@@ -2729,6 +2791,7 @@ May [blr]brush teeth[/blr] frequently.
 </bulimia-nervosa>
 
 <anorexia-nervosa>
+[important]
 Restricting [blr]eating[/blr] to maintain a [blr]percieved proper weight[/blr]. 
 Usually [blr]underweight[/blr]. 
 Intense fear of [blr]gaining weight[/blr]. 
@@ -2761,22 +2824,27 @@ Client may feel some [blr]pressure[/blr] and [blr]brief sharp pain[/blr] with [b
 </lumbar-puncture>
 
 <suctioning>
+[important]
 [blr]Hyperoxygenate[/blr] for [blr]30 seconds[/blr], [blr]suction[/blr] for [blr]5[/blr]-[blr]10[/blr] seconds at a time. 
 </suctioning>
 
 <biot-respirations>
+[important]
 Seen in patients with [blr]brain damage[/blr]. A cycle of [blr]rapid respirations[/blr] followed by [blr]short period of apnea[/blr]. 
 </biot-respirations>
 
 <cheyne-stokes-respirations>
+[important]
 Seen in patients with [blr]heart problems[/blr]. A cycle that alternates between [blr]fast deep breaths[/blr] with [blr]slow shallow respirations[/blr]. 
 </cheyne-stokes-respirations>
 
 <stridor>
+[important]
 Occurs during [blr]inspiration[/blr]. 
 </stridor>
 
 <wheezing>
+[important]
 Mostly during [blr]expiration[/blr] but could also occur during [blr]inspiration[/blr]. 
 </wheezing>
 
@@ -2809,7 +2877,7 @@ Swabs of any secretions should be [blr]air dried[/blr] prior to [blr]storage[/bl
 
 <varicella>
 If an [blr]immonocompromised[/blr] client is exposed the priority is to [blr]administer varicella immunoglobulin[/blr], which can prevent the development of [blr]infection[/blr].
-Requires [blr]contact[/blr] and [blr]droplet[/blr] precautions. 
+Requires [blr]contact[/blr] and [blr]airborne[/blr] precautions. 
 </varicella>
 
 <impending-labor>
@@ -2817,6 +2885,7 @@ Feeling of [blr]pelvic pressure[/blr].
 </impending-labor>
 
 <rupture-of-membranes>
+[important]
 Avoid [blr]ambulating[/blr] after the [blr]membranes have ruptured[/blr] as it risks a [blr]prolapsed umbilical cord[/blr]. Only allow [blr]ambulations[/blr] prior to [blr]ROM[/blr]. 
 </rupture-of-membranes>
 
@@ -2839,6 +2908,7 @@ Increases [blr]fluid volume[/blr], administered to treat [blr]volume deficit[/bl
 </normal-saline>
 
 <lactaded-ringer>
+[important]
 Contains [blr]sodium chloride[/blr], [blr]sodium lactate[/blr], [blr]potassium[/blr], [blr]calcium[/blr].
 Does not provide [blr]potassium replacement[/blr].
 Contains [blr]electrolyte[/blr] content that [blr]closely resembles blood plasma[/blr] and [blr]serum[/blr]. 
@@ -2850,6 +2920,7 @@ Used as an [blr]alkalinizing[/blr] agent to [blr]raise[/blr] the body's [blr]pH[
 </lactaded-ringer>
 
 <dextrose-in-water>
+[important]
 Initially [blr]isotonic[/blr], but dextrose is quickly [blr]metabolized[/blr] by the body leaving no [blr]osmotic particles[/blr] and thus becomes [blr]hypotonic[/blr] and [blr]infuses into cells[/blr]. 
 Provides [blr]170[/blr] calories per [blr]liter[/blr]. 
 Used to treat [blr]hypernatremia[/blr]. 
@@ -2866,6 +2937,7 @@ Causes fluid to [blr]move into the cells[/blr].
 </hypotonic-solution>
 
 <hypertonic-solution>
+[important]
 Causes fluid to [blr]move into the blood[/blr]. 
 Called [blr]fluid expanders[/blr]. 
 A solution is considered [blr]hypertonic[/blr] if it has a total electrolyte concentration [blr]exceeding 375 mEq/L[/blr].
@@ -2873,6 +2945,7 @@ Example are [blr]any isotonic fluid plus 5% dextrose[/blr], like [blr]D5-0.45-NS
 </hypertonic-solution>
 
 <cyanocobalamin>
+[important]
 [blr]Metformin[/blr], [blr]proton pump inhibitors[/blr], and [blr]histamine receptor antagonists[/blr] ([blr]h2 antagonists[/blr] like [blr]famotidine[/blr]) interfere with [blr]absoprtion[/blr]. 
 </cyanocobalamin>
 
@@ -2881,6 +2954,7 @@ Example are [blr]any isotonic fluid plus 5% dextrose[/blr], like [blr]D5-0.45-NS
 </breastfeeding>
 
 <respiratory-syncytial-virus>
+[important]
 Requires [blr]contact[/blr] precautions. 
 </respiratory-syncytial-virus>
 
@@ -2894,6 +2968,7 @@ Client should not [blr]lean over[/blr] the handles and instead [blr]stand tall[/
 </walker>
 
 <nits>
+[important]
 Keep [blr]permethrin[/blr] cream on for [blr]10 minutes[/blr] before washing off.
 Permetherin may [blr]irritate scalp[/blr] and [blr]skin[/blr]. 
 [blr]Linens[/blr] should be [blr]washed in hot water[/blr] and then [blr]dried in dryer[/blr]. Not necessary to use [blr]bleach[/blr]. 
@@ -2918,17 +2993,20 @@ Place [blr]identification bracelets[/blr] on [blr]each[/blr] to [blr]easily trac
 </evacuation-of-children>
 
 <rh-immune-globulin>
+[important]
 Works for [blr]12 weeks[/blr]
 Should be administered between [blr]26[/blr]-[blr]28[/blr] weeks of pregnancy (since it works for [blr]12 weeks[/blr]) and then within [blr]72 hours[/blr] of delivery to reduce the risk of [blr]rejection[/blr] on [blr]following pregancies[/blr]. 
 </rh-immune-globulin>
 
 <asthma-attack>
+[important]
 If a child is [blr]wheezing[/blr] after [blr]excersize[/blr] and has an [blr]albuterol inhaler[/blr], first determine the [blr]peak expiratory flow rate[/blr] ([blr]PEFR[/blr]) and if it's [blr]50[/blr]-[blr]70%[/blr] of the [blr]personal best[/blr] then [blr]administer the medication[/blr]. 
 If the [blr]PEFR[/blr] is within [blr]80[/blr]-[blr]100%[/blr] then [blr]no intervention is needed[/blr] besides having the child [blr]rest[/blr].
 If [blr]PEFR[/blr] is below [blr]50%[/blr] child needs to [blr]go to the ER[/blr]. 
 </asthma-attack>
 
 <bacterial-meningitis>
+[important]
 No longer [blr]contagious[/blr] after [blr]24 hours[/blr] of [blr]antibiotic therapy[/blr]. 
 </bacterial-meningitis>
 
@@ -2939,6 +3017,7 @@ Incidense is [blr]lowest[/blr] in [blr]dark-skinned[/blr] races.
 </psoriasis>
 
 <activities-of-daily-living>
+[important]
 [blr]Bathing[/blr], [blr]dressing[/blr], [blr]feeding[/blr] and [blr]toileting[/blr]. 
 Assess the clients [blr]ablity to perform these tasks[/blr] and [blr]basic hygine[/blr] tasks like [blr]combing hair[/blr] and [blr]brushing teeth[/blr]. 
 </activities-of-daily-living>
@@ -2958,10 +3037,12 @@ Consult with a [blr]registered diatician[/blr] to select [blr]special foods[/blr
 </poor-apetite>
 
 <peripherally-inserted-central-catheter>
+[important]
 Should be [blr]flushed[/blr] with a [blr]push-pause technique[/blr] with [blr]10[/blr] ml of [blr]normal saline[/blr]. This causes [blr]turbulence[/blr] within the [blr]lumen[/blr] which removes [blr]debris[/blr] and reduces chances of the [blr]line clotting[/blr]. 
 </peripherally-inserted-central-catheter>
 
 <evacuation>
+[important]
 [blr]Stable[/blr] and [blr]ambulatory[/blr] clients are the [blr]first[/blr] to be evacuated, without a [blr]contagious disease[/blr]. 
 Levels of evacuation: 
 Shelter in place - [blr]cease all routine activity[/blr] and [blr]actively prepare[/blr] for [blr]threat[/blr]. Clinets, visitors and staff [blr]remain where they are[/blr]. Staff [blr]provide initial protection[/blr] from [blr]fire[/blr] and [blr]smoke[/blr] by [blr]closing doors[/blr] and [blr]windows[/blr]. 
@@ -2988,7 +3069,7 @@ Vertical - evacuate the [blr]entire floor[/blr], at least [blr]2 floors[/blr] fr
 </urinary-catheter>
 
 <potassium-rich-foods>
-[rand]
+[important]
 Dried appricots - [blr]380mg[/blr]
 Banana - [blr]420mg[/blr]
 Lima beans - [blr]480mg[/blr]
@@ -3005,6 +3086,7 @@ If the client is pacing then give them a [blr]simple repetitive activity[/blr] t
 </pacing> 
 
 <neonatal-jaundice>
+[important]
 Cause is [blr]breakdown[/blr] of excessive [blr]red blood cells[/blr] after [blr]birth[/blr]. 
 [blr]Not present[/blr] at [blr]birth[/blr] but begins [blr]24 hours[/blr] after. 
 Total [blr]serum bilirubin[/blr] will [blr]rise[/blr] during the [blr]first few days[/blr], peaking at [blr]day 5[/blr] and [blr]declining after[/blr]. 
@@ -3018,11 +3100,13 @@ Labs that are not needed - [blr]platelet count[/blr] - [blr]platlet aggregation[
 </clopidogrel>
 
 <antiplatelet-herbs>
+[important]
 Herbs that interact with antiplatelet drugs such as [blr]aspirin[/blr] and [blr]clopidogrel[/blr]:
 [blr]Garlic[/blr], [blr]ginger[/blr], [blr]ginko biloba[/blr], [blr]ginseng[/blr], [blr]chamomile[/blr], [blr]licorice[/blr], [blr]turmeric[/blr], [blr]green tea[/blr], [blr]horseradish[/blr], [blr]anise[/blr], [blr]cat's claw[/blr], [blr]dong quai[/blr].
 </antiplatelet-herbs>
 
 <common-herbs>
+[important]
 Garlic - used to [blr]boost the immune system[/blr] and treat [blr]infections[/blr] and reduce [blr]cholesterol[/blr]. Scientific results show reduction [blr]of platelets[/blr], increased [blr]bleeding[/blr], and [blr]antibacterial[/blr] properties. Counterindicated in patiens who take [blr]cyclosporine[/blr] as it [blr]reduces it's effectiveness[/blr] and could cause [blr]transplant reactions[/blr]. Also reduces the effect of [blr]HIV[/blr] medications ([blr]protease inhibitors[/blr]), could lower [blr]sugar[/blr] so [blr]insulin[/blr] adjustments may be needed.
 Ginger - has compounds that help with [blr]nausea and vomiting[/blr]. May help to [blr]calm stomach[/blr] and [blr]intestines[/blr]. Has [blr]antiplatelet properties[/blr] when consumed [blr]in large quantities[/blr]. Counterindicated with [blr]tacrolimus[/blr], as ginger [blr]increase its blood levels[/blr]. With [blr]galstones[/blr] as it may increase [blr]bile production[/blr]. 
 Ginkgo Biloba - used for [blr]memory[/blr] and [blr]brain health[/blr]. Scientifically has [blr]pretty much no benefit[/blr]. Interacts with [blr]anticoagulats[/blr], [blr]insulin[/blr], [blr]trazadone[/blr], [blr]midazolam[/blr], [blr]amlodipine[/blr]. 
@@ -3046,6 +3130,7 @@ Client will be [blr]confused[/blr] after treatment. [blr]Stay with the client[/b
 </electro-convulsive-therapy>
 
 <intra-cranial-pressure>
+[important]
 Normal is [blr]5[/blr]-[blr]15[/blr] mmHg
 </intra-cranial-pressure>
 
@@ -3059,20 +3144,26 @@ Rapid rewarming could lead to [blr]electrolyte imbalances[/blr], [blr]cerebral e
 </theraputic-hypothermia>
 
 <monoamine-oxidase-inhibitors>
+[important]
 Inhibit the breakdown of different [blr]neurotransmitters[/blr] in the brain, such as [blr]serotonin[/blr], [blr]dopamine[/blr] and [blr]tyramine[/blr]. 
 Example medications: [blr]phenelzine[/blr], [blr]tranylcypromine[/blr], [blr]selegiline[/blr], [blr]isocarboxazid[/blr]
 Interact with foods high in [blr]tyramine[/blr], consumption of which could cause [blr]tyramine[/blr] excess (due to [blr]inhibition of breakdown[/blr]) and cause a [blr]hypertensive crisis[/blr]. 
 </monoamine-oxidase-inhibitors>
 
 <tyramine-rich-foods>
+[important]
 [blr]Aged cheeses[/blr] like [blr]cheddar[/blr], [blr]swiss[/blr] and [blr]blue cheeses[/blr]. [blr]Alcohol[/blr] such as [blr]beer[/blr] and [blr]red wine[/blr]. [blr]Smoked[/blr] or [blr]aged meats[/blr]. 
 </tyramine-rich-foods>
 
 <newborn-stomach-capacity>
+[important]
 The stomach capacity of a newborn is [blr]0.5[/blr] - [blr]1[/blr] ounce. 
 </newborn-stomach-capacity>
 
 <common-screening-older-adult>
+
+[important]
+
 Common screening for older includes:
 [blr]Stoon DNA[/blr] test every [blr]3[/blr] years. 
 [blr]Digital rectal examination[/blr] every [blr]year[/blr] to test for prostate cancer. 
@@ -3083,6 +3174,7 @@ Low Dose CT scan [blr]every year[/blr]. It's more effective than an [blr]XRAY[/b
 </common-screening-older-adult>
 
 <hypertension-lifestyle>
+[important]
 Sodium intake less than [blr]2 grams[/blr] per day.
 AHA recommends moderate activity for at least [blr]30 min[/blr] a day, [blr]5[/blr] days a week. 
 No more than [blr]1 serving[/blr] of alcohol per day. 
@@ -3096,12 +3188,14 @@ Inflate the cuff to the point that the brachial pulse is no longer then inflate 
 </blood-pressure-measuring>
 
 <common-antibiotics>
+[important]
 Gentamycin - belongs to [blr]aminoglycoside[/blr] class - causes [blr]ototoxicity[/blr] which causes [blr]tinnitus[/blr]. [blr]Renal toxicity[/blr] - should increase [blr]fluid intake[/blr]. 
 Ciprofloxacin - blongs to a class known as [blr]fluroquinolones[/blr]. Do not consume [blr]dairy[/blr] products and they [blr]lower the effectiveness[/blr] of this antibiotic. Cause [blr]sensitivity[/blr] to [blr]uv light[/blr]. 
 Cephazolin - belongs to a class knows as [blr]cephalosporins[/blr], commonly cause [blr]diarrhea[/blr]. 
 </common-antibiotics>
 
 <aminoglycosides>
+[important]
 Class of antibiotics most commonly used to treat [blr]gram negative aerobic[/blr] bacteria, such as [blr]pseudomonas[/blr] and [blr]enterobacter[/blr].
 Cause [blr]inner ear toxicity[/blr] and [blr]renal toxicity[/blr]. 
 Example drugs: [blr]Gentamycin[/blr], [blr]tobramycin[/blr], [blr]neomycin[/blr], [blr]streptomycin[/blr]. 
@@ -3131,6 +3225,7 @@ Priority is to obtain [blr]blood glucose levels[/blr] and if low administer a [b
 </postprandial-hypoglycemia>
 
 <postpartum-hemorrhage>
+[important]
 Bleeding that saturates more than [blr]1[/blr] pad an hour is considered [blr]severe[/blr]. 
 Each pad holds [blr]100[/blr] ml of blood. 
 Continuos flow or dripping of blood is [blr]an emergency[/blr]. 
@@ -3147,22 +3242,26 @@ Complete [blr]an incident report[/blr].
 </medication-error>
 
 <open-angle-glaucoma>
+[important]
 [blr]Mydriatic[/blr] eye drops are counterindicated as they raise the pressure. 
 [blr]Tonometer[/blr] measurments should be taken [blr]1[/blr] to [blr]2[/blr] times per [blr]year[/blr]. 
 Symtptoms include [blr]cloudy[/blr] or [blr]blurry[/blr] vision, lights have [blr]rainbows[/blr] and [blr]halos[/blr] around them. 
 </open-angle-glaucoma>
 
 <glaucoma-screening>
+[important]
 [blr]Tonometer[/blr] readings are indicated for all people over [blr]40[/blr]. 
 Primary risk is age greater than [blr]60[/blr]. 
 Some medications like [blr]corticosteriods[/blr] could cause glaucoma. 
 </glaucoma-screening>
 
 <metoclopromide> 
+[important]
 Could cause [blr]tardive dyskinesia[/blr] with long term use. 
 </metoclopromide>
 
 <tardive-dyskinesia>
+[important]
 Means late apperaing [blr]invluntary movement[/blr]. 
 Usually occurs about [blr]6 months[/blr] after medications are started. 
 Symptoms include involuntary movments of the [blr]fingers[/blr], [blr]face[/blr], [blr]arms[/blr] and [blr]legs[/blr]. 
@@ -3171,6 +3270,7 @@ Risk factors are [blr]female[/blr] gender, [blr]older adult[/blr] or first episo
 </tardive-dyskinesia>
 
 <pregnancy-milestones>
+[important]
 Quickening should occur between [blr]16[/blr]-[blr]20[/blr] weeks of pregnancy. 
 Expected weight gain during the [blr]first trimester[/blr] is [blr]insignificant[/blr]. Most weght gain happens during the [blr]second and third trimesters[/blr], at approximately 1lb per week. Total weight gain during preganancy should be [blr]25[/blr]-[blr]35[/blr] lbs. 
 Nausea usually ends by [blr]14[/blr]-[blr]16[/blr] weeks. 
@@ -3197,6 +3297,7 @@ You should document the [blr]facts[/blr] of the incident, [blr]interventions[/bl
 </incident-report>
 
 <cane-use>
+[important]
 Hold the cane in the [blr]strong hand[/blr]. 
 Move the cane forward [blr]6[/blr]-[blr]10[/blr] inches, keeping the body weight on [blr]both legs[/blr]. 
 Move [blr]weak leg[/blr] until it's [blr]even with the cane[/blr]. 
@@ -3204,12 +3305,10 @@ Move [blr]strong leg[/blr] until [blr]6[/blr]-[blr]10[/blr] inches past the cane
 Move the [blr]weak leg[/blr] in line with the [blr]strong leg[/blr]. 
 </cane-use>
 
-<radiation-safety>
-Do not allow the client to [blr]leave the room[/blr]. 
-Visitors under [blr]18[/blr] are not allowed. 
-</radiation-safety>
+
 
 <diabetes-and-exercise>
+[important]
 Exercise has a [blr]glucose[/blr] lowering effect. 
 Best to exercise after [blr]meals[/blr] when [blr]glucose levels[/blr] are rising. 
 Monitor [blr]glucose levels[/blr] before, during and after exercising. 
@@ -3217,6 +3316,7 @@ If glucose less than or equal to [blr]100[/blr] mg per dL before exercise, eat a
 </diabetes-and-exercise>
 
 <rhabdomyolysis>
+[important]
 Primary intervention is to administer [blr]IV crystalloid fluids[/blr] to [blr]dilute[/blr] and promote [blr]potassium[/blr] and [blr]myoglobin[/blr] excretion. 
 An [blr]osmotic diuretic[/blr], such as [blr]mannitol[/blr], is often administered to flush [blr]myoglobin[/blr] from the [blr]kidneys[/blr], to prevent [blr]tubular necrosis[/blr]. 
 Administer [blr]bicarbonate[/blr] to [blr]alkalinize[/blr] the [blr]urine[/blr] and lessen [blr]myoglobin toxicity[/blr]. 
@@ -3242,8 +3342,8 @@ Phototherapy should be used for [blr]2[/blr] to [blr]6[/blr] hours per day, duri
 Client should begin phototherapy in the [blr]morning[/blr], soon after [blr]awekening[/blr] and repeat exposure after [blr]sundown[/blr] to simulate [blr]extended daylight[/blr] hours. 
 </seasonal-affective-disorder>
 
-
 <intra-cranial-pressure>
+[important]
 Early sign is a [blr]slowing of speech[/blr]. 
 Later signs are [blr]nausea[/blr] and [blr]vomiting[/blr], [blr]pupil[/blr] changes, irregular [blr]respirations[/blr], [blr]widened pulse pressure[/blr], [blr]systolic hypertension[/blr] and [blr]bradycardia[/blr]. 
 </intra-cranial-pressure>
@@ -3254,6 +3354,7 @@ Best way to reduce pain and stiffness is through [blr]streching[/blr] and [blr]s
 </rheumatoid-arthiritis>
 
 <dementia>
+[important]
 Don't ask questions that require [blr]recent memory recall[/blr] if the client has problems with that as it may cause [blr]anxiety[/blr], instead [blr]state the facts[/blr] as [blr]statements[/blr], rather than [blr]questions[/blr]. 
 State the [blr]day and time[/blr] as part of the [blr]greeting[/blr]. "Good morning it's Tuesday, 8am in the morning". Don't directly tell them the [blr]date and time[/blr] as it may be [blr]demeaning[/blr]. 
 Offer small [blr]cups of fluid[/blr] throughout the day, don't just [blr]ask[/blr] if the client is thristy. 
@@ -3282,15 +3383,18 @@ Client is unable to [blr]speak[/blr] after a newly placed tracheostomy, since th
 </tracheostomy>
 
 <Levine-sign>
+[important]
 The sign is a [blr]clenched fist[/blr] over chest, suggesting [blr]angina pectoris[/blr].
 </Levine-sign>
 
 <splenomegaly>
+[important]
 When percuissing [blr]Traube's space[/blr], if a [blr]tympanic[/blr] percussion is heard then enlargment of the spleen is [blr]less likely[/blr], if the sound is [blr]dull[/blr], it most likely indicates [blr]splenomegaly[/blr]. 
 </splenomegaly>
 
 
 <Kubler-Ross-stages-of-grief>
+[important]
 1.[blr]Denial[/blr]
 2.[blr]Anger[/blr]
 3.[blr]Bargaining[/blr]
@@ -3299,6 +3403,7 @@ When percuissing [blr]Traube's space[/blr], if a [blr]tympanic[/blr] percussion 
 </Kubler-Ross-stages-of-grief>
 
 <parenteral-nutrition>
+[important]
 [blr]Glucose[/blr] should be checked every [blr]6[/blr] hours. 
 </parenteral-nutrition>
 
@@ -3308,6 +3413,7 @@ Contains [blr]10[/blr]% or greater of [blr]dextrose[/blr].
 </total-parenteral-nutrition>
 
 <child-sleep>
+[important]
 Bottle fed and formula fed infants [blr]sleep for longer[/blr] periods and wake up [blr]less frequently[/blr] during the night than [blr]breast fed[/blr] infants.
 Infants sleep [blr]13[/blr] hours at night and [blr]2[/blr] naps during the day. 
 Toddlers sleep [blr]11[/blr]-[blr]14[/blr] hours a night, with a [blr]single nap[/blr] during the day.
@@ -3334,11 +3440,13 @@ Oral [blr]glucose[/blr] reduces [blr]pain response[/blr].
 
 
 <older-adult-temperature>
+[important]
 Usually [blr]cooler[/blr] due to lower [blr]metabolic rate[/blr].
 Fever is usually considered in temperatures over [blr]100F[/blr] ([blr]37.8[/blr]C).
 </older-adult-temperature>
 
 <first-stage-of-labor>
+[important]
 Contractions occur [blr]3[/blr]-[blr]5[/blr] minutes apart. 
 Contractions have a duration of [blr]40[/blr]-[blr]60[/blr] seconds. 
 Client may become [blr]doubtful[/blr] in ability to [blr]control pain[/blr]. 
@@ -3348,10 +3456,12 @@ Remind the client to [blr]empty the bladder[/blr] often to assist in the [blr]pr
 </first-stage-of-labor>
 
 <transition-stage-of-labor>
+[important]
 Copiuos amounts of [blr]bloody show[/blr] is seen. 
 </transition-stage-of-labor>
 
 <pressure-injury-risk>
+[important]
 To assess the risk for pressure injury use a [blr]Braden[/blr] scale. 
 [blr]Sensory perception[/blr] (1 - completely limited, 2 - very limited, 3 - slightly limited, 4-not limited)
 [blr]Moisture[/blr] (1 constantly moist, 2-very moist, 3-occasionally moist, 4-rarely moist)
@@ -3370,6 +3480,7 @@ less than [blr]11[/blr] - severe risk
 
 
 <blood-transfusion>
+[important]
 Nurse must remain with the client for the first [blr]15[/blr]-[blr]30[/blr] min.
 Transfusion reactions are most likely to occur with the infusion of the first [blr]50[/blr] mL of blood. 
 Transfusion is needed when: [blr]platelets[/blr] are low enough to cause [blr]spontaneous bleeding[/blr], severe [blr]anemia[/blr] reduces the amount of [blr]oxygen[/blr] available. 
@@ -3389,12 +3500,12 @@ Use of [blr]bedside commode[/blr] is [blr]deiscouraged[/blr]. Usually a client h
 </brachytherapy>
 
 <vancomycin>
+[important]
 Theraputic range is [blr]10[/blr]-[blr]20[/blr] mcg/mL.
 Serum trough levels are drawn [blr]30[/blr] min or less before the [blr]next dose[/blr], and the next dose should be [blr]adjusted[/blr] based on the readings. 
 Major risk of this medication is [blr]acute-kidney-injury[/blr]. It usually occurs within [blr]10[/blr] days of the therapy. 
 Indications of renal impairment include - [blr]hematuria[/blr], [blr]proteinuria[/blr], elevated [blr]creatinine[/blr], elevated [blr]BUN[/blr]. 
 Another major side effect is [blr]ototoxicity[/blr]. Examine reports of [blr]unsteady gait[/blr], or [blr]oscillating vision[/blr]. 
-
 </vancomycin>
 
 <walker-use>
@@ -3406,6 +3517,7 @@ Another major side effect is [blr]ototoxicity[/blr]. Examine reports of [blr]uns
 </walker-use>
 
 <rubeola>
+[important]
 Also called [blr]measles[/blr]. 
 Rash develops on the [blr]hair line[/blr] and [blr]behind ears[/blr] and moves down until it [blr]coveres the entire body[/blr]. May or may not be [blr]pruritic[/blr].
 Other symptoms include [blr]conjunctivitis[/blr], [blr]coryza[/blr] ([blr]inflammation[/blr] of the [blr]nasal membranes[/blr]), [blr]Koplik spots[/blr] and [blr]high fever[/blr] as high as [blr]105F[/blr]([blr]40.5[/blr]C). 
@@ -3419,6 +3531,7 @@ Very stringent [blr]airborne precautions[/blr] must be followed, including [blr]
 </rubeola>
 
 <rubella>
+[important]
 Also known as [blr]german measles[/blr]. 
 [blr]Less severe[/blr] than rubeola and of [blr]shorter duration[/blr]. 
 Symptoms are [blr]similar[/blr] but the rash starts on the [blr]face[/blr]. 
@@ -3426,6 +3539,7 @@ Precautions implemented are [blr]airborne[/blr].
 </rubella>
 
 <live-vaccines>
+[important]
 Contraindicated in people who are on [blr]corticosteriods[/blr]. 
 </live-vaccines>
 
@@ -3446,6 +3560,7 @@ Primary example is [blr]lidocaine[/blr], other examples are [blr]anticonvulsants
 </co-analgesic>
 
 <freud-development-theory>
+[important]
 Use a mnemonic - [blr]Old Age Pensioners Love Grapes[/blr]. 
 [blr]Oral[/blr] - [blr]birth[/blr] to [blr]1[/blr] - fixated on [blr]thumb sucking[/blr] - later in life are [blr]nail biters[/blr] and [blr]smokers[/blr]. 
 [blr]Anal[/blr] - [blr]1[/blr] to [blr]3[/blr] - pleasure from [blr]defication[/blr] - by this time [blr]ego[/blr] has developed - if [blr]potty training[/blr] is harsh people become [blr]tidy[/blr], [blr]punctual[/blr] and [blr]respectful of authority[/blr]. The opposite traits if [blr]potty training[/blr] is not restrictive. 
@@ -3455,6 +3570,7 @@ Use a mnemonic - [blr]Old Age Pensioners Love Grapes[/blr].
 </freud-development-theory>
 
 <havighurst-developement-theory>
+[important]
 Developed a [blr]developmental task theory[/blr]. 
 Infancy and Early Childhood - [blr]0[/blr] to [blr]6[/blr]- tasks include learning to [blr]walk[/blr], [blr]talk[/blr] and [blr]read[/blr] as well as [blr]toilet training[/blr]. 
 Middle Childhood -  [blr]6[/blr] to [blr]12[/blr] - Learning to [blr]get along with children[/blr], learning [blr]masculine[/blr] or [blr]feminine[/blr] role, achieving [blr]personal independence[/blr]. 
@@ -3465,6 +3581,7 @@ Late Maturity - [blr]61[/blr] and on - adjusting to [blr]retirement[/blr], meeti
 </havighurst-developement-theory>
 
 <fowler-developement-theory>
+[important]
 Fowler developed a theory of [blr]faith development[/blr] and seeking of [blr]meaning[/blr]. 
 [blr]Primal Undiferrentiated[/blr] Faith - [blr]0[/blr] to [blr]3[/blr] - similar to [blr]trust vs mistrust[/blr] stage of Erikson. Developemnt of [blr]trust[/blr] in the [blr]harmony of the universe[/blr] or mistrust. 
 [blr]Intuitive Projective[/blr] Faith - [blr]3[/blr] to [blr]7[/blr] - faith develops through encounters with [blr]stories[/blr] and [blr]images[/blr]. [blr]Intuitive[/blr] understanding of right and wrong and God. [blr]Imitates[/blr] the [blr]religious behaviours[/blr] of parents.  
@@ -3476,6 +3593,7 @@ Fowler developed a theory of [blr]faith development[/blr] and seeking of [blr]me
 </fowler-developement-theory>
 
 <kohlberg-development-theory>
+[important]
 Developed a theory of [blr]moral development[/blr] in children.
 [blr]Obidience orientation[/blr] and [blr]punishment[/blr] - [blr]0[/blr] to [blr]4[/blr] - see rules as [blr]fixed[/blr] and [blr]absolute[/blr], obeying the rules is important as a way to [blr]avoid punishment[/blr]. 
 [blr]Individualism[/blr] and [blr]Exchange[/blr] - [blr]4[/blr] to [blr]9[/blr] - judge actions based on what [blr]they bring them in exchange[/blr]. 
@@ -3486,6 +3604,7 @@ Universal Principles - [blr]60[/blr] and on - people follow [blr]internalized pr
 </kohlberg-development-theory>
 
 <piaget-development-theory>
+[important]
 Developed a theory of [blr]cognitive developement[/blr]. 
 [blr]Sensorimotor[/blr] stage - [blr]0[/blr] to [blr]2[/blr] - knowing the world through [blr]movement[/blr] and [blr]sensations[/blr], develop [blr]object permanance[/blr] and [blr]separate themselves from the environment[/blr]. 
 [blr]Preoperation[/blr] stage - [blr]2[/blr] to [blr]7[/blr] - begin to think [blr]symbolically[/blr] and use [blr]words[/blr] and [blr]pictures[/blr] to represent [blr]objects[/blr]. [blr]Egocentrism[/blr] and only see [blr]their own perspective[/blr]. Very [blr]concrete[/blr] and [blr]literal[/blr] thinking. 
@@ -3494,6 +3613,7 @@ Developed a theory of [blr]cognitive developement[/blr].
 </piaget-development-theory>
 
 <theory-of-play>
+[important]
 [blr]Unoccupied[/blr] play - [blr]0[/blr] to [blr]3[/blr] months - play by learning how their [blr]body moves[/blr]. 
 [blr]Solitary[/blr] play - [blr]3[/blr] monts to [blr]2[/blr] years - child [blr]plays alone[/blr], not [blr]interested[/blr] in playing with [blr]others[/blr]. 
 [blr]Spectator[/blr] play - [blr]2[/blr] years - [blr]watches[/blr] other children playing but [blr]does not play[/blr] with them. 
@@ -3503,6 +3623,7 @@ Developed a theory of [blr]cognitive developement[/blr].
 </theory-of-play>
 
 <eriksons-develeopment-theory>
+[important]
 Developed a set of [blr]milestones[/blr] individuals reach or don't reach through their life and [blr]virtues[/blr] that emerge from reaching or failing to reach a particualr [blr]milestone[/blr]. 
 [blr]Trust[/blr] vs [blr]Mistrust[/blr] - [blr]0[/blr] to [blr]1[/blr] - either they trust the parent will [blr]come[/blr] or not - successfully gaining [blr]trust[/blr] leads to a virtue of [blr]Hope[/blr] and [blr]Prospect[/blr].
 [blr]Autonomy[/blr] vs [blr]Shame and Doubt[/blr] - [blr]1[/blr] to [blr]3[/blr] - Either kids learn to become [blr]independent[/blr] or they are [blr]ashamed[/blr] and [blr]doubtfull[/blr] - leads to a virtue of [blr]Willpower[/blr].
@@ -3515,6 +3636,7 @@ Developed a set of [blr]milestones[/blr] individuals reach or don't reach throug
 </eriksons-develeopment-theory>
 
 <speech-development>
+[important]
 0 to 6 months - coos giggles, makes noises when talked to. 
 6 to 1 year - understands no, babbles (ba-ba-ba), says mama or dada without meaning. Communicates with gestures. Tries to repeat your sounds. First word. 
 1 year to 1.5 years - Says 2 or 3 words, vocabulary of 4 to 6 words. 
@@ -3526,6 +3648,7 @@ Developed a set of [blr]milestones[/blr] individuals reach or don't reach throug
 </speech-development>
 
 <child-gross-motor-developement>
+[important]
 [blr]0[/blr] to [blr]2[/blr] months - [blr]lifts head[/blr], minor [blr]head lag[/blr] with pull to sit is [blr]ok[/blr]. 
 [blr]3[/blr] to [blr]4[/blr] months - [blr]head lag[/blr] should [blr]disappear[/blr] completley, [blr]pushes up[/blr] with arms and turns [blr]head[/blr] while on [blr]belly[/blr]. Tolerates [blr]tummy time[/blr] well. [blr]Rolls[/blr] from [blr]belly[/blr] to [blr]back[/blr]. 
 [blr]5[/blr] months - [blr]rolls[/blr] from [blr]back[/blr] to [blr]belly[/blr]. Brings [blr]feet[/blr] to [blr]mouth[/blr]. [blr]Pivots[/blr] in a [blr]circle[/blr] on [blr]belly[/blr]. Can [blr]sit[/blr] with [blr]support[/blr]. 
@@ -3538,6 +3661,7 @@ Developed a set of [blr]milestones[/blr] individuals reach or don't reach throug
 </child-gross-motor-developement>
 
 <child-fine-motor-development>
+[important]
 [blr]birth[/blr] - [blr]reflexive grasp[/blr]
 [blr]3[/blr] months - inffective [blr]reach[/blr] for [blr]objects[/blr], voluntary [blr]grasp[/blr]. 
 [blr]6[/blr] months - [blr]controlled reach[/blr]. 
@@ -3558,10 +3682,12 @@ Medication should be checked [blr]three[/blr] times before administration.
 </medication-administration>
 
 <blepharitis>
+[important]
 Inflammation of a [blr]margin of an eyelid[/blr]. 
 </blepharitis>
 
 <chalazion>
+[important]
 Cyst in the [blr]eyelid[/blr] ([blr]upper[/blr] or [blr]lower[/blr]).
 </chalazion>
 
@@ -3598,6 +3724,7 @@ Types of [blr]white blood[/blr] cells that include [blr]monocytes[/blr] and [blr
 </agranulocytes>
 
 <sickle-cell-anemia>
+[important]
 A crisis could begin due to [blr]fever[/blr], [blr]stress[/blr] or [blr]dehydration[/blr]. 
 Staying [blr]hydrated[/blr] is the most import aspect of the teaching. 
 Follow a [blr]high calorie[/blr], [blr]high protein[/blr] diet.
@@ -3605,6 +3732,7 @@ Avoid [blr]flying on a plane[/blr] - high [blr]altitudes[/blr] can precipitate a
 </sickle-cell-anemia>
 
 <first-stage-of-labor>
+[important]
 Extends until the cervix is [blr]fully dialted[/blr] at [blr]10[/blr] cm. Consists of [blr]two[/blr] stages - [blr]early[/blr] labor and [blr]active[/blr] labor. 
 During early labor cervix dilates from [blr]0cm[/blr] to [blr]6cm[/blr]. A [blr]bloody show[/blr] appears which is the [blr]mucus plug[/blr] which [blr]covers the cervix[/blr]. 
 During early labor the woman can [blr]take a walk[/blr], [blr]listen to relaxing music[/blr]. Can [blr]stay home[/blr] if the pregnancy is [blr]uncomplicated[/blr]. 
@@ -3620,40 +3748,49 @@ Measured in [blr]percentages[/blr].
 </effacement>
 
 <transition-stage-of-labor>
+[important]
 Begins when the cervix is dilated by [blr]7cm[/blr] and ends when it's [blr]fully dilated[/blr] at [blr]10cm[/blr]. 
 The most [blr]intense part of labor[/blr]. Contractions are the [blr]strongest[/blr]. 
 Contractions come every [blr]2[/blr] to [blr]3[/blr] minutes and last [blr]60[/blr] to [blr]90[/blr] seconds. 
 </transition-stage-of-labor>
 
 <second-stage-of-labor>
+[important]
 Contractions are more [blr]spaced out[/blr], giving a [blr]chance to rest[/blr]. Urge to [blr]push[/blr] as baby [blr]gets lower[/blr]. 
 </second-stage-of-labor>
 
 <third-stage-of-labor>
+[important]
 Delivery of the [blr]placenta[/blr]. Usually have to give a small [blr]push[/blr] to separate the placenta. Uterus begins to [blr]contract[/blr]. 
 </third-stage-of-labor>
 
 <fourth-stage-of-labor>
+[important]
 [blr]Recovery[/blr] and [blr]bonding[/blr] with the infant. 
 </fourth-stage-of-labor>
 
 <hypotonic-solution>
+[important]
 Examples are [blr]D2.5W[/blr], [blr]0.33%[/blr]NS, [blr]D5W[/blr] after metabolism - initially it's [blr]isotonic[/blr].
 </hypotonic-solution>
 
 <hypertonic-solutions>
+[important]
 [blr]D5W[/blr] in [blr]0.9[/blr]% Normal Saline, [blr]D51/2NS[/blr]. Any Dextrose [blr]5[/blr]% in saline above [blr]1/4[/blr]. 
 </hypertonic-solutions>
 
 <isotonic-solutions>
+[important]
 [blr]D51[/blr]/[blr]4NS[/blr]
 </isotonic-solutions>
 
 <magnesium-sulfate>
+[important]
 [blr]Tocolytic[/blr] agent given to women to reduce the [blr]intensity[/blr] of [blr]contractions[/blr] or to prevent [blr]premature labor[/blr]. 
 </magnesium-sulfate>
 
 <carboprost-tromethamine>
+[important]
 Brand name is [blr]Hemabate[/blr]. 
 It is a naturally occuring [blr]prostaglandin F2a[/blr].
 Used to [blr]induce labor[/blr] or to treat [blr]subinvolution[/blr]. 
@@ -3680,10 +3817,12 @@ Checked by a device called a [blr]tonometer[/blr].
 </intro-ocular-pressure>
 
 <gestational-length>
+[important]
 After [blr]14th[/blr] week, fetal growth is about [blr]1[/blr] cm per week. At [blr]20[/blr] weeks the baby should be about [blr]20[/blr] centimeters or [blr]8[/blr] inches. Average birth length is [blr]50cm[/blr] or [blr]20[/blr] inches. 
 </gestational-length>
 
 <fetal-development-milestones>
+[important]
 First trimester - development of [blr]major organs[/blr] and [blr]structures[/blr]. 
 Second trimester - organs [blr]continue developing[/blr] and woman becomes [blr]aware of the pregnancy[/blr]. 
 Third trimester - [blr]fetal lungs[/blr] begin [blr]movements of respiration[/blr] at [blr]24[/blr] weeks. Fetus can [blr]open its eyes[/blr] at [blr]28[/blr] weeks. [blr]Fingernails[/blr] comple development at [blr]38[/blr] weeks of gestation. 
@@ -3700,6 +3839,7 @@ Major vegetables are [blr]corn[/blr] and [blr]squash[/blr].
 </navajo-culture>
 
 <arabic-culture>
+[important]
 Do not consume [blr]juice[/blr] or [blr]beverages[/blr] until the [blr]meal is over[/blr]. 
 </arabic-culture>
 
@@ -3712,6 +3852,7 @@ Serve foods in [blr]specific order[/blr].
 </chinese-culture>
 
 <diseases-of-the-nail>
+[important]
 [blr]Onychomycosis[/blr] - nail [blr]fungus[/blr], causes [blr]thickening[/blr] of the nail and [blr]brittleness[/blr]. 
 [blr]Onychomadesis[/blr] - [blr]proximal separation[/blr] of the nail bed due to a temporary [blr]sessation[/blr] of nail growth. 
 [blr]Onychorrhexis[/blr] - [blr]brittle[/blr] nails, appears as [blr]vertical lines[/blr] and [blr]cracks[/blr] in the nail. Rhexis is "[blr]splitting[/blr]" in Greek.
@@ -3724,13 +3865,15 @@ May reinforce the patch with [blr]tape[/blr] if it starts to loosen.
 </transdermal-patch>
 
 <rho-gam>
+[important]
 Also known as [blr]Rho(D) immune globulin[/blr]. 
 Administered at [blr]28[/blr] weeks of gestation and then again within [blr]72 hours[/blr] after delivery. 
-If terminating pregnancy after  [blr]13th [/blr] week, also administer within 72 hours of delivery. 
+If terminating pregnancy after [blr]13th [/blr] week, also administer within 72 hours of delivery. 
 Contraindicated to patients who are [blr]Rh positive[/blr] or those who have [blr]elevated temperature[/blr]. 
 </rho-gam>
 
 <Cushing-syndrome>
+[important]
 Characterized by a [blr]chronic exposure[/blr] to a [blr]corticosteroid[/blr]. Could either be secondary due to [blr]medication[/blr] or [blr]primary[/blr]. 
 </Cushing-syndrome>
 
@@ -3751,6 +3894,7 @@ Adult male reference range is [blr]45[/blr]% - [blr]52[/blr]%.
 </hematocrit>
 
 <dermatomes>
+[important]
 C8 - can control [blr]shoulders[/blr] and entire [blr]length of the arm[/blr].
 C4 - can control [blr]shoulders[/blr]
 T1 - control parts of muscles of [blr]underside of arms[/blr]
@@ -3760,6 +3904,7 @@ S1 and S2 - lateral part of [blr]heels[/blr] and [blr]genitals[/blr]
 </dermatomes>
 
 <insulin>
+[important]
 Should not be [blr]shaken[/blr] because that causes [blr]bubbles[/blr] and [blr]froth[/blr] which could cause the insulin to [blr]stick to the vial[/blr]. 
 Should be gently [blr]rolled[/blr] in the hands or [blr]turned upside down[/blr] a few times, but not [blr]vigorously shaken[/blr]. 
 </insulin>
@@ -3769,6 +3914,7 @@ Should be gently [blr]rolled[/blr] in the hands or [blr]turned upside down[/blr]
 </ventricular-dysrythmia>
 
 <burns-fluid-resucitation>
+[important]
 Based on the [blr]Parkland formula[/blr], should be started in adults with [blr]15[/blr]% or greater surface area burned and children with [blr]10[/blr]% or more surface area affected. 
 [blr]4ml[/blr] x [blr]%tba[/blr] x ([blr]body weight[/blr] in [blr]kg[/blr]) with [blr]50[/blr]% given in first [blr]8[/blr] hours and another [blr]50[/blr]% in the next [blr]16[/blr] hours. 
 
@@ -3779,6 +3925,7 @@ additional [blr]1ml[/blr]/kg for [blr]remaining weight[/blr]
 </burns-fluid-resucitation>
 
 <septic-shock>
+[important]
 Fluid resucitation should be started at [blr]30ml[/blr]/kg
 Should start infusing an [blr]empirical antibiotic[/blr] (antibiotic directed against a [blr]likely cause[/blr]). 
 </septic-shock>
@@ -3801,6 +3948,7 @@ Main adverse effect is [blr]dizzinees[/blr].
 </dicyclomine>
 
 <Indian-culture>
+[important]
 Women wear a [blr]sari[/blr], which is a long dress.
 Majority of people follow a [blr]Hindu[/blr] religion ([blr]80[/blr]%), the largest minority is [blr]Muslim[/blr] ([blr]16[/blr]%) and the rest [blr]6[/blr]% are Christian, Buddhist, Sikh and Jains. 
 Use [blr]prayer beads[/blr] called [blr]Japa Mala[/blr], which is also used in [blr]Buddhism[/blr]. 
@@ -3812,6 +3960,7 @@ Classical sign is [blr]irrtability[/blr].
 </infant-cardiac-problems>
 
 <body-mass-index>
+[important]
 Normal BMI is [blr]18.5[/blr] - [blr]25[/blr]
 </body-mass-index>
 
@@ -3828,10 +3977,12 @@ Encourage the client to cough at least [blr]10[/blr] times per hour.
 </atelectasis>
 
 <type-1-diabetes>
+[important]
 Eat [blr]15[/blr]-[blr]30[/blr] grams of a [blr]simple-carbohydrate[/blr] before [blr]exercising[/blr], not a [blr]complex carb[/blr] (since it takes a [blr]long time[/blr] to [blr]digest[/blr]).
 </type-1-diabetes>
 
 <simple-carbohydrate>
+[important]
 15 grams of simple carbohydrate examples:
 [blr]1 tablespoon[/blr] of sugar in water or [blr]honey[/blr]. 
 [blr]1/2[/blr] cup of [blr]apple[/blr]/[blr]orange[/blr] juice or [blr]soda[/blr]
