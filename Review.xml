@@ -218,11 +218,6 @@ Treatment is to administer [blr]insulin[/blr], it activates [blr]sodium-proton[/
 Symptom is an elevated [blr]T wave[/blr]
 </hyperkalemia>
 
-<cushing-disease>
-[important]
-Overproduction of [blr]corticosteroids[/blr], mainly [blr]cortisol[/blr] 
-Cortisol is associated with an incrase in [blr]glucose[/blr] levels, increased [blr]sodium[/blr] levels, decreased [blr]potassium[/blr] and [blr]calcium[/blr] levels. 
-</cushing-disease>
 
 <corticosteroid>
 Increases levels of [blr]glucose[/blr], increases [blr]sodium[/blr] levels, decreases [blr]potassium[/blr] and [blr]calcium[/blr] levels
@@ -261,6 +256,7 @@ A belt with a heart beat monitor is placed until fetal heart beat is found.
 You press a button when you feel movement. The baby's heart rate should [blr]accelerate[/blr] during movements.
 If the baby is sleeping a [blr]buzzer[/blr] is placed over abdomen or the woman can have a [blr]sugary[/blr] drink.
 The test lasts [blr]20[/blr] minutes. 
+To be reactive requires 2 or more accelerations of 15 beats over 15 seconds in a 20 minute period. 
 </fetal-non-stress-test>
 
 <above-knee-amputation>
@@ -493,14 +489,20 @@ Inactivated vaccines such as [blr]influenza[/blr], [blr]tetanus[/blr], [blr]hep 
 </live-vaccines>
 
 <low-back-pain>
- 
 Don't straing to [blr]reach[/blr] for things.
 Do not lie in [blr]prone[/blr] position.
 Avoid [blr]knee[/blr] and [blr]hip[/blr] extension.
 </low-back-pain>
 
 <meningitis>
+[important]
+Inflammation of the [blr]three layers[/blr] of the [blr]brain's sheath[/blr]. [blr]Dura[/blr] mater, [blr]Arachnoid[/blr] mater, and [blr]pia[/blr] mater. 
+[blr]Nuchal ridgidity[/blr] and [blr]photophobia[/blr] are the hallmark symptoms. 
+For bacterial meningitis - no longer [blr]contagious[/blr] after [blr]24 hours[/blr] of [blr]antibiotic therapy[/blr]. 
+Monitor for [blr]deterioration[/blr]: decreased [blr]LOC[/blr], [blr]Cushing triad[/blr], impaired [blr]pupil reactivity to light[/blr].
 [blr]Fever[/blr], [blr]neck[/blr] pain and [blr]stiffness[/blr], [blr]Headache[/blr]
+Brudzinski sign - with patient lying completely supine, when neck is flexed towards chest, knees will flex as well. 
+Kernig sign - severe pain in the leg when trying to straighten it when it's bent at the knee, due to tense hamstrings. A sign of meningitis. 
 </meningitis>
 
 <basal-skull-fracture>
@@ -542,9 +544,6 @@ Medical [blr]emergency[/blr].
 Feels like a [blr]curtain[/blr] is being [blr]pulled over eyes[/blr].
 </retinal-detachment>
 
-<meningitis>
-Monitor for [blr]deterioration[/blr]: decreased [blr]LOC[/blr], [blr]Cushing triad[/blr], impaired [blr]pupil reactivity to light[/blr].
-</meningitis>
 
 <cushing-triad>
  [important]
@@ -1608,11 +1607,7 @@ Toddler ([blr]1.5-3[/blr]) - [blr]picture[/blr] books, [blr]pounding[/blr] board
 Pre-Schooler ([blr]3-5[/blr]) - [blr]dress up[/blr] clothes, [blr]tricycle[/blr], [blr]skates[/blr].
 </games-by-age>
 
-<hypokalemia>
-[important]
-[electrolyte]
-Symptoms: [blr]Muscle weakness[/blr], especially in [blr]the legs[/blr]. [blr]Parasthesia[/blr] in the hands.
-</hypokalemia>
+
 
 <why-questions>
 Don't ask [blr]why questions[/blr] - they are [blr]confrontational[/blr].
@@ -2051,6 +2046,10 @@ Requires [blr]airborne[/blr] and [blr]contact[/blr] precautions. Observed until 
 [blr]Low carb diet[/blr] to [blr]not gain weight[/blr].
 [blr]Low calorie[/blr] diet.
 [blr]High potassium[/blr] diet because of [blr]high potassium excretion[/blr] by the kidney.
+Overproduction of [blr]corticosteroids[/blr], mainly [blr]cortisol[/blr] 
+Cortisol is associated with an incrase in [blr]glucose[/blr] levels, increased [blr]sodium[/blr] levels, decreased [blr]potassium[/blr] and [blr]calcium[/blr] levels. 
+Diet should be low [blr]sodium[/blr], high [blr]protein[/blr], and low [blr]fat[/blr], increased [blr]calcium[/blr] and [blr]vitamin D[/blr]. Higher [blr]fiber foods[/blr] to [blr]lower cholesterol[/blr] are also encouraged. 
+Characterized by a [blr]chronic exposure[/blr] to a [blr]corticosteroid[/blr]. Could either be secondary due to [blr]medication[/blr] or [blr]primary[/blr]. 
 </cushing-disease>
 
 <bladder-cancer>
@@ -3005,11 +3004,6 @@ If the [blr]PEFR[/blr] is within [blr]80[/blr]-[blr]100%[/blr] then [blr]no inte
 If [blr]PEFR[/blr] is below [blr]50%[/blr] child needs to [blr]go to the ER[/blr]. 
 </asthma-attack>
 
-<bacterial-meningitis>
-[important]
-No longer [blr]contagious[/blr] after [blr]24 hours[/blr] of [blr]antibiotic therapy[/blr]. 
-</bacterial-meningitis>
-
 <psoriasis>
 Incidense is [blr]lowest[/blr] in [blr]dark-skinned[/blr] races. 
 [blr]Emotional stress[/blr] leads to execerbation. 
@@ -3872,10 +3866,6 @@ If terminating pregnancy after [blr]13th [/blr] week, also administer within 72 
 Contraindicated to patients who are [blr]Rh positive[/blr] or those who have [blr]elevated temperature[/blr]. 
 </rho-gam>
 
-<Cushing-syndrome>
-[important]
-Characterized by a [blr]chronic exposure[/blr] to a [blr]corticosteroid[/blr]. Could either be secondary due to [blr]medication[/blr] or [blr]primary[/blr]. 
-</Cushing-syndrome>
 
 <hyperthyroidism>
 Treatment with [blr]propranolol[/blr] (to relieve [blr]cardiac manifestations[/blr]) and [blr]propylthiouracil[/blr] (if [blr]methimazole[/blr] did not work well) is common. 
@@ -3996,6 +3986,7 @@ Transmitted by [blr]inhaling droplets[/blr] of [blr]contaminated water[/blr].
 </Legionnaires-disease>
 
 <rotavirus>
+[important]
 Transmitted by [blr]fecal oral[/blr] route. 
 </rotavirus>
 
@@ -4040,6 +4031,7 @@ Happens when [blr]skin flakes[/blr] become [blr]trapped[/blr] in pockets near th
 </milia>
 
 <tuberculosis>
+[important]
 Common therapy is a coctail of [blr]4[/blr] drugs - [blr]isoniazid[/blr], [blr]rifampin[/blr], [blr]pyrazinamide[/blr] and [blr]ethembutol[/blr] for [blr]2[/blr] months, followed by [blr]4[/blr] months of just [blr]isoniazid[/blr] and [blr]rifampin[/blr]. 
 All four drugs could cause [blr]liver damage[/blr], pay attention to [blr]jaundice[/blr] and [blr]clay colored stools[/blr]. 
 Tuberculosis is no longer contagious after [blr]2 weeks[/blr] of antibiotic treatment. 
@@ -4051,6 +4043,7 @@ Ethambutol - can cause [blr]vision loss[/blr], report loss of [blr]color vision[
 
 
 <prolapsed-cord>
+[important]
 A medical [blr]emergency[/blr], [blr]stay[/blr] with the patient and [blr]call for help[/blr].
 Don't [blr]handle the cord[/blr] or try to [blr]push it back in[/blr]. 
 Try to [blr]lift[/blr] the fetus [blr]off the cord[/blr]. 
@@ -4074,22 +4067,22 @@ Placing a  [blr]pillow [/blr] underneath the knee is not recommended as it may i
  [blr]Anticoagulats [/blr] are started and maintained for at least  [blr]14 [/blr] days to prevent DVT. 
 </knee-arthroplasty>
 
-<hypokalemia>
-Major effect on [blr]breathing[/blr] - weakens muscle [blr]needed to breathe[/blr]. Results in [blr]shallow respirations[/blr]. 
-</hypokalemia>
 
 <oral-contraceptives>
+[important]
 Increase the risk of [blr]clots[/blr] and [blr]strokes[/blr] in women who [blr]smoke[/blr] more than [blr]10 cigarettes[/blr] per day. 
 </oral-contraceptives>
 
 
 <phenylketonuria>
+[important]
 Impaired [blr]metabolism[/blr] of an essential amino acid [blr]phenylalanine[/blr]. 
 Foods high in [blr]protein[/blr] have this amino acid - such as [blr]meats[/blr], [blr]cheeses[/blr], [blr]eggs[/blr]. 
 Formula used for infants is called Lofenalac. 
 </phenylketonuria>
 
 <antipsychotics>
+[important]
 Could cause an [blr]extrapyramidal syndrome[/blr] - which can cause [blr]parkinson[/blr] like symptoms such as [blr]shuffling gait[/blr] and [blr]stooped posture[/blr]. [blr]Tardive dyskinesia[/blr] is a form of [blr]extrapyramidal syndrome[/blr] which mostly involves the [blr]face[/blr]. 
 Could cause acute [blr]dystonic reaction[/blr] - this could cause [blr]lyringial spasms[/blr] - usually treated with [blr]anticholinergics[/blr] and [blr]benzodiazapeines[/blr]. 
 Could cause [blr]neuroleptic-malignant-syndrome[/blr] - symtoms are [blr]high fever[/blr] ([blr]102[/blr]-[blr]104F[/blr]), [blr]muscle rigidity[/blr]
@@ -4109,6 +4102,7 @@ Curandero is a [blr]traditional healer[/blr].
 </latin-american-culture>
 
 <pulse>
+[important]
 During an infant cardiac arrest the best place to check for pulse is the [blr]brachial artery[/blr]. 
 During an adult cardiac arrest the best place to check for pulse is the [blr]carotid artery[/blr]. 
 </pulse>
@@ -4122,6 +4116,7 @@ Severe outcome of [blr]pre-eclampsia[/blr], results in [blr]blood pressure[/blr]
 </eclampsia>
 
 <pre-eclampsia> 
+[important]
 Symptoms include [blr]epigastric pain[/blr], espcially in the [blr]right side[/blr]. 
 Changes in [blr]vision[/blr] such as [blr]blurring[/blr]. 
 [blr]Proteinuria[/blr]. 
@@ -4133,15 +4128,18 @@ First phase is the [blr]warm shock[/blr] alsko known as [blr]hyperdynamic shock[
 </septic-shock>
 
 <pregnancy>
+[important]
 [blr]Left side lying[/blr] position is the best for expectant mothers, as it promotes [blr]optimal placental oxygenation[/blr]. 
 </pregnancy>
 
 <retinal-detachment>
+[important]
 [blr]Medical emergency[/blr]. 
 Instruct the client to [blr]stop all head and eye movements[/blr] and apply [blr]an eye patch[/blr] to the eye. 
 </retinal-detachment>
 
 <iron-deficiency-anemia>
+[important]
 Infants [blr]12[/blr]-[blr]16[/blr] months of age are at high risk for developing it because by that age [blr]maternal stores have depleted[/blr]. 
 </iron-deficiency-anemia>
 
@@ -4195,15 +4193,12 @@ Infusion should be stopped if [blr]blood pressure[/blr] drops below [blr]90/60[/
 </terbutaline>
 
 <appendicitis>
+[important]
 An examination will reveal [blr]rebound tenderness[/blr] at [blr]McBurney's[/blr] point - point [blr]2/3[/blr] of length between [blr]naval[/blr] and [blr]anterior superior iliac spine[/blr]. 
 [blr]Rovsing[/blr] sign - [blr]tenderness[/blr] on [blr]right side[/blr] when [blr]left side[/blr] is [blr]palpated[/blr]. 
 [blr]Orburator[/blr] sign - [blr]pain[/blr] on movement of the [blr]hip joint[/blr] while [blr]knee is flexed[/blr]. 
 If [blr]pain suddently disappears[/blr], appendix must have [blr]ruptured[/blr]. Must do a [blr]CT scan[/blr] to confirm. 
 </appendicitis>
-
-<cushing-disease>
-Diet should be low [blr]sodium[/blr], high [blr]protein[/blr], and low [blr]fat[/blr], increased [blr]calcium[/blr] and [blr]vitamin D[/blr]. Higher [blr]fiber foods[/blr] to [blr]lower cholesterol[/blr] are also encouraged. 
-</cushing-disease>
 
 <bulimia-nervosa>
 [blr]Buproprion[/blr] is contraindicated because of the [blr]weight loss[/blr] associated with it. 
@@ -4214,7 +4209,7 @@ Change batteries when the [blr]day-light saving time changes[/blr], which is app
 </smoke-alarm>
 
 <ectopy>
-[blr]Changes[/blr] in otherwise [blr]normal heart beat[/blr]. Most common forms are [blr]PVCs[/blr] and [blr]PVAs[/blr] ([blr]premature atrial contrations[/blr]). 
+[blr]Changes[/blr] in otherwise [blr]normal heart beat[/blr]. Most common forms are [blr]PVCs[/blr] and [blr]PACs[/blr] ([blr]premature atrial contrations[/blr]). 
 </ectopy>
 
 <respiratory-distress>
@@ -4244,10 +4239,12 @@ A client can have [blr]prefenreces[/blr] how often they wish to bathe. Once a we
 </bed-bath>
 
 <nasogastric-tube>
+[important]
 If the tube is correctly inserted into the stomach the sample pH should be at or below [blr]3.5[/blr] pH. 
 </nasogastric-tube>
 
 <tetrology-of-fallot>
+[important]
 Mnemonic to remember this condition is [blr]PROVe[/blr].
 [blr]P[/blr] - [blr]Pulmonary inficibular stenosis[/blr]
 [blr]R[/blr] - [blr]Right ventricular hypertrophy[/blr]
@@ -4256,6 +4253,7 @@ Mnemonic to remember this condition is [blr]PROVe[/blr].
 </tetrology-of-fallot>
 
 <open-angle-glaucoma>
+[important]
 Common risk factors are: [blr]older age[/blr], [blr]african american[/blr] ethnicity, [blr]type 2 diabetes[/blr]. 
 </open-angle-glaucoma>
 
@@ -4265,13 +4263,15 @@ Common risk factors are: [blr]older age[/blr], [blr]african american[/blr] ethni
 
 
 <myocardial-enzymes>
+[important]
 [blr]Troponin[/blr] - the gold standard, rises about [blr]3[/blr]-[blr]4[/blr] hours after MI and remains raised for [blr]3 weeks[/blr]. It's also the most [blr]specific[/blr] biomarker for MI. 
-[blr]CPK-MB[/blr] - levels rise in [blr]3[/blr]-[blr]6[/blr] hours and peak in [blr]24[/blr] hours. Not the most [blr]specific[/blr] to the heart though. 
+[blr]CK-MB[/blr] - levels rise in [blr]3[/blr]-[blr]6[/blr] hours and peak in [blr]24[/blr] hours. Not the most [blr]specific[/blr] to the heart though. 
 [blr]Creatine kinase[/blr] - also found in [blr]brain[/blr], [blr]muscles[/blr] and other tissue. Any time there is [blr]muscle damage[/blr] there is an elevation of this enzyme. Negative result of this are a good indication to [blr]rule out[/blr] an MI, but positives are [blr]non specific[/blr]. 
 [blr]Myglobin[/blr] - present in all [blr]muscles[/blr], only [blr]negative[/blr] results are considered to [blr]rule out[/blr] MI. 
 </myocardial-enzymes>
 
 <alcohol-withdrawal>
+[important]
 Symptoms typically evolve in 4 phases: 
 Early withdrawal - mild [blr]tremors[/blr], start about [blr]4[/blr]-[blr]12[/blr] hours after last drink and are accompanied by other symptoms like [blr]nausea[/blr], [blr]insomnia[/blr], and [blr]headaches[/blr]. Patient is still [blr]A and O[/blr]. 
 Moderate withdrawal - patient is somewhat [blr]confused[/blr] and [blr]hyperactive[/blr], in this stage remember that "[blr]everything increases[/blr]" - [blr]blood pressure[/blr], [blr]temperature[/blr], [blr]heart rate[/blr], [blr]respirations[/blr] etc. 
@@ -4298,6 +4298,7 @@ Will [blr]fade[/blr] in [blr]months[/blr] or [blr]years[/blr].
 </mongolian-spot>
 
 <heme-cell-family>
+[important]
 Common myeloid progenitor - Produces [blr]megalocaryocyte[/blr] (produces [blr]platelets[/blr]), [blr]erythrocyte[/blr], [blr]mast cell[/blr] (release [blr]histamine[/blr]), [blr]myeloblast[/blr].
 Myeloblast - produces [blr]neutrophils[/blr], [blr]eosinophils[/blr], [blr]basophils[/blr] as well as [blr]monocytes[/blr]. 
 Monocytes - found in [blr]blood[/blr], migrate to [blr]tissue[/blr] to form [blr]macrophages[/blr]. 
@@ -4312,6 +4313,7 @@ Natural killer cells - work in an analogous way to [blr]T cells[/blr] by utilizi
 </heme-cell-family>
 
 <multiple-myeloma>
+[important]
 Proliferation of plasma cells, leading to [blr]bone pain[/blr] and [blr]loss[/blr]. Affects the ability to [blr]fight infections[/blr]. 
 Bone scans are usually [blr]falsely negative[/blr] and are therefore [blr]not performed[/blr]. Usually normal [blr]X rays[/blr] are ordered. 
 </multiple-myeloma>
@@ -4321,10 +4323,12 @@ A small amount of [blr]radionucleotide[/blr] is injected and scans are done at [
 </bone-scan>
 
 <nutrition>
+[important]
 [blr]45[/blr]-[blr]65[/blr]% of calories should come from [blr]complex carbs[/blr] that are rich in [blr]fiber[/blr] such as whole wheat [blr]pasta[/blr], [blr]brown rice[/blr], [blr]granola[/blr]. [blr]20[/blr]-[blr]30[/blr]% from [blr]fat[/blr] and [blr]10[/blr]-[blr]20[/blr]% from [blr]protein[/blr]. 
 </nutrition>
 
 <Weber-test>
+[important]
 Can distinguish between [blr]unilateral conductive hearing loss[/blr] ([blr]middle[/blr] ear) or [blr]sensorineural[/blr] ([blr]inner[/blr] ear) hearing loss. Cannot determine [blr]which ear has hearing loss[/blr]. 
 Tuning fork is placed against a [blr]bone[/blr] on [blr]top of the head[/blr] or [blr]face[/blr] and if the affected ear hears the noise [blr]louder[/blr] then it is a [blr]conductive hearing loss[/blr], if the normal ear hears it louder then it's [blr]sensorimotor[/blr] hearing loss. 
 [blr]Rinne[/blr] test must be performed to detect hearing loss that [blr]patient is not aware of[/blr]. 
@@ -4368,27 +4372,31 @@ Keep head of bed elevated by about [blr]15[/blr]-[blr]30[/blr] degrees, not [blr
 </stroke>
 
 <hypoglycemia>
+[important]
 Treatment should occur if sugar falls below [blr]70mg[/blr]/dL. 
 If patinet is [blr]concious[/blr] give a [blr]simple oral carb[/blr].
 If [blr]unconcious[/blr] then administer [blr]1mg[/blr] of [blr]glucagon[/blr] subq. or [blr]25[/blr]-[blr]50ml[/blr] of [blr]50[/blr]% dextrose IV. 
 </hypoglycemia>
 
 <droplet-precautions>
+[important]
 Staff who are not wearing a mask should keep [blr]3[/blr] feet ([blr]1 meter[/blr]) away. 
 </droplet-precautions>
 
 <monoamine-oxidase-inhibitors>
+[important]
 May precipitate a [blr]hypertensive crisis[/blr], especially in presence of [blr]foods[/blr] that contain [blr]tyramine[/blr]. 
 </monoamine-oxidase-inhibitors>
 
 <bipolar-mania>
+[important]
 For acute mania lithium must be at [blr]1[/blr]-[blr]1.5[/blr] mEq/L 
 For acute mania the gold standard of treatment is mood stabilizers such as valproic acid, it has a fast onset. 
 For maintance dose it must be at [blr]0.6[/blr]-[blr]1.2[/blr] mEq/L 
-
 </bipolar-mania>
 
 <positron-emission-tomography>
+[important]
 Long procedure, can last as long as [blr]2[/blr] hours. 
 A [blr]radio isotope[/blr] is administered as a [blr]dye[/blr] (client may feel the [blr]flush[/blr] and [blr]metalic taste[/blr]) and the client waits on the stretcher for [blr]35[/blr]-[blr]45[/blr] minutues while the isotope circulates. 
 Increase [blr]fluids[/blr]. 
@@ -4398,17 +4406,20 @@ Detects  [blr]glucose [/blr] metabolism, so necessary to check patients  [blr]gl
 </positron-emission-tomography>
 
 <retroperitoneal-bleeding>
+[important]
 [blr]Cullen's[/blr] sign - is [blr]bruising[/blr] around the [blr]umbilicus[/blr]. 
 [blr]Gray turner's[/blr] sign - [blr]brusing[/blr] around the [blr]flank[/blr]. 
 Gross [blr]hematuria[/blr]. 
 </retroperitoneal-bleeding>
 
 <Cullens-sign>
+[important]
 Brusing around the [blr]umbilicus[/blr]. 
 Could indicate acute [blr]pancreatitis[/blr], ruptured [blr]ectopic pregnancy[/blr], [blr]aortic[/blr] rupture. 
 </Cullens-sign>
 
 <sepsis>
+[important]
 In early [blr]sepsis[/blr] all organ systems are [blr]involved[/blr] and it's important to [blr]identify[/blr] this stage. Follow the SIRS ([blr]Systemic Inflammatory Response Syndrome[/blr]) guidelines:
 If [blr]two[/blr] or more of these criteria are present then the client is progressing toward sepsis. 
 Heart rater [blr]>90[/blr] bpm. 
@@ -4422,6 +4433,7 @@ WBC [blr]> 12,000/mL[/blr] or > [blr]10%[/blr] bands ([blr]immature neturophils[
 </bands>
 
 <thoracentesis>
+[important]
 A [blr]14[/blr] or [blr]16[/blr] guage needle is used to [blr]drain[/blr] the [blr]air[/blr] or [blr]fluid[/blr] from the [blr]lungs[/blr] to [blr]relieve the pressure[/blr].   
 </thoracentesis>
 
@@ -4431,6 +4443,7 @@ Symptoms: no [blr]urine output[/blr], [blr]tachycardia[/blr] and [blr]hypotensio
 
 
 <age-appropriate-toys>
+[important]
 Birth - [blr]2[/blr] months: [blr]mobile[/blr] maintained [blr]8[/blr]-[blr]10[/blr] inches from [blr]face[/blr]. 
 [blr]2[/blr]-[blr]4[/blr] months - [blr]rattles[/blr], cradle [blr]gym[/blr]. 
 [blr]4[/blr]-[blr]6[/blr] months - [blr]brightly colored[/blr] toys (small enough to [blr]grasp[/blr], large enough [blr]not to swallow[/blr]).
@@ -4444,6 +4457,7 @@ This promotes [blr]theraputic communication[/blr] and is effective at [blr]confl
 </staff-conflict-resolution>
 
 <biophysical-profile>
+[important]
 Test done after [blr]28th[/blr] week of pregnancy. 
 Combines an [blr]ultrasound[/blr] with [blr]non-stress test[/blr]. 
 Sonogram asses [blr]fetal breath movements[/blr], [blr]fetal tone[/blr], [blr]amniotic fluid index[/blr] and [blr]general movements[/blr]. 
@@ -4460,6 +4474,7 @@ general movements - 2
 </biophysical-profile>
 
 <fetal-non-stress-test>
+[important]
 May be done after [blr]26[/blr]-[blr]28[/blr] weeks of pregnancy. 
 Done using a [blr]fetal heart rate monitor[/blr], may use [blr]sound[/blr] to [blr]wake the baby up[/blr].
 Heart rate should [blr]rise[/blr] when the baby [blr]moves[/blr]. 
@@ -4468,11 +4483,13 @@ Reassuring if the fetal heart rate [blr]increases[/blr] by at least [blr]15[/blr
 
 
 <fundal-height>
+[important]
 Expected to reach umbilicus at [blr]20[/blr] weeks. 
 Then [blr]1 cm[/blr] per week until [blr]36th[/blr] week. 
 </fundal-height>
 
 <fetal-movements>
+[important]
 First periced by the mother at [blr]16[/blr]-[blr]20[/blr] weeks as [blr]flutter[/blr] in [blr]lower[/blr] abdomen. 
 </fetal-movements>
 
@@ -4500,6 +4517,7 @@ Suppresses [blr]ventricular irritability[/blr]. Should not be use in [blr]heart 
 </iv-lidocaine>
 
 <heart-block-poem>
+[important]
 If [blr]R is far from P[/blr], then you have [blr]first degree[/blr]. 
 If [blr]longer, longer, longer[/blr] ([blr]PR interval[/blr]) [blr]drop[/blr], then you have [blr]Wenkebach[/blr] ([blr]Mobitz I[/blr]).
 If [blr]some Ps don't get through[/blr] then you have [blr]Mobitz II[/blr]. 
@@ -4508,6 +4526,7 @@ If[blr] Ps and Qs don't agree[/blr] then you have [blr]third degree[/blr].
 
 
 <complete-heart-block>
+[important]
 Ventricular escape rythm is usually [blr]60 beats[/blr] or [blr]less[/blr]. Ventricles must not be [blr]slowed[/blr] with drugs such [blr]lidocaine[/blr] as that could lead to a [blr]cardiac arrest[/blr]. 
 
 [blr]Pacemaker[/blr] is the treatment of choice for complete heart block. 
@@ -4520,6 +4539,7 @@ Some medications that could cause heart block are [blr]Digoxin[/blr], [blr]beta 
 </complete-heart-block>
 
 <digoxin>
+[important]
 Apical pulse shold be taken for a [blr]full minute[/blr] before [blr]medication administration[/blr]. If the pulse is less than [blr]60[/blr], dose should be [blr]witheld[/blr] and [blr]provider notified[/blr]. 
 Symptoms of digoxin toxicity are [blr]gastrointestinal[/blr] such as [blr]N and V[/blr], [blr]halos around lights[/blr].
 Pediatric patients mostly just present with [blr]bradycardia[/blr] or [blr]arrhythmias[/blr]. 
@@ -4553,6 +4573,7 @@ Mentally ill individuals [blr]retain the right[/blr] to [blr]refuse treatment[/b
 </informed-concent>
 
 <phenytoin>
+[important]
 Used to [blr]prevent seizures[/blr]. 
 Comes as a [blr]suspension[/blr] and must be [blr]shaken[/blr] to administer a proper dose. 
 Side effects - inhibits [blr]mucosal absorption[/blr] of [blr]folic acid[/blr] ([blr]B9[/blr]), interferes with metabolism of [blr]vitamin D[/blr], and could cause [blr]hypocalcemia[/blr]. 
@@ -4641,7 +4662,10 @@ Could see [blr]flashing lights[/blr] or [blr]fireflies[/blr].
 </migrane-aura>
 
 <hypokalemia>
+[important]
 Think [blr]low[/blr] and [blr]slow[/blr] - [blr]hypotension[/blr], [blr]lethargy[/blr], [blr]bradycardia[/blr], depressed [blr]St segment[/blr], [blr]flat[/blr] or [blr]inverted[/blr] T wave, prominient [blr]U[/blr] wave, [blr]leg cramps[/blr], decreased [blr]DTRs[/blr] and [blr]bowel sounds[/blr], [blr]constipation[/blr], [blr]low[/blr] and [blr]shallow[/blr] respirations, muscle [blr]weakneass[/blr]. 
+Major effect on [blr]breathing[/blr] - weakens muscle [blr]needed to breathe[/blr]. Results in [blr]shallow respirations[/blr]. 
+Symptoms: [blr]Muscle weakness[/blr], especially in [blr]the legs[/blr]. [blr]Parasthesia[/blr] in the hands.
 </hypokalemia>
 
 <chloasma>
@@ -4676,10 +4700,6 @@ Long term therapy results in [blr]hyperlipidemia[/blr] and [blr]cardiovascular d
 Effectively suppress the viral load within [blr]12[/blr]-[blr]24[/blr] weeks of therapy. 
 </anti-retro-viral-therapy>
 
-<meningitis>
-Inflammation of the [blr]three layers[/blr] of the [blr]brain's sheath[/blr]. [blr]Dura[/blr] mater, [blr]Arachnoid[/blr] mater, and [blr]pia[/blr] mater. 
-[blr]Nuchal ridgidity[/blr] and [blr]photophobia[/blr] are the hallmark symptoms. 
-</meningitis>
 
 <client-cohort>
 Clients who can [blr]share the room togheter[/blr]. 
@@ -4720,6 +4740,7 @@ Perform frequent [blr]neuro assessments[/blr]. Could affect the clients ability 
 </epidural-hematoma>
 
 <forbidden-abbreviations>
+[important]
 [blr]U[/blr] - write out "units"
 [blr]QD[/blr] - write "daily"
 No [blr]trailing zeros[/blr] and always a [blr]leading zero[/blr] ex no 5.0 mg or .5mg, instead write [blr]5mg[/blr] and [blr]0.5mg[/blr]
@@ -4789,6 +4810,7 @@ Often does not require [blr]monitoring blood work[/blr], because natural [blr]he
 </low-molecular-weight-heparin>
 
 <heparin>
+[important]
 Antidote is [blr]protamine[/blr], which binds to it and neutralizes it. [blr]1[/blr] mg neutralizes [blr]100[/blr] units. 
 Has a  [blr]short [/blr] half life, so stopping it for even  [blr]30 min [/blr] would  [blr]lower [/blr] aPTT. 
 Both aPTT and Platelet count need to be monitored because heparin can induce thrombocytopenia. If platelet counts drop by 50% or more it needs to be reported. 
@@ -4804,6 +4826,7 @@ Can cause [blr]clay colored stools[/blr].
 </cholecystitis>
 
 <magnesium-sulfate>
+[important]
 [blr]Calcium gluconate[/blr] is an antidote. 
 Suppressed [blr]deep tendon reflexes[/blr] is a sign of [blr]toxicity[/blr], so check [blr]patellar[/blr] reflexes. 
 </magnesium-sulfate>
@@ -4840,6 +4863,7 @@ Need for [blr]additional light[/blr] to see clearly.
 
 
 <hyperglycemia>
+[important]
 Three Ps - [blr]polydypsia[/blr], [blr]polyphagia[/blr] and [blr]polyuria[/blr]. 
 </hyperglycemia>
 
@@ -4851,6 +4875,7 @@ Avoid prolonged [blr]reading[/blr] or [blr]eye strain[/blr].
 </cataract-surgery>
 
 <pharmacological-stress-test>
+[important]
 [blr]Dobutamine[/blr] is used to increase HR, BP and contractility. 
 Clinets need to be [blr]NPO[/blr] for [blr]3[/blr] hours. 
 Caffeine is avoided for [blr]24[/blr] hours prior. 
@@ -4861,12 +4886,14 @@ Do not [blr]smoke[/blr] the day of the test.
 </pharmacological-stress-test>
 
 <oral-care>
+[important]
 Apply a [blr]water soluble[/blr] moisturizer to lips. 
 Rinse mouth with a [blr]50:50[/blr] dilution of [blr]hydrogen peroxide[/blr] and [blr]normal saline[/blr].
 Position the clinet on the side with head of bed raised [blr]30[/blr]-[blr]45[/blr] degrees to avoid [blr]aspiration[/blr]. 
 </oral-care>
 
 <deep-vein-thrombosis>
+[important]
 [blr]Homan[/blr] sign - [blr]calf pain on dorsiflextion of ankle[/blr]. 
 Could result as an adverse effect of [blr]erythropoetin[/blr]. 
 </deep-vein-thrombosis>
@@ -4911,10 +4938,12 @@ If the bleed does occur, apply [blr]direct manual pressure[/blr] to the [blr]pun
 </percutaneous-transluminal-coronary-angioplasty>
 
 <droplet-precautions>
+[important]
 Must wear a [blr]regular mask[/blr] if providing care within [blr]3 feet[/blr] of the client. 
 </droplet-precautions>
 
 <transmission-precautions>
+[important]
 Hepatitis A - [blr]contact[/blr] precautions. 
 Methicillin-resistant-staphylococcus-aureus (MRSA) - [blr]contact[/blr] precautions.
 Mycobacterium tuberculosis - [blr]airborne[/blr] precautions.
@@ -4946,6 +4975,7 @@ Vaccine is recommened to children [blr]11[/blr]-[blr]12[/blr] years of age.
 </human-papilloma-virus>
 
 <osteoporosis>
+[important]
 Risk factors include [blr]European American[/blr] and [blr]Asian[/blr] women, not [blr]African American[/blr]. 
 </osteoporosis>
 
@@ -4989,6 +5019,7 @@ Gram [blr]positive[/blr], [blr]alpha[/blr] hemolytic, so don't cause [blr]comple
 </streptococcus-pneumoniae>
 
 <scabies>
+[important]
 Caused by a [blr]female mite[/blr] burrowing underneath the the skin. 
 Transmitted by [blr]direct contact[/blr] and is [blr]highly contagious[/blr]. 
 Usual areas of infection are around [blr]skin folds[/blr]. 
@@ -5018,6 +5049,7 @@ Light bleedings have [blr]no significant effects[/blr], more significant bleeds 
 </intra-ventricular-hemorrhage>
 
 <angina>
+[important]
 Variant angina - also known as [blr]Prinzmetal's[/blr] angina or [blr]vasospastic[/blr] angina, occurs due a [blr]vasospasm[/blr] of the [blr]coronary artery[/blr] and usually happens [blr]at rest[/blr], during the [blr]quietest parts of the day[/blr] like [blr]early morning[/blr] and [blr]night[/blr]. Produces [blr]same pain[/blr] as regualr angina. Managed with [blr]calcium channel blockers[/blr]. 
 Stable angina - occurs [blr]after exercise[/blr] and is treated with [blr]nitroglycerin[/blr]. 
 Unstable angina - less [blr]predictable[/blr] and is [blr]not relieved[/blr] with [blr]nitroglycerin[/blr]. 
@@ -5039,7 +5071,7 @@ Failure to pass meconium within [blr]24[/blr] hours may indicate conditions such
 <Hirschsprungs-disease>
 Condition where the large intestine is [blr]missing nerve cells[/blr] causing issues with [blr]motility[/blr]. 
 Treatments include [blr]surgery[/blr] to [blr]bypass a part of the colon[/blr] or [blr]colostomy[/blr]. 
- [blr]Ribbon [/blr] like stools are common. 
+[blr]Ribbon [/blr] like stools are common. 
 </Hirschsprungs-disease>
 
 <hypocalcemia>
@@ -5053,6 +5085,7 @@ Increasing [blr]pain[/blr] and [blr]pressure[/blr] may indicate [blr]compartment
 </casts>
 
 <abdominal-examination>
+[important]
 Assist the client to a [blr]supine position[/blr] with [blr]knees flexed[/blr]. 
 Auscultate using the [blr]diaphragm[/blr] of the stethoscope. 
 Auscultate in the [blr]right lower[/blr] and the proceed [blr]counterclockwise[/blr]. 
@@ -5086,6 +5119,7 @@ Most common carb rich foods include [blr]grain products[/blr] (such as [blr]past
 </carbohydrates>
 
 <spina-bifida>
+[important]
 A type of [blr]neural tube[/blr] defect where the spinal cord [blr]protrudes outside of the body[/blr]. 
 Common symptoms are [blr]bowel obstruction[/blr] and [blr]constipation[/blr] due to [blr]loss of tone[/blr] and [blr]sensation[/blr] in the bowels, muscle [blr]discoordiantion[/blr], [blr]urinary incontinence[/blr], [blr]paralysis[/blr] of lower half. 
 Spina bifida could be diagnosed with an [blr]ultrasound[/blr] around [blr]1st[/blr] trimester. ([blr]11[/blr]-[blr]14[/blr] weeks)
@@ -5106,6 +5140,7 @@ Place client in [blr]Trendelenburg position[/blr].
 </hypovolemic-shock>
 
 <quad-screen>
+[important]
 Blood test marker done to test for four markers - [blr]AFP[/blr], [blr]HCG[/blr], [blr]eastriol[/blr], [blr]inhibin A[/blr]. 
 This test examines the risks of carrying baby with [blr]Down Syndrome[/blr] or [blr]Spina Bifida[/blr]. 
 Usually done in the [blr]second trimester[/blr] (between [blr]15[/blr]-[blr]22nd[/blr] weeks).
@@ -5122,6 +5157,7 @@ Causes elevated [blr]amylase[/blr] levels.
 </acute-pancreatitis>
 
 <liver-disease>
+[important]
 Common to have [blr]hypokalemia[/blr] and increased [blr]ammonia[/blr]. 
 [blr]Lactulose[/blr] could be administered to decrease ammonia by causing increase in [blr]bowel movements[/blr]. 
 Correcting [blr]hypokalemia[/blr] also leads to reduction of ammonia levels (accumulation of which increases with [blr]low potassium[/blr]).
@@ -5151,6 +5187,7 @@ Causes [blr]vasodilation[/blr], [blr]bronchoconstriction[/blr], and [blr]mucus[/
 </bradykinin>
 
 <skin-grafting>
+[important]
 Do not apply [blr]ice[/blr] post surgery. 
 </skin-grafting>
 
@@ -5187,7 +5224,8 @@ Infant must be placed on a special  [blr]phenylalanine [/blr] free formula, and 
 </phenylketonuria>
 
 <ostomy>
-Don't use any  [blr]barrier creams [/blr] or  [blr]powders [/blr] arouind the stoma to not compromise adhesion. 
+[important]
+Don't use any [blr]barrier creams[/blr] or  [blr]powders[/blr] arouind the stoma to not compromise adhesion. 
 Get a skin barrier that has a radius of  [blr]one eigth [/blr] of an inch larger than the stoma. 
 Empty the pouch frequently, at least  [blr]6 [/blr] times per day. 
 Remove the skin barrier by  [blr]pushing the skin away [/blr] from the barrier instead of  [blr]pulling [/blr] the barrier  [blr]away [/blr] from the skin. 
@@ -5201,6 +5239,7 @@ Sigmoid colostomy -  [blr]formed [/blr] stool,  [blr]some control [/blr] of the 
 </ostomy>
 
 <blood-pressure-measureming>
+[important]
 Inflate the cuff  [blr]30 [/blr] mmHg above the level where  [blr]radial [/blr] pulse is no longer palpable. 
 Repeating assessments too quickly could cause a falsely  [blr]high systolic [/blr] measurement. 
 Positiong the brachial artery below the hart can cause a falsely  [blr]high [/blr] blood preassure measurement. 
@@ -5208,7 +5247,7 @@ Deflating the cuff too quickly can cause a  [blr]high diastolic [/blr] measureme
 </blood-pressure-measureming>
 
 <intra-cranial-pressure>
-Normal pressure is usually less than  [blr]20 [/blr] mmHg. 
+Normal pressure is usually less than  [blr]15[/blr] mmHg. 
 Early sign of elevation of pressure could be  [blr]agitation [/blr],  [blr]restlessness [/blr], and  [blr]combativeness [/blr].
 Next sign is agitation progresses to  [blr]lethargy [/blr]. 
 Changes in  [blr]vital signs [/blr] associated with the Cushing's triad is a  [blr]late [/blr] sign and is indicative of  [blr]brainstem compression [/blr]. 
@@ -5252,6 +5291,7 @@ Spanking or paddling is  [blr]not considered physical [/blr] abuse unless it res
 </child-abuse>
 
 <postpartum-period>
+[important]
 Extra  [blr]fluid [/blr] accumulated during pregnancy could be lost to  [blr]diuresis [/blr]. 
 White blood cell counts could  [blr]jump to 30,000 [/blr] per microliter of blood. WBC counts return to normal in about  [blr]1 week [/blr]. 
 Due to  [blr]dehydration [/blr] and elevated  [blr]WBC [/blr] counts an elevation of  [blr]temperature [/blr] could also occur, up to  [blr]100.4F [/blr] ( [blr]38C [/blr]).
@@ -5272,6 +5312,7 @@ Bringling a  [blr]flashlight [/blr] close to the skin is a  [blr]transilluminati
 </airborne-diseases>
 
 <urinary-tract-infections>
+[important]
 Avoid  [blr]tea [/blr],  [blr]soda [/blr] and  [blr]coffe [/blr] as they  [blr]irrate [/blr] the urinary tract mucosa. 
  [blr]Acidify [/blr] the urine to prevent UTIs by increasing  [blr]Vitamin C [/blr] intake and drinking  [blr]cranberry [/blr] juice. 
 Usually caused by bacteria from the  [blr]gut flora [/blr]. 
@@ -5294,6 +5335,7 @@ These emulstions may contain  [blr]aluminum [/blr] which could build up if  [blr
 </fat-emulsions>
 
 <perenteral-nutrition>
+[important]
 Base contains  [blr]electrolytes [/blr],  [blr]dextrose [/blr] and  [blr]amino acids [/blr]. 
 Monitor  [blr]weight [/blr] daily. 
 Obtain  [blr]blood glucose [/blr] upon starting and every  [blr]6 hours [/blr] after that. 
@@ -5302,6 +5344,7 @@ Change the solution bag and tubing every  [blr]24 hours [/blr].
 
 
 <premature-ventricular-contractions>
+[important]
 Become concerning when there are  [blr]4 [/blr]- [blr]6 [/blr] PVCs per  [blr]minute [/blr]. 
 </premature-ventricular-contractions>
 
@@ -5341,6 +5384,7 @@ Total fat should be limited to  [blr]25 [/blr]- [blr]35 [/blr]% of total calorie
 </cholesterol>
 
 <beta-blockers>
+[important]
 Could mask  [blr]hypoglycemia [/blr], must monitor  [blr]glucose [/blr] levels closely. 
 Could cause  [blr]bronchospasms [/blr], contraindicated in patients with  [blr]asthma [/blr]. 
 </beta-blockers>
@@ -5383,6 +5427,7 @@ Do not fully submerge the infant until the  [blr]cord [/blr] has  [blr]fallen of
 </infant-bathing>
 
 <subqutaneous-injection>
+[important]
 Use a  [blr]25 [/blr]- [blr]27 [/blr] guage needle that is  [blr]3/8 [/blr] -  [blr]5/8 [/blr] inches long. 
 Preferred injection sites are  [blr]abdomen [/blr],  [blr]upper arm [/blr],  [blr]thigh [/blr].
 Preferred site for heparin is  [blr]abdomen [/blr]. 
@@ -5391,6 +5436,7 @@ Needle must be inserted at  [blr]45 [/blr] degrees to target the  [blr]dermis [/
 </subqutaneous-injection>
 
 <cranial-nerves>
+[important]
 CN I -  [blr]olfactory [/blr] nerve, identify  [blr]odors [/blr] 
 CN II -  [blr]optical [/blr] nerve, test  [blr]visual acuity [/blr] with  [blr]Snellen [/blr] chart. 
 CN III, IV, VI -  [blr]oculomotor [/blr] nerves, observe  [blr]eye movement [/blr] 
@@ -5415,6 +5461,7 @@ Begin elevating 3-6 hours after myocardial damage. Peak at 18 hours. At 48-72 ho
 </creatine-kinase-myocardial-band>
 
 <Lyme-disease>
+[important]
 Symptoms may start a month after being bitten by a tick. 
 Symptoms start with bulls eye rash, then progress to lymph node enlargement, arthralgia, malaise, and finally encephalopathy. 
 Main treatment is an antibiotic regiment such as with doxycycline. 
@@ -5532,6 +5579,7 @@ Significant reduction in white blood cells puts this client in a serious risk fo
 </doxyrubicin>
 
 <tracheostomy>
+[important]
 For the first 24 hours after a creation and insertion of the tracheostomy and tube, the cuff shold not be deflated and the ostomy shold not be manipulated. 
 Small amount of crepitus is expected. 
 Site care should be done using saline solution, not hydrogen peroxide. 
@@ -5683,6 +5731,7 @@ Platelets should be infused over 30 - 60 minutes.
 </platelet-infusion>
 
 <valproic-acid>
+[important]
 Used to control seizures, control bipolar disorder and migrane prevention. 
 Theraputic levels are 50-125 mcg/mL.
 Liver enzymes should be monitored as this medication is very hepato toxic. 
@@ -5694,15 +5743,12 @@ Sometimes the titrated dose could be as frequently as every several minutes.
 </patient-controlled-analgesia>
 
 <contraction-stress-test>
+[important]
 A test usually perfermed in the third trimester. 
 Provider induces weak contractions using oxytocin or nipple stimulation and tests to see how the fetal heart rate responds. 
 A positive indicates late decelerations and that fetus may not survive vaginal birth. 
 A negative indicates no late or variale decelerations. 
 </contraction-stress-test>
-
-<non-stress-test>
-To be reactive requires 2 or more accelerations of 15 beats over 15 seconds in a 20 minute period. 
-</non-stress-test>
 
 <heart-failure>
 Abnormal heart sounds which could be present in heart failure include S3 called ventricular gallop, and S4 called atrial gallop. 
@@ -5714,6 +5760,7 @@ Best location to listen for S3 and S4 is the apex of the heart, or the 5th inter
 
 
 <auscultation-sites>
+[important]
 Pulmonic valve - left sternal border, 2nd intercostal 
 Aortic valve - right sternal bornder, 2nd intercostal 
 Erbs point - left sternal border, 3rd intercostal. 
@@ -5752,6 +5799,7 @@ This effect speculates that morning hyperglycemia is caused by a rebound effect 
 </Somogyi-effect>
 
 <hyperosmolar-hyperglycemic-syndrome>
+[important]
 Develops of several days to a week. 
 High mortality rate 5-10%.
 Triggered during times of stress on the body such as due to illness, usually due secretion of hormones that increase gluconeogenesis in the liver (such as cortisol, epinephrine and growth hormone). 
@@ -5762,11 +5810,13 @@ Treatment consists of IV fluids, insulin and potassium as the stores get low due
 </hyperosmolar-hyperglycemic-syndrome>
 
 <albuterol>
+[important]
 Raises insulin levels which shifts potassium into the cells. 
 </albuterol>
 
 
 <diabetic-ketoacidosis>
+[important]
 Mostly affects Type I diabetes. 
 Due to the breakdown of fatty acids as a response to glucase startvation from lack of insulin, acidic ketone bodies are released, resulting in metabolic acidosis. 
 Body tries to balance out the acidic blood by increasing the rate and depth of breaths, called Kussmaul breathing. 
@@ -5902,9 +5952,6 @@ Waist belt restraints: used when the client is trying to get out of bed or chair
 Most commoon sedative used for intation is etomidate.   
 </intubation>
 
-<Kernig-sign>
-Severe pain in the leg when trying to straighten it when it's bent at the knee, due to tense hamstrings. A sign of meningitis. 
-</Kernig-sign>
 
 <prednisone>
 A severe side effect is that it could lead to adrenal suppression and Addisoninan crisis, which could lead to sever hypotension. 
@@ -5935,11 +5982,12 @@ Enteric contact precautions are required for diarrheal infections such as C. dif
 American Acedemy of Pediatrics and Neonatology recommends the following algorithm to check a newborn: 
 Assess the newborns muscle tone and resiratory effort. 
 Clear secretions if necessary. 
-Assess the newborns hert rate to make sure it's at least 100 bpm. 
+Assess the newborns heart rate to make sure it's at least 100 bpm. 
 Provide positive pressure ventillation if heart rate is less than 100 bpm.  
 </newborn-assessment>
                 
 <maternal-serum-screen-4>
+[important]
 Screening blood test that is done at 14-21 weeks. 
 Detects 4 substances - alfafetoprotein, estriol, human chorionic gonadotropin, and inhibin A.  
 Detects neural tube defects, Down Syndrome (trisomy 21) and Edward's Syndrome (trisomy 18). 
@@ -5949,10 +5997,12 @@ If three parameters are low and inhibin is low as well then it could mean Edward
 </maternal-serum-screen-4>
 
 <sulfamethoxazole>
+[important]
 Dark colored urine is a common side effect.  
 </sulfamethoxazole>
 
 <burns>
+[important]
 Electrolyte and fluid imbalances are corrected based on the periods the patinet is in: 
 (1) Initial resuscitation (first 24 hours): 
 Due to changes in cellular permeability sodium enters the intracellular compartment, leading to hyponatremia, cellular damage leads to hyperkalemia. 
@@ -6144,6 +6194,7 @@ Prostate prolems do not contraindicate urinary catheterization, you just have to
 </urinary-catheter>
 
 <nephrotic-syndrome>
+[important]
 Massive proteinuria, protein lost is mostly albumin, of 3.5 grams or more, which leads to edema due to loss of oncotic pressure. 
 Loss of immune globulins in the urine leads to increased risk of infection. 
 Loss of antithrombin could lead to formation of blood clots. 
@@ -6151,9 +6202,10 @@ Hyperlipedimea could occur due to overproduction of lipids by the liver.
 </nephrotic-syndrome>
 
 <glomerulonephritis>
+[important]
 Characterized by inflammation and stenosis of the glomerulus. 
 Often occurs 5 days after an infection with group a streptococcal infection often due to a back up of antigen-antibody complexes in the glomerulus. 
-This causes oliguria which in turns turn fruid volume overload and hypertension.
+This causes oliguria which in turn turns into fluid volume overload and hypertension.
 Flank pain could be present. 
 </glomerulonephritis>
 
@@ -6170,11 +6222,13 @@ Some STIs like gonorrhea, syphilis, and chlamydia, must be reported to Pulic Hea
 </sexually-transmitted-infections>
 
 <goodpasture-syndrome>
+[important]
 Group of autoimmune illnesses that affect the lungs and kidneys. 
 Treatments include corticosteriods, plasmapharesis, and immunosuppression. 
 </goodpasture-syndrome> 
 
 <alport-sydrome>
+[important]
 Genetic disease characterized by kidney disease and bilateral kidney cysts, hearing loss, and eye abnormalities like retinal thinning. 
 </alport-sydrome>
 
@@ -6187,6 +6241,7 @@ Level of antibiotic reached right before the administration of the next dose.
 </antibiotic-trough>
 
 <credes-manuver>
+[important]
 Method for expressing urine from a paralyzed or flaccid bladder by pressing on the bladder. 
 </credes-manuver>
 
@@ -6195,6 +6250,7 @@ Dye is injected and X rays are taken of the kidneys and ureters and bladder.
 </intravenous-pyelogram>
 
 <saw-palmetto>
+[important]
 Used to treat benign-prostate-hyperplasia and is recommended by many urologists. 
 </saw-palmetto>
 
@@ -6209,13 +6265,15 @@ Maximum number attempts to insert a venous catheter is 2, after that another nur
 </intra-venous-therapy>
 
 <laxatives>
+[important]
 Bulk laxatives does not cause dependence, exmaple of a bulk laxatives are fiber and psyllium.
 Stimlulant laxatives, like bisacodyl and senna, cause dependence. 
 </laxatives>
 
 
 <total-parenteral-nutrition>
-IV tubing is changed with every ag change because high glucose levels accelerate bacterial growth. 
+[important]
+IV tubing is changed with every bag change because high glucose levels accelerate bacterial growth. 
 </total-parenteral-nutrition>
 
 <phlebitis>
@@ -6228,6 +6286,7 @@ Normal x-ray of the kideys, urters, and bladder.
 </kidney-ureter-bladder-scan>
 
 <urine-24-hour-collection>
+[important]
 Before beginning collection, ask the patient to void and discard that first sample. 
 Bladder must be empty prior to intiating collection. 
 </urine-24-hour-collection>
@@ -6237,11 +6296,11 @@ Kidney is higly vascular and so this procedure could result in hemorrhage.
 Must watch patient closely following the procedure. 
 </lithotripsy>
 
-<cholelithiasis>
+<nephrolithiasis>
 Renal colic could be so intense thath it causes vasovagal response and syncope. 
 Increase fluid intake to help pass the stones and reduce pain. 
 Pain assessment should be done for these patients first. 
-</cholelithiasis>
+</nephrolithiasis>
 
 <fidelity>
 Maintaining trust, including keeping information private. 
@@ -6260,8 +6319,9 @@ Assess safety plans.
 </spousal-abuse>
 
 <erythropoetin>
+[important]
 Adverse effect - high blood pressure`
-Side effect - longo bone pain. 
+Side effect - long bone pain. 
 </erythropoetin>
 
 <asolute-neutrophil-count>
@@ -6311,10 +6371,12 @@ A nurse who coordinates rehab and keeps the client informed.
 </case-manager>
 
 <living-will>
+[important]
 Requires two witnesses, the nurse cannot be a witness and nobody that works in the hospital could be a witness. 
 </living-will>
 
 <tonsillectomy>
+[important]
 Drooling is common, due to inflammation at the surgical site and difficulty in swallowing. 
 Frequent swallowing is a sign of bleeding and needs to be promptly assessed. 
 </tonsillectomy>
@@ -6323,6 +6385,7 @@ Frequent swallowing is a sign of bleeding and needs to be promptly assessed.
 
 
 <anorexia-nervosa>
+[important]
 Clients are usually orderly and obedient. 
 They are dependent on others. 
 They do well in school and achieve their goals. 
@@ -6336,6 +6399,7 @@ Palpate
 </abdominal-inspection>
 
 <pre-eclapsia>
+[important]
 System wide condition which presents as hypertension and proteinuria. 
 Blood pressure of 150/100 could be classified as moderate pre-eclampsia. 
 Generalized edema may be present in face, feet and hands. 
@@ -6343,6 +6407,7 @@ Headaches are not relieved by tylenol or motrin.
 </pre-eclapsia>
 
 <pregnancy-induced-hypertension>
+[important]
 Different from pre-eclampsia is that there is a rise in blood pressure without proteinuria. 
 Rarely presents before 20 weeks of gestation, usually in the second half of pregnancy. 
 </pregnancy-induced-hypertension>
@@ -6360,15 +6425,18 @@ Patients should be encouraged to chew and swallow with chin tucked down.
 </dysphagia>
 
 <metoclopromide>
+[important]
 Dopamine antagonist, used to improve gastric motility. Could trigger dystonia, which should be treated with dyphenhydramine or benzotropine. 
 </metoclopromide>
 
 <pediatric-intravenous-fluids>
-A fluid bolus is given over 10-15 minutes at a dose of 20mg/kg. 
+[important]
+A fluid bolus is given over 10-15 minutes at a dose of 20ml/kg. 
 Up to three boluses might be needed per hour to stabilize the patient. 
 </pediatric-intravenous-fluids>
 
 <aspirin>
+[important]
 Overdose leads to metabolic acidosis and pulmonary edema due to increase in capiallary permiablility and leakage of protein. 
 Should not be given to children as it risks Reye's syndrome.
 </aspirin>
@@ -6385,6 +6453,7 @@ Surgically implanted into the bladder and secured with surgical dressing.
 
 
 <blood-products>
+[important]
 Includes plasma and any kind of immune globulins. 
 Cannot be administered by an LPN. 
 </blood-products>
@@ -6394,25 +6463,30 @@ Results in breakdown of fetal red blood cells by the mother's immune system - ca
 </rheusus-reaction>
 
 <diarrhea>
+[important]
 There are a lot of bases (bicarbonates) in stool so large stool losses result in metabolic acidosis. 
 </diarrhea>
 
 <hepatic-encephalopathy>
+[important]
 Given Xifaxan (rifaximin) given to reduce ammonia producing bacteria in the gut and prevent encephalopathy.
 Lactulose traps ammonia in the colon and increases its transit. 
 Spironolactone is preferred for ascites because it is potassium sparing. Hypokalemia should be avoided as it aids production of ammonia. 
 </hepatic-encephalopathy>
 
 <proton-pump-inhibitors>
+[important]
 Could cause hypomagnesemia, magnesium supplements are recommended. 
 Linked to osteoporosis, recommend weight bearing exercises and calcium. 
 </proton-pump-inhibitors>
 
 <tizanidine>
+[important]
 Muscle relaxed used in treatment of multiple sclerosis. 
 </tizanidine>
 
 <rh-immunization>
+[important]
 Rh immunization happens when Rh negative mother is exposed to Rh positive fetal blood and starts making antibodies. 
 Indirect Coombs test - tests maternal blood to see if there are antibodies present or not. 
 Direct Coombs test - checks fetal blood to see if maternal antibodies are present on the infant's red blood cells. 
@@ -6424,6 +6498,7 @@ Black stools don't have to be reported.
 </iron-supplement>
 
 <cataract-surgery>
+[important]
 Most common surgery used to remove the cataracts is phacoemulsification - using ultrasonically vibrating probe to emulsify the lens material and a new lens is inserted. 
 After the procedure the patient should not lie on the side and should watch the IOP. 
 </cataract-surgery>
@@ -6452,6 +6527,7 @@ Water breaking is a sign of impending labor though.
 </impending-labor>
 
 <infant-crying>
+[important]
 Need to pick them up and cuddle them as soon as they start crying, it does not spoil them.
 </infant-crying>
 
@@ -6460,6 +6536,7 @@ Bicarbonate is lost through stool causing metabolic acidosis.
 </diarrhea>
 
 <endo-tracheal-suctioning>
+[important]
 Pressure for neonates: 60-80 mmHg 
 Pressure for infants: 80-100 
 Pressure for kids older than 3: 100-120
@@ -6467,29 +6544,34 @@ Adult pressure: less than 200
 </endo-tracheal-suctioning>
 
 <placenta-previa>
+[important]
 Occurs when the placenta covers the cervical os
 Painless bleeding with bright red blood
 Tocolytic agents such as nifedipine could be given to stop labor. 
 </placenta-previa>
 
 <abruptio-placentae>
+[important]
 Premature separation of placenta from uterine wall. 
 Painful bleeding with dark blood. 
 Vaginal delivery is still ok. 
 </abruptio-placentae>
 
 <tetrology-of-fallot>
+[important]
 In order to help with breathing sometimes ductus arteriosus is kept open using a synthetic prostaglandin, alprostadil. 
 In order to close the ductus arteriosus - indomethacin is used to constrict it. 
 During a tet spell a child might turn cyanotic and older children may squat - put the child on the side and pull the knees to the stomach to increase blood flow to lungs. 
 Propranalol could be used to manage a tet spell and morphine could be used to decrease vascular resistance and calm the infant during a spell. 
+Pathology consists of PROV: pulmonary stenosis, right ventricle hypertrophy, overriding aorta, ventral septal defect. 
 </tetrology-of-fallot>
 
 <angiotensin-converting-enzzyme-inhibitor>
+[important]
 May cause hyperkalemia, limit intake of potassium rich foods such as avocados, banannas, apricots, and legumes. 
 ACE inhibitors could decrease taste sensation, causing the clients to salt the food more. 
 Example drugs are lisinopril, enalapril, and captopril. 
-May become nephrotoxic, kidey function should be monitored.     
+May become nephrotoxic, kidey function should be monitored.      
 </angiotensin-converting-enzzyme-inhibitor>
 
 <sentinel-event>
@@ -6497,16 +6579,18 @@ An unexpected occurance resulting in death or serious injury. The word sentinel 
 </sentinel-event>
 
 <inability-to-pass-meconium>
+[important]
 If the infant has not passed meconium in 48 hours they might have Hirschsprungs-disease. 
-This presents diffrerently to cystic fibrosis as CF usually becomes apparent after a few hours, not 48 hours, due to bile emesis. 
+This presents differently to cystic fibrosis as CF usually becomes apparent after a few hours, not 48 hours, due to bile emesis. 
 </inability-to-pass-meconium>
 
 <calcium-channel-blocker-toxicity>
 Results in profound hypotension. 
-Treated with glucagon as it can in crease the heart rate and blood pressure disregarding the blocked caclium channels. 
+Treated with glucagon as it can increase the heart rate and blood pressure disregarding the blocked caclium channels. 
 </calcium-channel-blocker-toxicity>
 
 <emergency-medications>
+[important]
 Sodium Bicarbonate - given for severe acidosis - comes in ampules, given either through IV push or continuous infusion. 
 Epinephrine - given for anaphylaxis. IM route is preferred over IV. 
 Glucagon - used to treat hypoglycemia, as well as beta-blocker and calcium-channel-blocker toxicity. 
@@ -6520,6 +6604,7 @@ Is not transmitted from person to person or from animal to person.
 </anthrax>
 
 <central-venous-access>
+[important]
 Also known as a central venous port. 
 You have to assess the port using asceptic technique. 
 Flush the port with heparin prior to deaccess. 
@@ -6536,12 +6621,14 @@ Provide the client an eye patch to wear.
 </hyphema>
 
 <indomethacin>
+[important]
 NSAID. Used to relieve pain due to arthritis and gout. 
 Used for patent ductus arteriousos to close it. 
 Used as a first line tocolytic in preterm labor of less than 30 weeks.  
 </indomethacin>
 
 <hypoglycemia>
+[important]
 Rule of 15s: 
 If slight (a bit under 70) and the patient is fully alert, symptoms are: 
 Hunger, irritability, headache, feeling shaky, treatments are: 
@@ -6565,6 +6652,7 @@ Medication may be prescried for up to 12 weeks.
 </chantix>
 
 <mmr-vaccine>
+[important]
 People born prior to 1957 usually have a natural immunity already as they were most likely exposed to the diseases. 
 Allergy to neomycin is a contraindication to mmr vaccination. 
 Egg allergy is no longer a contraindication. 
@@ -6577,6 +6665,7 @@ Tell the patient they need to use another form of contraception for 7 days until
 </oral-contraceptives>
 
 <graves-disease>
+[important]
 Autoimmune disorder where anti-TSH antibodies are produced that stimulate those receptors. 
 Skin conditions such as pretibial myxedema - a bilateral rash on the tibia could be present. 
 Eye condition such as exapthalmos could be present. 
@@ -6587,11 +6676,13 @@ Before administering radiocative iodine a HCG blood test should be administered,
 </graves-disease>
 
 <right-sided-heart-failure>
+[important]
 Also called cor polmunale. 
 Leads to jugular vein distension, hepato and spleno megaly, peripheral edema, weight gain and ascites. 
 </right-sided-heart-failure>
 
 <air-embolism>
+[important]
 Could happen due to IV infussion ending and the pump still running. 
 Symptoms include tachycardia, hypotension, chest pain, difficulty breathing and cyanosis. 
 Replacement of IV infussion bottles with collapsible bags minimized the risk. 
@@ -6604,16 +6695,14 @@ When in decompensated and sever form, nitroglycerin could be used due its vasodi
 </heart-failure>
 
 <premature-rupture-of-membranes>
+[important]
 To determine if the fluid is indeed amniotic, use the nitrazine paper strips, which detect alkalinity. Since the amniotic fluid is alkaline, the strip will turn blue. 
 Internal vaginal examinations are contraindicated once membranes have ruptured.   
 </premature-rupture-of-membranes>
 
-
 <colectomy>
 Removal of all or a part of large intestine. The reminaining intestine could be connected to one another to avoid performing a colostomy. 
 </colectomy>
-
-
 
 <calcium>
 Regulates blood clotting, nerve impulse transmission and muscle contractions. 
@@ -6636,6 +6725,7 @@ To evaluate patient nutrition use the Patient Generated Subjective Global Assess
 </nutrition>
 
 <physiological-anemia>
+[important]
 Occurs during pregnancy due to increased plasma volume and dilution of hematocrit and hemoglobin. 
 Expecte hematocrit and hemoglobin to fall during pregnancy, it is normal. 
 Normal hemoglobin (pregnancy) > 11 gdL 
@@ -6643,6 +6733,7 @@ Normal hematocrit (pregnancy) > 33%
 </physiological-anemia>
 
 <herpes-zoster-vaccine>
+[important]
 Indicated after age 50 years old. 
 </herpes-zoster-vaccine>
 
@@ -6675,6 +6766,7 @@ Dullness - heard over organs filled with fluid like in pneumonia.
 
 
 <pregnancy-weight>
+[important]
 Pregnancy weight gain is crucial. Even if the client is obese before pregnancy, gaining weight is essential. 
 Weight gain of 3-6 pounds during the first trimerster is healthy. 
 Gaining 2 or more pounds during any week of pregnancy is considered high. 
@@ -6683,6 +6775,7 @@ Total weight gain during entire pregnancy should be between 25-35 pounds for nor
 </pregnancy-weight>
 
 <iron-rich-foods>
+[important]
 Eggs, wheat bread, carrots, green leafy vegies, raisins. 
 </iron-rich-foods>
 
@@ -6696,6 +6789,7 @@ Client is made to walk on a treadmill 1.5-2 miles per hour at 10-20% elevation.
 </stress-test>
 
 <doxycycline>
+[important]
 Tetracycline antibiotic, treats many infections like acne, urinary tract infections, gonorrhea, clamydia, syphyllis. 
 Interferes with birth control.
 Should be taken on empty stomach. 
@@ -6704,7 +6798,7 @@ Glossitis (inflamamtion of the tongue) and white coating on the tongue is a comm
 </doxycycline>
 
 <spinal-cord-injury>
-
+[important]
 Dorsar spinal column - sense of touch of proprioception
 Anterior spinal column - sense of pain and tempereature, movement of libms. 
 
@@ -6714,7 +6808,7 @@ Upper extremity deficit is more severe than lower extremity deficit.
 
 Posterior cord syndrome - loss of touch and proprioception below the level of injury. 
 Anterior cord syndrome - loss of movement, pain, and temperature below level of injury. 
-Brown Sequard syndrome - weakness or paralysis on ipsalateral side side (hemipelegia) and loss of touch and proprioception on the contralateral side (hemianesthesia).
+Brown Sequard syndrome - weakness or paralysis on ipsalateral side (hemipelegia) and loss of touch and proprioception on the contralateral side (hemianesthesia).
 </spinal-cord-injury>
 
 <electro-convulsive-therapy>
@@ -6733,7 +6827,7 @@ Low pressure causes: pt disconnected from vent; trach tube is not sufficiently i
 </low-pressure-vent>
 
 <fetal-heart-tones>
-Cannot be hearde with a doppler until 10-12 weeks of pregnancy. 
+Cannot be heard with a doppler until 10-12 weeks of pregnancy. 
 </fetal-heart-tones>
 
 <deep-vein-thrombosis>
@@ -6746,10 +6840,12 @@ Bowel prep is done to make nothing is obstructing the view.
 </pyelogram>
 
 <calcitonin>
+[important]
 Thyroid hormone that inhibits bone resorbption and lowers calcium levels. 
 </calcitonin>
 
 <doxorubicin>
+[important]
 Antineoplastic medication which is highly cardiotoxic. 
 </doxorubicin>
 
@@ -6758,7 +6854,7 @@ Anticholinergic appropriate for patients with urgency and incontinence.
 </oxybutinin>
 
 <pediatric-temperature>
-Not considered febrine until 38.0C
+Not considered febrine until 38.0C (100.4)
 </pediatric-temperature>
 
 <pediatric-urine-output>
@@ -6770,6 +6866,7 @@ Decreases calcium absorption from the GI tract.
 </prednisone>
 
 <stomatitis>
+[important]
 Avoid anything acidic or alcohol, use normal saline mouth rinses. 
 </stomatitis>
 
@@ -6778,6 +6875,7 @@ Watch out for diabetes insipidus.
 </hypophysectomy>
 
 <ventilators>
+[important]
 Modes:
 SIMV - synchronized intermittent mandatory volume - volume control mode - vent will deliver a mandartory number of breaths with a set volume, while at the same time allowing spontaneous breaths. 
 AC - Assist control mode - volume control mode - delivers a set tidal volume at set intervals or when patient takes a breath. 
@@ -6789,6 +6887,7 @@ Fraction Inspired Oxgen (FiO2) - percent of oxygen given per breath.
 </ventilators>
 
 <duodenal-vs-gastric-ulcer>
+[important]
 Gastric ulcer: 
 Upper left adomen pain, weight loss, nausea and vomiting
 Duodenal ulcer: 
@@ -6804,6 +6903,7 @@ Potassium reduced calcium excretion through the kidney, thus preveting formation
 </potassium-calcium>
 
 <Huntingson-disease>
+[important]
 Progressive neurodegenerative disease, hallmarks are chorea, memory problems, hallucinations, and weight loss due to excessive energy usage. 
 Chorea has a quickeneced pace to it and resemebles dancing. 
 </Huntingson-disease>
@@ -6817,6 +6917,7 @@ Elevate the arm carefully without moving the fracture too much.
 </compound-fracture>
 
 <Reys-syndrome>
+[important]
 Usually preceded by a bout of influenza the week prior. 
 </Reys-syndrome>
 
@@ -6828,6 +6929,7 @@ Common side effect is facial flushing.
 </niacin>
 
 <pediculosis-capitis>
+[important]
 Also known as lice.
 Permetherin should be applied twice, once when noticed and again in 7-10 days to prevent recurrance.   
 Remove the lice with a fine tooth comb once a day. 
@@ -6868,6 +6970,7 @@ Is not easily reversible in the future, or may not be reversile at all.
 </vasectomy>
 
 <percutaneous-endoscopic-gastrostomy>
+[important]
 If gastric residual is less than 200 feeding could be administered safely, as long as the abdomen is not disteneded and patient has bowel sounds.
 If no bowel sounds are present assess the abdomen for distension or tenderndess, and if not present then continue the feeding.  
 If residual is more than 200 but less than 500, feeding should continue but with caution for aspiration. 
@@ -6876,14 +6979,17 @@ Residual should be checked every 4 hours initially after commencing feeding for 
 </percutaneous-endoscopic-gastrostomy>
 
 <opioid-withdrawal>
+[important]
 Symptoms are fever, runny nose, nausea, vomiting and dilated pupils. 
 </opioid-withdrawal>
 
 <atrial-natriuretic-peptide>
+[important]
 Released by the atria and works opposite of aldosterone - causing excretion of sodium and lowering of blood pressure. 
 </atrial-natriuretic-peptide>
 
 <confusing-hormones>
+[important]
 Aldosterone vs Albumin vs Angiotensin vs Antidiuretic Hormone vs Atrial natriuretic peptide 
 </confusing-hormones>
 
@@ -6897,7 +7003,8 @@ Could be taken in patients with nasal canula or those that have ear aches.
 </oral-temperature>
 
 <newborn>
-Normal 32-38 head circumference
+[important]
+Normal 32-38cm head circumference
 Chest is 2-3 cm smaller than head. 
 </newborn>
 
@@ -6910,12 +7017,14 @@ Feeding that is insufficient to sustain someone nutritionally but producing a po
 </trophic-feeding>
 
 <phosphorus>
+[important]
 Major component of intracellular fluid, could be elvated when cells burst. 
 Inverse relationship with calcium, when calcium levels drop as in hypoparathyroidism phosphates tend to rise. 
 Kidneys eliminate phosphorus, so lowered kidney function causes elevated levels. 
 </phosphorus>
 
 <endo-tracheal-tube>
+[important]
 Could be used to administer medication. 
 Medications that could be given could be memorized using the NAVEL mnemonic.
 N - Naloxone, A - atropine, V - vasopressin, E - epinephrine, L - lidocaine. 
@@ -6935,7 +7044,13 @@ High pitched cry is not normal and may indicate increased ICP or withdrawl of a 
 </newborn>
 
 <apgar>
+[important]
 Done at 1 and 5 minutes. 
+A - appearance - 0 blue, 1 pink body blue extremities, 2 pink all over 
+P - pulse - 0 absent, 1 below 100, 2 above 100 
+G - grimace - 0 floppy, 1 minimal with stimulation, 2 strong cry with stimulation
+A - activity - 0 none, 1 weak, 2 well flexed and resisting extension
+R - respiration, 0 none, 1 slow and irregular, 2 vigorous and crying 
 </apgar>
 
 
